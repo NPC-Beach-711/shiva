@@ -2,15 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Contact – The National Petroleum Council</title>
+  <title>NPC Members – The National Petroleum Council</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="How to contact the National Petroleum Council regarding publications, meetings, and this website." />
+  <meta name="description"
+        content="Directory of National Petroleum Council members, including names, titles, organizations, and membership categories." />
   <link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body id="top">
 
-  <!-- ===== Header ===== -->
-<header class="site-header">
+  <!-- ===== Header (same pattern as About page) ===== -->
+  <header class="site-header">
     <div class="container">
       <div class="top-bar">
         <div class="logo-wrap">
@@ -34,32 +35,38 @@
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
-          >in</a>
+          >
+            in
+          </a>
           <a
             href="https://www.youtube.com/@NationalPetroleumCouncil"
             class="social-link social-link--yt"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="YouTube"
-          >▶</a>
+          >
+            ▶
+          </a>
         </div>
       </div>
     </div>
   </header>
 
-  <!-- ===== Announcement Bar ===== -->
+  <!-- ===== Announcement Bar (same as example) ===== -->
   <div class="announcement-bar">
     <a href="https://www.youtube.com/live/CnNdYBlI41c?si=jCLd9fdWUyuja_-y" target="_blank" rel="noopener noreferrer">
       Click here on December 3, 2025 at 9:00am to watch the 135th NPC Meeting LIVE
     </a>
   </div>
 
-  <!-- ===== Page Title ===== -->
-  <section class="hero hero--small">
+  <!-- ===== Page Title Band (hero) ===== -->
+  <section class="hero">
     <div class="container">
       <div class="hero-inner">
         <div class="hero-left">
-          <h1>Contact the National Petroleum Council</h1>
+          <h1>Council Membership Directory</h1>
+          <h2>This directory lists current members of the National Petroleum Council</h2>
+          </p>
         </div>
       </div>
     </div>
@@ -67,48 +74,49 @@
 
   <!-- ===== Main Content ===== -->
   <main>
-    <section class="legal-section">
+    <section class="members-directory-section">
       <div class="container">
-        <article class="legal-content">
 
-          <h2>General Contact</h2>
-          <p>
-            For questions regarding the National Petroleum Council, its publications, or this website,
-            you may contact:
-          </p>
+        <!-- Intro text (optional, can tweak or remove) -->
+        <header class="members-header">
+  
+        </header>
 
-          <p>
-            <strong>National Petroleum Council</strong><br />
-            Washington, DC<br />
-            Email:
-            <a href="mailto:info@npc.org"
-               data-ga-track="true"
-               data-ga-category="email"
-               data-ga-label="info@npc.org">
-              info@npc.org
-            </a>
-          </p>
+        <!-- Filters -->
+        <div class="members-controls">
+          <div class="filter-search">
+            <label for="memberSearch">Search</label>
+            <input
+              type="search"
+              id="memberSearch"
+              placeholder="Search by name, organization, or title..."
+            />
+          </div>
 
-          <h2>Media &amp; Public Inquiries</h2>
-          <p>
-            For media and public inquiries, please include your name, organization, and a brief
-            description of your request. NPC staff will respond as appropriate based on the
-            nature of the inquiry.
-          </p>
+          <div class="filter">
+            <label for="categoryFilter">Category</label>
+            <select id="categoryFilter">
+              <option value="">All categories</option>
+            </select>
+          </div>
+        </div>
 
-          <h2>Website Feedback</h2>
-          <p>
-            If you encounter broken links, accessibility issues, or have suggestions to
-            improve this microsite, please include “Website Feedback” in the subject line
-            of your email.
-          </p>
+        <!-- Members "table" (3 columns) -->
+        <div class="members-table">
+          <div class="members-table-header">
+            <div>Name &amp; Title</div>
+            <div>Organization</div>
+            <div>Category</div>
+          </div>
 
-        </article>
+          <div id="membersTableBody"></div>
+        </div>
+
       </div>
     </section>
   </main>
 
-  <!-- ===== Footer (shared) ===== -->
+  <!-- ===== Footer (same as example) ===== -->
   <footer>
     <div class="container">
       <div class="footer-inner">
@@ -129,8 +137,8 @@
     <script>
       document.getElementById("year").textContent = new Date().getFullYear();
     </script>
+    <script src="members.js"></script>
   </footer>
-
 
 </body>
 </html>
