@@ -559,10 +559,14 @@ nav a:focus-visible {
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
+  align-items: flex-start;
 }
 
+/* ✅ centered the cover within each card */
 .recent-report-cover-wrap {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.6rem;
+  max-width: 260px;
+  margin-inline: auto;
 }
 
 .recent-report-cover {

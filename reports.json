@@ -2,1476 +2,1755 @@
   {
     "year": "2024",
     "title": "Charting the Course: Reducing GHG Emissions from the U.S. Natural Gas Supply Chain",
-    "url": "ei.html#chart423"
+    "url": "ei.html#chart423",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2024",
     "title": "Harnessing Hydrogen: A Key Element of the U.S. Energy Future",
-    "url": "ei.html#hh423"
+    "url": "ei.html#hh423",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2022",
     "title": "Petroleum Market Developments – Progress and Actions to Increase Supply and Improve Resilience",
-    "url": "epandp.html#mktdev2022"
+    "url": "epandp.html#mktdev2022",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2022",
     "title": "Principles, and Oil & Gas Industry Initiatives and Technologies for Progressing to Net Zero",
-    "url": "eo.html#netzero2022"
+    "url": "eo.html#netzero2022",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2019",
     "title": "Meeting the Dual Challenge: A Roadmap to At-Scale Deployment of Carbon Capture, Use, and Storage",
-    "url": "https://dualchallenge.npc.org"
+    "url": "https://dualchallenge.npc.org",
+    "categories": [
+      "Environmental Issues",
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2019",
     "title": "Dynamic Delivery: America’s Evolving Oil and Natural Gas Transportation Infrastructure",
-    "url": "https://dynamicdelivery.npc.org"
+    "url": "https://dynamicdelivery.npc.org",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2019",
     "title": "Supplemental Assessment to the 2015 Report – Arctic Potential: Realizing the Promise of U.S. Arctic Oil and Gas Resources",
-    "url": "https://www.npcarcticreport.org"
+    "url": "https://www.npcarcticreport.org",
+    "categories": [
+      "Environmental Issues",
+      "Research",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2016",
     "title": "Emergency Preparedness Implementation Addendum",
-    "url": "epandp.html#ep2016"
+    "url": "epandp.html#ep2016",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2015",
     "title": "Arctic Potential: Realizing the Promise of U.S. Arctic Oil and Gas Resources",
-    "url": "https://www.npcarcticreport.org"
+    "url": "https://www.npcarcticreport.org",
+    "categories": [
+      "Environmental Issues",
+      "Research",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2014",
     "title": "Enhancing Emergency Preparedness for Natural Disasters – Government and Oil & Natural Gas Industry Actions to Prepare, Respond, and Recover",
-    "url": "epandp.html#ep2014"
+    "url": "epandp.html#ep2014",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2012",
     "title": "Advancing Technology for America's Transportation Future",
-    "url": "trans.html#ftf2012"
+    "url": "trans.html#ftf2012",
+    "categories": [
+      "Environmental Issues",
+      "Research",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2011",
     "title": "Prudent Development: Realizing the Potential of North America's Abundant Natural Gas and Oil Resources",
-    "url": "rd.html#nard2011"
+    "url": "rd.html#nard2011",
+    "categories": [
+      "Environmental Issues",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2008",
     "title": "One Year Later: An Update on Facing the Hard Truths about Energy",
-    "url": "https://npchardtruthsreport.org"
+    "url": "https://npchardtruthsreport.org",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2007",
     "title": "Facing the Hard Truths about Energy\nA comprehensive view to 2030 of global oil and natural gas",
-    "url": "https://npchardtruthsreport.org"
+    "url": "https://npchardtruthsreport.org",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2004",
-    "title": "Observations on Petroleum Product Supply\nA Supplement to the NPC Reports:\nU.S. Petroleum Product Supply Inventory Dynamics, 1998, and\nU.S. Petroleum Refining Assuring the Adequacy and Affordability of Cleaner Fuels, 2000",
-    "url": "../reports/refining.html#ref2004"
+    "title": "Observations on Petroleum Product Supply",
+    "url": "../reports/refining.html#ref2004",
+    "categories": [
+      "Refining",
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2003",
     "title": "Balancing Natural Gas Policy – Fueling the Demands of a Growing Economy",
-    "url": "../reports/ng.html"
+    "url": "../reports/ng.html",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2001",
     "title": "Securing Oil and Natural Gas Infrastructures In the New Economy",
-    "url": "../reports/epandp.html"
+    "url": "../reports/epandp.html",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "2000",
     "title": "U.S. Petroleum Refining – Assuring the Adequacy and Affordability of Cleaner Fuels",
-    "url": "../reports/refining.html#uspr2000"
+    "url": "../reports/refining.html#uspr2000",
+    "categories": [
+      "Environmental Issues",
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1999",
     "title": "Meeting the Challenges of the Nation’s Growing Natural Gas Demand",
-    "url": "../reports/ng.html#ng99"
+    "url": "../reports/ng.html#ng99",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1998",
     "title": "U.S. Petroleum Product Supply Inventory Dynamics",
-    "url": "../reports/storage.html#PSID98"
+    "url": "../reports/storage.html#PSID98",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1996",
     "title": "Issues for Interagency Consideration – A Supplement to the NPC’s Report: Future Issues – A View of U.S. Oil & Natural Gas to 2020",
-    "url": "../reports/eo.html#IFIC96"
+    "url": "../reports/eo.html#IFIC96",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1995",
     "title": "Research, Development, and Demonstration Needs of the Oil and Gas Industry",
-    "url": "Research.html#research1995"
+    "url": "Research.html#research1995",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1995",
     "title": "Future Issues – A View of U.S. Oil & Natural Gas to 2020",
-    "url": "../reports/eo.html#FI95"
+    "url": "../reports/eo.html#FI95",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1994",
     "title": "Marginal Wells",
-    "url": "../reports/rd.html#wells94"
+    "url": "../reports/rd.html#wells94",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1994",
     "title": "The Oil Pollution Act of 1990 - Issues and Solutions",
-    "url": "../reports/ei.html#topao"
+    "url": "../reports/ei.html#topao",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "U.S. Petroleum Refining - Meeting Requirements for Cleaner Fuels and Refineries",
-    "url": "../reports/refining.html#USPR93"
+    "url": "../reports/refining.html#USPR93",
+    "categories": [
+      "Environmental Issues",
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Executive Summary",
-    "url": "../reports/refining.html#USPR93es"
+    "url": "../reports/refining.html#USPR93es",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Volume I - Analyses & Results",
-    "url": "../reports/refining.html#USPR93v1"
+    "url": "../reports/refining.html#USPR93v1",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Volume II - General Information Appendices",
-    "url": "../reports/refining.html#USPR93v2"
+    "url": "../reports/refining.html#USPR93v2",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Volume III - Financial & Facilities Appendices",
-    "url": "../reports/refining.html#USPR93v3"
+    "url": "../reports/refining.html#USPR93v3",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Volume IV - Supply, Demand, & Logistics Appendix",
-    "url": "../reports/refining.html#USPR93v4"
+    "url": "../reports/refining.html#USPR93v4",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Volume V - Refining Capability Appendix",
-    "url": "../reports/refining.html#USPR93v5"
+    "url": "../reports/refining.html#USPR93v5",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1993",
     "title": "Volume VI - Survey Appendix",
-    "url": "../reports/refining.html#USPR93v6"
+    "url": "../reports/refining.html#USPR93v6",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "The Potential for Natural Gas in the United States",
-    "url": "../reports/ng.html#NG92"
+    "url": "../reports/ng.html#NG92",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Executive Summary",
-    "url": "../reports/ng.html#NG92es"
+    "url": "../reports/ng.html#NG92es",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Volume I - Summary",
-    "url": "../reports/ng.html#NG92v1"
+    "url": "../reports/ng.html#NG92v1",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Volume II - Source and Supply",
-    "url": "../reports/ng.html#NG92v2"
+    "url": "../reports/ng.html#NG92v2",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Volume III - Demand and Distribution",
-    "url": "../reports/ng.html#NG92v3"
+    "url": "../reports/ng.html#NG92v3",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Volume IV - Transmission and Storage",
-    "url": "../reports/ng.html#NG92v4"
+    "url": "../reports/ng.html#NG92v4",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Volume V - Regulatory and Policy Issues",
-    "url": "../reports/ng.html#NG92v5"
+    "url": "../reports/ng.html#NG92v5",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1992",
     "title": "Volume VI - Model Documentation and Results",
-    "url": "../reports/ng.html#NG92v6"
+    "url": "../reports/ng.html#NG92v6",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1991",
     "title": "Industry Assistance to Government - Methods for Providing Petroleum Industry Expertise During Emergencies",
-    "url": "../reports/epandp.html#IATG91"
+    "url": "../reports/epandp.html#IATG91",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1991",
     "title": "Short-Term Petroleum Outlook - An Examination of Issues and Projections",
-    "url": "../reports/epandp.html#stpo91"
+    "url": "../reports/epandp.html#stpo91",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1989",
     "title": "Petroleum Storage & Transportation",
-    "url": "../reports/trans.html#pstc89"
+    "url": "../reports/trans.html#pstc89",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1989",
     "title": "Volume I - Executive Summary",
-    "url": "../reports/trans.html#pstc89v1"
+    "url": "../reports/trans.html#pstc89v1",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1989",
     "title": "Volume II - System Dynamics",
-    "url": "../reports/trans.html#pstc89v2"
+    "url": "../reports/trans.html#pstc89v2",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1989",
     "title": "Volume III - Natural Gas Transportation",
-    "url": "../reports/trans.html#pstc89v3"
+    "url": "../reports/trans.html#pstc89v3",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1989",
     "title": "Volume IV - Petroleum Inventories and Storage",
-    "url": "../reports/trans.html#pstc89v4"
+    "url": "../reports/trans.html#pstc89v4",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1989",
     "title": "Volume V - Petroleum Liquids Transportation",
-    "url": "../reports/trans.html#pstc89v5"
+    "url": "../reports/trans.html#pstc89v5",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1988",
     "title": "Integrating R&D Efforts",
-    "url": "Research.html#r_d1988"
+    "url": "Research.html#r_d1988",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1987",
     "title": "Factors Affecting U.S. Oil & Gas Outlook (10.2 MB)",
-    "url": "../reports/eo.html#fausogo87"
+    "url": "../reports/eo.html#fausogo87",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1986",
     "title": "U.S. Petroleum Refining",
-    "url": "refining.html#uspr86"
+    "url": "refining.html#uspr86",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1986",
     "title": "U.S. Oil & Gas Outlook (Interim Report)",
-    "url": "1986-US_Oil_n_Gas_Outlook-Interim_Report.pdf"
+    "url": "1986-US_Oil_n_Gas_Outlook-Interim_Report.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1984",
     "title": "The Strategic Petroleum Reserve: A Report on the Capability to Distribute SPR Oil",
-    "url": "../reports/spr.html#tspr:arotctdspro"
+    "url": "../reports/spr.html#tspr:arotctdspro",
+    "categories": [
+      "Strategic Petroleum Reserve"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1984",
     "title": "Enhanced Oil Recovery",
-    "url": "../reports/rd.html#eor84"
+    "url": "../reports/rd.html#eor84",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1984",
     "title": "Petroleum Inventories and Storage Capacity (Full Report)",
-    "url": "../reports/storage.html#pisc84a"
+    "url": "../reports/storage.html#pisc84a",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1983",
     "title": "Petroleum Inventories and Storage Capacity (Interim Report)",
-    "url": "../reports/storage.html#pisc83"
+    "url": "../reports/storage.html#pisc83",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1982",
     "title": "Environmental Conservation (Full Report)",
-    "url": "../reports/ei.html#EC"
+    "url": "../reports/ei.html#EC",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1982",
     "title": "Third World Petroleum Development: A Statement of Principles",
-    "url": "../reports/rd.html#twpd82"
+    "url": "../reports/rd.html#twpd82",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1981",
     "title": "Emergency Preparedness",
-    "url": "../reports/epandp.html#ep81"
+    "url": "../reports/epandp.html#ep81",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1981",
     "title": "Environmental Conservation (Overview)",
-    "url": "../reports/ei.html#EC"
+    "url": "../reports/ei.html#EC",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1981",
     "title": "U.S. Arctic Oil & Gas",
-    "url": "../reports/rd.html#usaoag81"
+    "url": "../reports/rd.html#usaoag81",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Unconventional Gas Sources",
-    "url": "../reports/rd.html#rd1980unconvgas"
+    "url": "../reports/rd.html#rd1980unconvgas",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Interim Summary",
-    "url": "../reports/rd.html#ugs80int"
+    "url": "../reports/rd.html#ugs80int",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Volume I - Executive Summary",
-    "url": "../reports/rd.html#ugs81v1"
+    "url": "../reports/rd.html#ugs81v1",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Volume II - Coal Seams",
-    "url": "../reports/rd.html#ugs81v2"
+    "url": "../reports/rd.html#ugs81v2",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Volume III - Devonian Shale",
-    "url": "../reports/rd.html#ugs81v3"
+    "url": "../reports/rd.html#ugs81v3",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Volume IV - Geopressured Brines",
-    "url": "../reports/rd.html#ugs81v4"
+    "url": "../reports/rd.html#ugs81v4",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Volume V, Part 1 - Tight Gas Reservoirs",
-    "url": "../reports/rd.html#ugs81v5a"
+    "url": "../reports/rd.html#ugs81v5a",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Volume V, Part 2 - Tight Gas Reservoirs",
-    "url": "../reports/rd.html#ugs81v5b"
+    "url": "../reports/rd.html#ugs81v5b",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1980",
     "title": "Refinery Flexibility",
-    "url": "../reports/refining.html#rf"
+    "url": "../reports/refining.html#rf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Materials & Manpower Requirements for U.S. Oil & Gas Exploration & Production 1979-1990 (9.6 MB)",
-    "url": "1979-Materials_and_Manpower_Requirements_for_US_Oil_and_Gas_Exploration-Production-1979-90.pdf"
+    "url": "1979-Materials_and_Manpower_Requirements_for_US_Oil_and_Gas_Exploration-Production-1979-90.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Petroleum Storage & Transportation Capacities Volume I - Executive Summary (2.8 MB)",
-    "url": "petrol_storage_transport-1979-v1-Exec_Summary.pdf"
+    "url": "petrol_storage_transport-1979-v1-Exec_Summary.pdf",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Petroleum Storage & Transportation Capacities Volume II - Inventory and Storage (4.9 MB)",
-    "url": "petrol_storage_transport-1979-v2-Inventory_and_Storage.pdf"
+    "url": "petrol_storage_transport-1979-v2-Inventory_and_Storage.pdf",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Petroleum Storage & Transportation Capacities Volume III - Petroleum Pipelines (11.9 MB)",
-    "url": "petrol_storage_transport-1979-v3-Petroleum_Pipelines.pdf"
+    "url": "petrol_storage_transport-1979-v3-Petroleum_Pipelines.pdf",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Petroleum Storage & Transportation Capacities Volume IV - Tank Cars and Trucks (2.2 MB)",
-    "url": "petrol_storage_transport-1979-v4-Tank_Cars_and_Trucks.pdf"
+    "url": "petrol_storage_transport-1979-v4-Tank_Cars_and_Trucks.pdf",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Petroleum Storage & Transportation Capacities Volume V - Waterborne (2.8 MB)",
-    "url": "petrol_storage_transport-1979-v5-Waterborne.pdf"
+    "url": "petrol_storage_transport-1979-v5-Waterborne.pdf",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Petroleum Storage & Transportation Capacities Volume VI - Gas Pipelines (6.6 MB)",
-    "url": "petrol_storage_transport-1979-v6-Gas_Pipelines.pdf"
+    "url": "petrol_storage_transport-1979-v6-Gas_Pipelines.pdf",
+    "categories": [
+      "Storage",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Refinery Flexibility - An Interim Report - Volume I (7.8 MB)",
-    "url": "1979-Refinery_Flexibility-Interim_Report-Vol_I.pdf"
+    "url": "1979-Refinery_Flexibility-Interim_Report-Vol_I.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1979",
     "title": "Refinery Flexibility - An Interim Report - Volume II (41.5 MB)",
-    "url": "1979-Refinery_Flexibility-Interim_Report-Vol_II.pdf"
+    "url": "1979-Refinery_Flexibility-Interim_Report-Vol_II.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1976",
     "title": "Enhanced Oil Recovery (38.2 MB)",
-    "url": "1976-Enhanced_Oil_Recovery.pdf"
+    "url": "1976-Enhanced_Oil_Recovery.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1975",
     "title": "Ocean Petroleum Resources",
-    "url": "1975-Ocean_Petroleum_Resources.pdf"
+    "url": "1975-Ocean_Petroleum_Resources.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1975",
     "title": "Petroleum Storage for National Security (3.8 MB)",
-    "url": "1975-Petroleum_Storage_for_National_Security.pdf"
+    "url": "1975-Petroleum_Storage_for_National_Security.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1975",
     "title": "Potential for Energy Conservation in the United States: 1979-1985 (3.7 MB)",
-    "url": "1975-Potential_for_Energy_Conservation_in_US-1979-85.pdf"
+    "url": "1975-Potential_for_Energy_Conservation_in_US-1979-85.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Availability of Materials, Manpower and Equipment for the Exploration, Drilling and Production of Oil 1974-1976 - Summary",
-    "url": "1974-Availability-Materials_Manpower_and_Equipment_for_Exploration_Drilling_and_Production_of_Oil_1974-1976-Summary.pdf"
+    "url": "1974-Availability-Materials_Manpower_and_Equipment_for_Exploration_Drilling_and_Production_of_Oil_1974-1976-Summary.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Availability of Materials, Manpower and Equipment for the Exploration, Drilling and Production of Oil 1974-1976 (4 MB)",
-    "url": "1974-Availability_of_Materials_Manpower_and_Equipment_for_Exploration_Drilling_Production_of_Oil_1974-76.pdf"
+    "url": "1974-Availability_of_Materials_Manpower_and_Equipment_for_Exploration_Drilling_Production_of_Oil_1974-76.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Emergency Preparedness for the Interruption of Petroleum Imports into the United States - Summary",
-    "url": "1974-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports_into_US-Summary.pdf"
+    "url": "1974-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports_into_US-Summary.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Emergency Preparedness for the Interruption of Petroleum Imports into the United States",
-    "url": "1974-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports_into_US.pdf"
+    "url": "1974-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports_into_US.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Petroleum Storage Capacity",
-    "url": "1974-Petroleum_Storage_Capacity.pdf"
+    "url": "1974-Petroleum_Storage_Capacity.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Potential for Energy Conservation in the United States 1974-1978 - Summary Report",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Summary_Report.pdf"
+    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Summary_Report.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Potential for Energy Conservation in the United States 1974-1978 - Electric Utility",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Electric_Utility.pdf"
+    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Electric_Utility.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Potential for Energy Conservation in the United States 1974-1978 - Industrial",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Industrial.pdf"
+    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Industrial.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Potential for Energy Conservation in the United States 1974-1978 - Residential/Commercial",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Residential_Commercial.pdf"
+    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Residential_Commercial.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Potential for Energy Conservation in the United States 1974-1978 - Transportation (4.3 MB)",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Transportation.pdf"
+    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Transportation.pdf",
+    "categories": [
+      "Energy Outlook",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1974",
     "title": "Short-Term U.S. Petroleum Outlook - A Reappraisal",
-    "url": "1974-Short_Term_US_Petroleum_Outlook-A_Reappraisal.pdf"
+    "url": "1974-Short_Term_US_Petroleum_Outlook-A_Reappraisal.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Law of the Sea - Particular Aspects Affecting the Petroleum Industry",
-    "url": "1973-Law_of_the_Sea.pdf"
+    "url": "1973-Law_of_the_Sea.pdf",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Factors Affecting U.S. Petroleum Refining - A Summary (3.9 MB)",
-    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Summary.pdf"
+    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Summary.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Factors Affecting U.S. Petroleum Refining - Final Report (5.6 MB)",
-    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Final_Report.pdf"
+    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Final_Report.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Factors Affecting U.S. Petroleum Refining - Impact of New Technology",
-    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Impact_of_New_Tech.pdf"
+    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Impact_of_New_Tech.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Emergency Preparedness for Interruption of Petroleum into the United States - Interim Report",
-    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Interim Report.pdf"
+    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Interim Report.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Emergency Preparedness for Interruption of Petroleum into the United States - Supplemental Interim Report",
-    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Supplemental_Interim_Report.pdf"
+    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Supplemental_Interim_Report.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1973",
     "title": "Emergency Preparedness for Interruption of Petroleum into the United States - Supplemental Interim Report Papers",
-    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Supplemental_Papers.pdf"
+    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Supplemental_Papers.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "Environmental Conservation -The Oil and Gas Industries, Volume II (9.3 MB)",
-    "url": "1972-Environmental_Conservation-Oil_and_Gas_Industries-Vol_II.pdf"
+    "url": "1972-Environmental_Conservation-Oil_and_Gas_Industries-Vol_II.pdf",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook -A Summary Report of the National Petroleum Council (10.4 MB)",
-    "url": "1972-US_Energy_Outlook-Summary.pdf"
+    "url": "1972-US_Energy_Outlook-Summary.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook -A Report of the National Petroleum Council’s Committee on U.S. Energy Outlook (6.5 MB)",
-    "url": "1972-US_Energy_Outlook-Full_Report.pdf"
+    "url": "1972-US_Energy_Outlook-Full_Report.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Coal Availability (6.9 MB)",
-    "url": "1972-US_Energy_Outlook-Coal_Availability.pdf"
+    "url": "1972-US_Energy_Outlook-Coal_Availability.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Energy Demand",
-    "url": "1972-US_Energy_Outlook-Energy_Demand.pdf"
+    "url": "1972-US_Energy_Outlook-Energy_Demand.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Fuels for Electricity",
-    "url": "1972-US_Energy_Outlook-Fuels_for_Electricity.pdf"
+    "url": "1972-US_Energy_Outlook-Fuels_for_Electricity.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Gas Demand",
-    "url": "1972-US_Energy_Outlook-Gas_Demand.pdf"
+    "url": "1972-US_Energy_Outlook-Gas_Demand.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Gas Transportation (19.4 MB)",
-    "url": "1972-US_Energy_Outlook-Gas_Transportation.pdf"
+    "url": "1972-US_Energy_Outlook-Gas_Transportation.pdf",
+    "categories": [
+      "Energy Outlook",
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - New Energy Forms (8 MB)",
-    "url": "1972-US_Energy_Outlook-New_Energy_Forms.pdf"
+    "url": "1972-US_Energy_Outlook-New_Energy_Forms.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Nuclear Energy Availability (6.5 MB)",
-    "url": "1972-US_Energy_Outlook-Nuclear_Energy_Availability.pdf"
+    "url": "1972-US_Energy_Outlook-Nuclear_Energy_Availability.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Oil and Gas Availability (12.2 MB)",
-    "url": "1972-US_Energy_Outlook_Oil_and_Gas_Availability.pdf"
+    "url": "1972-US_Energy_Outlook_Oil_and_Gas_Availability.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Oil Shale Availability (3.9 MB)",
-    "url": "1972-US_Energy_Outlook-Oil_Shale_Availability.pdf"
+    "url": "1972-US_Energy_Outlook-Oil_Shale_Availability.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "U.S. Energy Outlook - Water Availability",
-    "url": "1972-US_Energy_Outlook-Water_Availability.pdf"
+    "url": "1972-US_Energy_Outlook-Water_Availability.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1972",
     "title": "Guide to National Petroleum Council Report on U.S. Energy Outlook",
-    "url": "1972-Guide_to_NPC_Report-US_Energy_Outlook.pdf"
+    "url": "1972-Guide_to_NPC_Report-US_Energy_Outlook.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1971",
     "title": "Environmental Conservation -The Oil and Gas Industries, Volume I (32.6 MB)",
-    "url": "1971-Environmental_Conservation-_Oil_and_Gas_Industries-Vol_I.pdf"
+    "url": "1971-Environmental_Conservation-_Oil_and_Gas_Industries-Vol_I.pdf",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1971",
     "title": "Petroleum Resources Under the Ocean Floor - Supplemental Report (9.6 MB)",
-    "url": "1971-Ocean_Resources_Under_Ocean_Floor-Supplemental_Report.pdf"
+    "url": "1971-Ocean_Resources_Under_Ocean_Floor-Supplemental_Report.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1971",
     "title": "U.S. Energy Outlook - An Initial Appraisal (1971-1985), Volume I (10.4 MB)",
-    "url": "1971-US_Energy_Outlook-An_Initial_Appraisal-Interim_Vol_I.pdf"
+    "url": "1971-US_Energy_Outlook-An_Initial_Appraisal-Interim_Vol_I.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1971",
     "title": "U.S. Energy Outlook - An Initial Appraisal (1971-1985), Volume II (135.3 MB)",
-    "url": "1971-US_Energy_Outlook-An_Initial_Appraisal-Interim_Vol_II.pdf"
+    "url": "1971-US_Energy_Outlook-An_Initial_Appraisal-Interim_Vol_II.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1970",
     "title": "Capacity of Crude Oil Gathering Systems and Deep-Water Terminals (8.2 MB)",
-    "url": "1970-Capacity_of_Crude_Oil_Gathering_Systems-Deep_Water_Terminals.pdf"
+    "url": "1970-Capacity_of_Crude_Oil_Gathering_Systems-Deep_Water_Terminals.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1970",
     "title": "Current Key Issues Relating to Environmental Conservation -The Oil and Gas Industries (3.3 MB)",
-    "url": "1970-Current_Key_Issues_Relating_to_Environmental_Conservation-Oil_n_Gas_Industries-Interim.pdf"
+    "url": "1970-Current_Key_Issues_Relating_to_Environmental_Conservation-Oil_n_Gas_Industries-Interim.pdf",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1970",
     "title": "Future Petroleum Provinces in the United States -A Summary (21.6 MB)",
-    "url": "1970-Future_Petroleum_Provinces_in_US-Summary.pdf"
+    "url": "1970-Future_Petroleum_Provinces_in_US-Summary.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1970",
     "title": "Short-Term Fuel Oil Outlook (28.4 MB)",
-    "url": "1970-Short_Term_Fuel_Oil_Outlook.pdf"
+    "url": "1970-Short_Term_Fuel_Oil_Outlook.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1970",
     "title": "U.S. Petroleum Inventories and Storage Capacity (7.9 MB)",
-    "url": "1970-US_Petroleum_Inventories_and_Storage_Capacity.pdf"
+    "url": "1970-US_Petroleum_Inventories_and_Storage_Capacity.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1969",
     "title": "Materials Requirements for Petroleum Exploration and Production (22.7 MB)",
-    "url": "1969-Materials_Requirements_for_Petroleum_Exploration_and_Production.pdf"
+    "url": "1969-Materials_Requirements_for_Petroleum_Exploration_and_Production.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1969",
     "title": "List of Key Occupations in the Petroleum and Natural Gas Industries (8.1 MB)",
-    "url": "1969-List_of_Key_Occupations_in_Petroleum_and_NatGas_Industries.pdf"
+    "url": "1969-List_of_Key_Occupations_in_Petroleum_and_NatGas_Industries.pdf",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1969",
     "title": "Skills and Occupations of People in the United States Oil and Gas Industries (13.8 MB)",
-    "url": "1969-Skills_and_Occupations_of_People_in_US_Oil_and_Gas_Industries.pdf"
+    "url": "1969-Skills_and_Occupations_of_People_in_US_Oil_and_Gas_Industries.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1969",
     "title": "Petroleum Resources Under the Ocean Floor (24.7 MB)",
-    "url": "1969-Petroleum_Resources_Under_the_Ocean_Floor.pdf"
+    "url": "1969-Petroleum_Resources_Under_the_Ocean_Floor.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1969",
     "title": "U.S. Petroleum Imports (7.6 MB)",
-    "url": "1969-US_Petroleum_Imports.pdf"
+    "url": "1969-US_Petroleum_Imports.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1968",
     "title": "Impact of New Technology on the U.S. Petroleum Industry (1946-1965) (60.6 MB)",
-    "url": "1968-Impact_of_New_Technology_on_US_Petroleum_Industry-1946-65.pdf"
+    "url": "1968-Impact_of_New_Technology_on_US_Petroleum_Industry-1946-65.pdf",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1968",
     "title": "Petroleum Resources Under the Ocean Floor (Interim Report)",
-    "url": "1968-Petroleum_Resources_Under_Ocean_Floor-Interim.pdf"
+    "url": "1968-Petroleum_Resources_Under_Ocean_Floor-Interim.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1967",
     "title": "Factors Affecting U.S. Exploration, Development and Production (1946-1965) (90.6 MB)",
-    "url": "1967-Factors_Affecting_US_Exploration-Development_and_Production-1946-65.pdf"
+    "url": "1967-Factors_Affecting_US_Exploration-Development_and_Production-1946-65.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1967",
     "title": "U.S. Petroleum and Gas Transportation Capacities (24.9 MB)",
-    "url": "1967-US_Petroleum_and_Gas_Transportation_Capacities.pdf"
+    "url": "1967-US_Petroleum_and_Gas_Transportation_Capacities.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1966",
     "title": "Critical Materials Requirements for Petroleum Refining",
-    "url": "1966-Critical_Materials_Requirements_for_Petroleum_Refining.pdf"
+    "url": "1966-Critical_Materials_Requirements_for_Petroleum_Refining.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1966",
     "title": "Estimated Productive Capacities of Crude Oil, Natural Gas and Natural Gas Liquids in the United States (1965-1970)",
-    "url": "1966-Estimated_Productive_Capacities_of_Crude_Oil-Natural_Gas-NatGas_Liquids_in_US-1965-70.pdf"
+    "url": "1966-Estimated_Productive_Capacities_of_Crude_Oil-Natural_Gas-NatGas_Liquids_in_US-1965-70.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1966",
     "title": "Impact of Electric Power Outages on Petroleum Industry Facilities",
-    "url": "1966-Impact_of_Electric_Power_Outages_on_Petroleum_Industry_Facilities.pdf"
+    "url": "1966-Impact_of_Electric_Power_Outages_on_Petroleum_Industry_Facilities.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1966",
     "title": "Participation in the Water for Peace Program",
-    "url": "1966-Participation_in_Water-For-Peace_Program.pdf"
+    "url": "1966-Participation_in_Water-For-Peace_Program.pdf",
+    "categories": [
+      "Environmental Issues"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1966",
     "title": "Petroleum Policies for the United States",
-    "url": "1966-Petroleum_Policies_for_United_States.pdf"
+    "url": "1966-Petroleum_Policies_for_United_States.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1966",
     "title": "What is the Emergency Petroleum and Gas Administration?",
-    "url": "1966-What_is_Emergency_Petroleum_and_Gas_Administration.pdf"
+    "url": "1966-What_is_Emergency_Petroleum_and_Gas_Administration.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1965",
     "title": "Emergency Fuel Convertibility (3.3 MB)",
-    "url": "1965-Emergency_Fuel_Convertibility.pdf"
+    "url": "1965-Emergency_Fuel_Convertibility.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1965",
     "title": "Proved Discoveries and Productive Capacity of Crude Oil, Natural Gas and Natural Gas Liquids in the United States (4.2 MB)",
-    "url": "1965-Proved_Discoveries-Productive Capacity_Crude_Oil-NatGas-NatGas_Liquids_in_US.pdf"
+    "url": "1965-Proved_Discoveries-Productive Capacity_Crude_Oil-NatGas-NatGas_Liquids_in_US.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1964",
     "title": "Civil Defense and Emergency Planning for the Petroleum and Gas Industries Volume I (49 MB)",
-    "url": "1964-Civil_Defense_and_Emergency_Planning_for_Petroleum_and_Gas_Industries-Vol_I.pdf"
+    "url": "1964-Civil_Defense_and_Emergency_Planning_for_Petroleum_and_Gas_Industries-Vol_I.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1964",
     "title": "Civil Defense and Emergency Planning for the Petroleum and Gas Industries Volume II (12.6 MB)",
-    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_II.pdf"
+    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_II.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1964",
     "title": "Impact of Oil Exports from the Soviet Bloc (Supplement) (24.3 MB)",
-    "url": "1964-Impact_of_Oil_Exports_from_Soviet_Bloc-Supplement.pdf"
+    "url": "1964-Impact_of_Oil_Exports_from_Soviet_Bloc-Supplement.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1964",
     "title": "Petroleum and Gas in a National Emergency (An Analysis of Government Planning) (17.2 MB)",
-    "url": "1964-Petroleum_and_Gas_in_National_Emergency-Analysis_of_Govt_Planning.pdf"
+    "url": "1964-Petroleum_and_Gas_in_National_Emergency-Analysis_of_Govt_Planning.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1964",
     "title": "Petroleum and Gas in a National Emergency (Supplement) (3.2 MB)",
-    "url": "1964-Petroleum_and_Gas_in_National_Emergency-Supplement.pdf"
+    "url": "1964-Petroleum_and_Gas_in_National_Emergency-Supplement.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1963",
     "title": "Chemical Manufacturing Facilities of the Petroleum and Natural Gas Industries",
-    "url": "1963-Chemical_Manufacturing_Facilities_of_Petroleum_and_NG_Industries.pdf"
+    "url": "1963-Chemical_Manufacturing_Facilities_of_Petroleum_and_NG_Industries.pdf",
+    "categories": [
+      "Natural Gas",
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1963",
     "title": "Materials Requirements for Oil and Gas Exploration, Drilling and Production",
-    "url": "1963-Materials_Requirements-Oil_and_Gas_Exploration-Drilling-Production.pdf"
+    "url": "1963-Materials_Requirements-Oil_and_Gas_Exploration-Drilling-Production.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1963",
     "title": "Petroleum and Gas Industries Manpower Requirements (10.8 MB)",
-    "url": "1963-Petroleum_and_Gas_Industry_Manpower_Requirements.pdf"
+    "url": "1963-Petroleum_and_Gas_Industry_Manpower_Requirements.pdf",
+    "categories": [
+      "Natural Gas",
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1963",
     "title": "Petroleum Storage Capacity",
-    "url": "1963-Petroleum_Storage_Capacity.pdf"
+    "url": "1963-Petroleum_Storage_Capacity.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1962",
     "title": "Impact of Oil Exports from the Soviet Bloc Volume I (14.8 MB)",
-    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_I.pdf"
+    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_I.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1962",
     "title": "Impact of Oil Exports from the Soviet Bloc Volume II (33.8 MB)",
-    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_II.pdf"
+    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_II.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1962",
     "title": "Oil and Gas Transportation Facilities (7.3 MB)",
-    "url": "1962-Oil-Gas_Transportation_Facilities.pdf"
+    "url": "1962-Oil-Gas_Transportation_Facilities.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1961",
     "title": "Maintenance and Chemical Requirements for U.S. Petroleum Refineries and Natural Gasoline Plants (7 MB)",
-    "url": "1961-Maintenance_and_Chemical_Requirements_for_US_Petroleum_Refineries-Natural_Gas_Plants.pdf"
+    "url": "1961-Maintenance_and_Chemical_Requirements_for_US_Petroleum_Refineries-Natural_Gas_Plants.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1961",
     "title": "Proved Discoveries and Productive Capacity of Crude Oil, Natural Gas and Natural Gas Liquids in the United States",
-    "url": "1961-Proved_Discoveries_and_Productive_Capacity-Crude_Oil-Natural_Gas-Natural_Gas_Liquids_in_US.pdf"
+    "url": "1961-Proved_Discoveries_and_Productive_Capacity-Crude_Oil-Natural_Gas-Natural_Gas_Liquids_in_US.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1961",
     "title": "The National Petroleum Council – A Unique Experience in Government-Industry Cooperation: The First Seven Years, 1946-1953 (38.2 MB)",
-    "url": "1961-A_Unique_Experience_in_Government-Industry_Cooperation_1946-63.pdf"
+    "url": "1961-A_Unique_Experience_in_Government-Industry_Cooperation_1946-63.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1960",
     "title": "Petroleum Industry Use of the Radio Spectrum (Final Report)",
-    "url": "1960-Petroleum_Industry_Use_of_Radio_Spectrum.pdf"
+    "url": "1960-Petroleum_Industry_Use_of_Radio_Spectrum.pdf",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1960",
     "title": "Petroleum Storage Facilities",
-    "url": "1960-Petroleum_Storage_Facilities.pdf"
+    "url": "1960-Petroleum_Storage_Facilities.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1959",
     "title": "National Emergency Oil and Gas Mobilization",
-    "url": "1959-National_Emergency_Oil_and_Gas_Mobilization.pdf"
+    "url": "1959-National_Emergency_Oil_and_Gas_Mobilization.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1959",
     "title": "Petroleum Industry’s Use of the Radio Spectrum (Interim Report)",
-    "url": "1959-Use_of_Radio_and_Radar-Interim.pdf"
+    "url": "1959-Use_of_Radio_and_Radar-Interim.pdf",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1958",
     "title": "Petroleum Transportation",
-    "url": "1958-Petroleum_Transportation.pdf"
+    "url": "1958-Petroleum_Transportation.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1957",
     "title": "Availability of Liquefied Petroleum Gas",
-    "url": "1957-Availability_of_Liquefied_Petroleum_Gas.pdf"
+    "url": "1957-Availability_of_Liquefied_Petroleum_Gas.pdf",
+    "categories": [
+      "Natural Gas"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1957",
     "title": "Petroleum Productive Capacity",
-    "url": "1957-Petroleum_Productive_Capacity-Oct_3.pdf"
+    "url": "1957-Petroleum_Productive_Capacity-Oct_3.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1957",
     "title": "Petroleum Storage Capacity",
-    "url": "1957-Petroleum_Storage_Capacity.pdf"
+    "url": "1957-Petroleum_Storage_Capacity.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1957",
     "title": "Underground Storage for Petroleum",
-    "url": "1957-Underground_Storage_for_Petroleum.pdf"
+    "url": "1957-Underground_Storage_for_Petroleum.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1957",
     "title": "United States Refinery Capacity",
-    "url": "1957-US_Refinery_Capacity-Nov_12.pdf"
+    "url": "1957-US_Refinery_Capacity-Nov_12.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1957",
     "title": "World Petroleum Tanker Construction",
-    "url": "1957-World_Petroleum_Tanker_Construction.pdf"
+    "url": "1957-World_Petroleum_Tanker_Construction.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1956",
     "title": "Oil and Gas Emergency Defense Organization Communication Facilities",
-    "url": "1956-Oil_and_Gas_Communication_Facilities_Subcomm_Report Sept_28.pdf"
+    "url": "1956-Oil_and_Gas_Communication_Facilities_Subcomm_Report Sept_28.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1956",
     "title": "Oil and Gas Industries Manpower",
-    "url": "1956-Oil_and_Gas_Industries_Manpower-May_17.pdf"
+    "url": "1956-Oil_and_Gas_Industries_Manpower-May_17.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1956",
     "title": "Tank Truck Transportation",
-    "url": "1956-Tank_Truck_Transportation-,January_24.pdf"
+    "url": "1956-Tank_Truck_Transportation-,January_24.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1956",
     "title": "Underground Storage for Petroleum",
-    "url": "1956-Underground_Storage_of_Petroleum_Products-Interim-Sept_28.pdf"
+    "url": "1956-Underground_Storage_of_Petroleum_Products-Interim-Sept_28.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1956",
     "title": "World Petroleum Tanker Construction",
-    "url": "1956-Tanker_Requirements-Interim_Report-Dec.pdf"
+    "url": "1956-Tanker_Requirements-Interim_Report-Dec.pdf",
+    "categories": [
+      "Transportation"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Disaster Planning for the Oil and Gas Industries",
-    "url": "1955-Disaster_Planning_for_Oil_and_Gas_Industries.pdf"
+    "url": "1955-Disaster_Planning_for_Oil_and_Gas_Industries.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Oil and Gas Industries Manpower",
-    "url": "1955-Oil_and_Gas_Industries_Manpower-Interim-Oct_20.pdf"
+    "url": "1955-Oil_and_Gas_Industries_Manpower-Interim-Oct_20.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Petroleum Imports",
-    "url": "1955-Petroleum_Imports.pdf"
+    "url": "1955-Petroleum_Imports.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Petroleum Productive Capacity",
-    "url": "1955-Petroleum_Productive_Capacity-May_5.pdf"
+    "url": "1955-Petroleum_Productive_Capacity-May_5.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Security Principles for the Petroleum and Gas Industries",
-    "url": "1955-Security_Principles_for_Petroleum_and_Gas_Industries.pdf"
+    "url": "1955-Security_Principles_for_Petroleum_and_Gas_Industries.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Shale Oil Policy",
-    "url": "1955-Shale_Oil_Policy.pdf"
+    "url": "1955-Shale_Oil_Policy.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1955",
     "title": "Use of Radio and Radar",
-    "url": "1955-Use_of_Radio_and_Radar.pdf"
+    "url": "1955-Use_of_Radio_and_Radar.pdf",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1954",
     "title": "Oil and Gas Emergency Defense Organization",
-    "url": "1954-Oil_and_Gas_Emergency_Defense_Organization.pdf"
+    "url": "1954-Oil_and_Gas_Emergency_Defense_Organization.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1954",
     "title": "Petroleum Storage Capacity",
-    "url": "1954-Petroleum_Storage_Capacity.pdf"
+    "url": "1954-Petroleum_Storage_Capacity.pdf",
+    "categories": [
+      "Storage"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Federal Lands Oil and Gas Policy",
-    "url": "1953-Federal_Lands_Oil_and_Gas_Policy.pdf"
+    "url": "1953-Federal_Lands_Oil_and_Gas_Policy.pdf",
+    "categories": [
+      "Energy Outlook"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Government Oil and Gas Organization",
-    "url": "1953-Government_Oil_and_Gas_Organization.pdf"
+    "url": "1953-Government_Oil_and_Gas_Organization.pdf",
+    "categories": [
+      "Emergency Planning and Preparedness"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Oil and Gas Exploration, Drilling and Production Requirements September",
-    "url": null
+    "url": null,
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Oil and Gas Exploration, Drilling and Production Requirements December",
-    "url": "1953-Oil_and_Gas_Exploration_Drilling-Production_Requirements-December.pdf"
+    "url": "1953-Oil_and_Gas_Exploration_Drilling-Production_Requirements-December.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Petroleum Productive Capacity",
-    "url": "1953-Petroleum_Productive_Capacity-May_28.pdf"
+    "url": "1953-Petroleum_Productive_Capacity-May_28.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Submerged Lands Productive Capacity February",
-    "url": "1953-Submerged_Lands_Productive_Capacity-Interim-Feb_26.pdf"
+    "url": "1953-Submerged_Lands_Productive_Capacity-Interim-Feb_26.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Submerged Lands Productive Capacity May",
-    "url": "1953-Submerged_Lands_Productive_Capacity-May_28.pdf"
+    "url": "1953-Submerged_Lands_Productive_Capacity-May_28.pdf",
+    "categories": [
+      "Resource Development"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Synthetic Liquid Fuels Production Costs",
-    "url": "1953-Synthetic_Liquid_Fuels_Production_Costs.pdf"
+    "url": "1953-Synthetic_Liquid_Fuels_Production_Costs.pdf",
+    "categories": [
+      "Refining"
+    ],
+    "cover_art_url": null
   },
   {
     "year": "1953",
     "title": "Use of Radio and Radar",
-    "url": "1953-Use_of_Radio_and_Radar.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Bunker \"C\" Fuel Oil",
-    "url": "1952-Bunker_C_Fuel_Oil.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Oil Country Tubular Goods January",
-    "url": "1952-Oil_Country_Tubular_Goods-Progress_Report-Jan_29.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Oil Country Tubular Goods July",
-    "url": "1952-Oil_Country_Tubular_Goods-July_29.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Petroleum Productive Capacity",
-    "url": "1952-Petroleum_Productive_Capacity.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Petroleum Storage Capacity",
-    "url": "1952-Petroleum_Storage_Capacity.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Synthetic Liquid Fuels Production Costs January",
-    "url": "1952-Synthetic_Liquid_Fuels_Production_Costs-Interim-Jan_29.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Synthetic Liquid Fuels Production Costs July",
-    "url": "1952-Synthetic_Liquid_Fuels_Production_Costs-Interim-July_29.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Tank Truck Transportation Census",
-    "url": "1952-Petroleum_Transportation_Tank_Truck_Census.pdf"
-  },
-  {
-    "year": "1952",
-    "title": "Underground Storage for Petroleum",
-    "url": "1952-Underground_Storage_for_Petroleum.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Capital and Materials Requirements for Increasing Availability of Petroleum Products - Million Barrels February",
-    "url": "1951-Capital_n_Materials_Requirements-Increasing_Availability-Petroleum_Products-Interim-Feb_26.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Capital and Materials Requirements for Increasing Availability of Petroleum Products - Million Barrels May",
-    "url": null
-  },
-  {
-    "year": "1951",
-    "title": "Capital and Materials Requirements for Increasing Availability of Petroleum Products - Million Barrels October",
-    "url": "1951-Capital_n_Materials_Requirements-Increasing_Availability-Petroleum_Products-Oct_31.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Liquefied Petroleum Gas",
-    "url": "1951-Liquefied_Petroleum_Gas-May_9.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Materials and Chemicals Requirements of the Oil and Gas Industries",
-    "url": "1951-Materials_n_Chemicals_Requirements_of_Oil_n_Gas Industries-Interim-Feb_28.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Oil and Gas Industries Manpower",
-    "url": "1951-Oil_and_Gas_Industries_Manpower-May_9.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Petroleum Productive Capacity",
-    "url": null
-  },
-  {
-    "year": "1951",
-    "title": "Quebracho Requirements of the Petroleum Industry",
-    "url": "1951-Quebracho_Requirements_of_Petroleum_Industry.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Synthetic Liquid Fuels Production Costs May",
-    "url": "1951-Synthetic_Liquid_Fuels_Production_Costs-Interim-May_9.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Synthetic Liquid Fuels Production Costs July",
-    "url": "1951-Synthetic_Liquid_Fuels_Production_Costs-Interim-July_24.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Synthetic Liquid Fuels Production Costs October 15",
-    "url": "1951-Synthetic_Liquid_Fuels_Production_Costs-Subcommittee_Report-Oct_15.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Synthetic Liquid Fuels Production Costs October 31",
-    "url": "1951-Synthetic_Liquid_Fuels_Production_Costs-Oct_31.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Transportation and Materials Requirements for Liquefied Petroleum Gas Availability",
-    "url": "1951-Liquefied_Petroleum_Gas_Availability-Transportation_n_Materials_Requirements-Oct_31.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Trends in Petroleum Consuming Equipment",
-    "url": "1951-Trends_in_Petroleum_Consuming_Equipment-Oct_31.pdf"
-  },
-  {
-    "year": "1951",
-    "title": "Underground Storage for Petroleum",
-    "url": "1951-Underground_Storage_of_Petroleum_Products-Interim-Oct_31.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Crude Petroleum Reserve Production Capacity",
-    "url": "1950-US_Crude_Petroleum_Reserve_Productive_Capacity.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Federal Oil and Gas Leasing",
-    "url": "1950-Federal_Oil_and_Gas_Leasing.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Form of Organization for a Government Petroleum Agency in Connection with Present Emergency",
-    "url": "1950-Org_for_Govt_Petrol_Agency_in_Connection_w_Present_Emergency-Sept_28.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Liquefied Petroleum Gas",
-    "url": "1950-Liquefied_Petroleum_Gas.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Organization Structure Under the National Defense Production Act",
-    "url": "1950-Organization_Structure_Under_National_Defense_Production_Act-Dec_5.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Imports January",
-    "url": "1950-Petroleum_Imports-January_26.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Imports July",
-    "url": "1950-Petroleum_Imports-July_24.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Industry Manpower",
-    "url": "1950-Petroleum_Industry_Manpower-January_26.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Industry Steel Requirements September",
-    "url": null
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Industry Steel Requirements December",
-    "url": "1950-Petroleum_Industry_Steel_Requirements-December_5.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Storage Capacity",
-    "url": "1950-Petroleum_Storage_Capacity.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Petroleum Transportation",
-    "url": "1950-Petroleum_Transportation-Nov_28.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Proposed Petroleum Policy Council",
-    "url": "1950-Proposed_Petroleum_Policy_Council-January_26.pdf"
-  },
-  {
-    "year": "1950",
-    "title": "Synthetic Liquid Fuels Production Costs",
-    "url": "1950-Synthetic_Liquid_Fuels_Production_Costs_Subcommittee-Interim-December_5.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Advisory Activities - District I",
-    "url": "1949-District_I-Regional_Advisory_Committee-January_11.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Advisory Activities - District IV",
-    "url": "1949-District_IV-Regional_Advisory_Committee-Minutes-January_7.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Advisory Activities - District V",
-    "url": "1948-District_V-Regional_Advisory_Committee-October_21.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Military and Government Petroleum Requirements January",
-    "url": "1949-Military-Government_Petroleum_Requirements-January_10.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Military and Government Petroleum Requirements April",
-    "url": "1949-Military-Government_Petroleum_Requirements-April_27.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Mineral Industries Census",
-    "url": "1949-Mineral_Industries_Census.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "A National Oil Policy",
-    "url": "1949-National_Oil_Policy_for_United_States.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "National Petroleum Emergency",
-    "url": "1949-National_Petroleum_Emergency.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Petroleum Imports",
-    "url": "1949-Petroleum_Imports.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Petroleum Industry Manpower",
-    "url": "1949-Petroleum_Industry_Manpower-April_26.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Petroleum Industry Steel Requirements",
-    "url": "1949-Petroleum_Industry_Steel_Requirements-April_27.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Petroleum Refining Capacity",
-    "url": "1949-Petroleum_Refining_Capacity.pdf"
-  },
-  {
-    "year": "1949",
-    "title": "Quebracho Requirements of the Petroleum Industry",
-    "url": "1949-Quebracho_Requirements_of_Petroleum_Industry-Full_Report.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Advisory Activities - District I",
-    "url": "1948-District_I-Regional_Advisory_Committee-March_31.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Advisory Activities - District III",
-    "url": "1948-District_III-Regional_Advisory_Committee-Summary_April_7.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Advisory Activities - District V",
-    "url": "1948-District_V-Regional_Advisory_Committee-October_21.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Analyzation of the Report of Sixteen Nations",
-    "url": "1948-Analyzation_of_Report-16_Nations.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Government Royalty Oil Regulations",
-    "url": "1948-Government_Royalty_Oil_Regulations-Interim-July_16.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Liquefied Petroleum Gas April",
-    "url": "1948-Liquefied_Petroleum_Gas-Interim_April_9.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Liquefied Petroleum Gas July",
-    "url": "1948-Liquefied_Petroleum_Gas-July_29.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements January",
-    "url": "1948-Military-Government_Petroleum_Requirements-Summary-January_19.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements February",
-    "url": "1948-Military-Government_Petroleum_Requirements-February_16.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements March 1",
-    "url": "1948-Military-Government_Petroleum_Requirements-March_1.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements March 25",
-    "url": "1948-Military-Government_Petroleum_Requirements-March_25.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements April",
-    "url": "1948-Military-Government_Petroleum_Requirements-Summary-April_9.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements June",
-    "url": "1948-Military-Government_Petroleum_Requirements-June_23.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements July 15",
-    "url": "1948-Military-Government_Petroleum_Requirements-July_15.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements July 26",
-    "url": "1948-Military-Government_Petroleum_Requirements-July_26.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements August",
-    "url": "1948-Military-Government_Petroleum_Requirements-August_20.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Military and Government Petroleum Requirements October",
-    "url": "1948-Military-Government_Petroleum_Requirements-October_14.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Petroleum Industry Steel Requirements March",
-    "url": "1948-Petroleum_Industry_Steel_Requirements-March_16.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Petroleum Industry Steel Requirements July",
-    "url": "1948-Petroleum_Industry_Steel_Requirements-Chairmans_Report-July_29.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Petroleum Industry Steel Requirements October",
-    "url": "1948-Petroleum_Industry_Steel_Requirements-Chairmans_Report-October_21.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Petroleum Production and Crude Availability",
-    "url": "1948-Petroleum_Production_and_Crude_Availability-July_28.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Petroleum Refining Capacity",
-    "url": "1948-Petroleum_Refining_Capacity-Preliminary_Report-July_29.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Petroleum Storage Capacity",
-    "url": "1948-Petroleum_Storage_Capacity-October_15.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Voluntary Allocation Agreements January",
-    "url": "1948-Voluntary_Petroleum_Allocation_Agreements-Initial_Report-January_21.pdf"
-  },
-  {
-    "year": "1948",
-    "title": "Voluntary Allocation Agreements April",
-    "url": "1948-Voluntary_Petroleum_Allocation_Agreements-April_14.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Barge Transportation",
-    "url": "1947-Barge_Transportation-July_1.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Illinois River Winter Transportation",
-    "url": "1947-Illinois_River_Winter_Transportation.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "International Standards for Measurement of Liquid Petroleum Fuels",
-    "url": "1947-International_Standards_for_Measurement-Liquid_Petroleum_Fuels-Interim.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Materials Requirements by the Oil and Gas Industry January",
-    "url": "1947-Shortages-Materials_Affecting_Petroleum_Operations_Vital to_Public_Welfare-January_11.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Materials Requirements by the Oil and Gas Industry October",
-    "url": "1947-Materials_Requirements-Oil_and_Gas_Industry-100947.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military Aircraft Fuels Productive Capacity April",
-    "url": "1947-Military_Aircraft_Fuels_Productive_Capacity-April_15.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military Aircraft Fuels Productive Capacity July",
-    "url": "1947-Military_Aircraft_Fuels_Productive_Capacity-Interim-July_10.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military Aircraft Fuels Productive Capacity September",
-    "url": "1947-Military_Aircraft_Fuels_Productive_Capacity-September_3.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military and Government Petroleum Requirements June",
-    "url": "1947-Military-Government_Petroleum_Requirements-June_10,.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military and Government Petroleum Requirements July",
-    "url": "1947-Military-Government_Petroleum_Requirements-Supplemental-July_10.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military and Government Petroleum Requirements August",
-    "url": "1947-Military-Government_Petroleum_Requirements-2nd_Supplemental-August_1.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military and Government Petroleum Requirements October",
-    "url": "1947-Military-Government_Petroleum_Requirements-October_9.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Military and Government Petroleum Requirements November",
-    "url": "1947-Military-Government_Petroleum_Requirements-November_3.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Pipeline Transportation",
-    "url": "1947-Petroleum_Pipeline_Transportation.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Production and Crude Availability",
-    "url": "1947-Petroleum_Production_and_Crude_Availability-July_10.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Products Supplies and Availability November",
-    "url": null
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Products Supplies and Availability December",
-    "url": "1947-Petroleum_Products_Supplies_and_Availability-December_1.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Rail Transportation",
-    "url": "1947-Petroleum_Rail_Transportation.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Refining Capacity",
-    "url": "1947-Petroleum_Refining_Capacity-July_8.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Tank Car Steel Requirements",
-    "url": "1947-Petroleum_Tank_Car_Steel_Requirements.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Tanker Transportation June",
-    "url": "1947-Petroleum_Tanker_Transportation-June_10.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Tanker Transportation November",
-    "url": "1947-Petroleum_Tanker_Transportation-November_17.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Transportation Facilities",
-    "url": "1947-Petroleum_Transportation_Facilities.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Petroleum Truck Transportation",
-    "url": "1947-Petroleum_Truck_Transportation-Interim.pdf"
-  },
-  {
-    "year": "1947",
-    "title": "Temporary Statistical Advisory Committee",
-    "url": "1947-Temporary_Statistical_Advisory_Committee.pdf"
-  },
-  {
-    "year": "1946",
-    "title": "Federal Mineral Leasing Act",
-    "url": "1946-Federal_Mineral_Leasing_Act.pdf"
-  },
-  {
-    "year": "1946",
-    "title": "High Pressure Tank Cars for the Transportation of Liquefied Petroleum Gas",
-    "url": "1946-Pressure_Tank_Cars_for_Transportation_of_Liquefied_Petroleum_Gas.pdf"
-  },
-  {
-    "year": "1946",
-    "title": "Materials Requirements by the Oil and Gas Industry (November)",
-    "url": "1946-Materials_Requirements_by_Oil_and_Gas_Industry-November_11.pdf"
+    "url": "1953-Use_of_Radio_and_Radar.pdf",
+    "categories": [
+      "Research"
+    ],
+    "cover_art_url": null
   }
 ]
