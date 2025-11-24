@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact – Gas–Electric Coordination Study – NPC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- SEO -->
+  <meta name="description" content="Contact information for the National Petroleum Council regarding the Gas–Electric Coordination Study, NPC publications, and website feedback." />
+  <link rel="canonical" href="https://example.com/contact.html" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Contact – Gas–Electric Coordination Study – NPC" />
+  <meta property="og:description" content="Contact information for the National Petroleum Council regarding the Gas–Electric Coordination Study, NPC publications, and website feedback." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://example.com/contact.html" />
+
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-19BL772JEX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-19BL772JEX');
+  </script>
+
+  <style>
+    .static-page { padding: 2rem 0 3rem; }
+    .static-page h1 { color: var(--primary-color); }
+    .static-page h2 { margin-top: 1.5rem; color: var(--primary-color); }
+    .static-page p, .static-page ul { font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <div class="page-wrap">
+
+ <!-- Site Header -->
+  <header id="home" class="site-header">
+    <div class="container header-inner">
+      <div class="logo-block">
+        <a href="#home" class="logo-link"
+           data-ga-track="true" data-ga-category="nav" data-ga-label="Logo – Home">
+          <img src="NPC_Logo.png" alt="National Petroleum Council logo" class="logo-img" />
+          <span class="logo-text">National Petroleum Council</span>
+        </a>
+      </div>
+
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="index.html#home"
+           data-ga-track="true" data-ga-category="nav" data-ga-label="Home (nav)">
+          Home
+        </a>
+        <a href="Permitting_2025_Report.pdf" target="_blank" rel="noopener"
+           data-ga-track="true" data-ga-category="pdf" data-ga-label="Full Report (nav)">
+          Full Report
+        </a>
+        <a href="index.html#presentations"
+           data-ga-track="true" data-ga-category="nav" data-ga-label="Presentations (nav)">
+          Presentations
+        </a>
+        <a href="index.html#about-npc"
+           data-ga-track="true" data-ga-category="nav" data-ga-label="About NPC (nav)">
+          About NPC
+        </a>
+      </nav>
+
+      <div class="header-social">
+        <a
+          href="https://www.linkedin.com/company/national-petroleum-council/"
+          target="_blank"
+          rel="noopener"
+          aria-label="NPC on LinkedIn"
+          class="header-social-link"
+          data-ga-track="true" data-ga-category="social" data-ga-label="LinkedIn (header)"
+        >
+          in
+        </a>
+
+        <a
+          href="https://www.youtube.com/@NationalPetroleumCouncil"
+          target="_blank"
+          rel="noopener"
+          aria-label="NPC on YouTube"
+          class="header-social-link"
+          data-ga-track="true" data-ga-category="social" data-ga-label="YouTube (header)"
+        >
+          ▶
+        </a>
+      </div>
+    </div>
+  </header>
+
+    <!-- MAIN -->
+    <main>
+      <div class="container static-page">
+        <h1>Contact</h1>
+
+        <p>
+          For questions regarding the Gas–Electric Coordination Study, National Petroleum Council
+          publications, or this website, you may contact:
+        </p>
+
+        <p>
+          <strong>National Petroleum Council</strong><br />
+          Washington, DC<br />
+          Email:
+          <a href="mailto:info@npc.org"
+             data-ga-track="true" data-ga-category="email" data-ga-label="info@npc.org">
+            info@npc.org
+          </a>
+        </p>
+
+        <h2>Media &amp; Public Inquiries</h2>
+        <p>
+          Please include your name, organization, and a brief description of your request. NPC staff
+          will respond as appropriate based on the nature of the inquiry.
+        </p>
+
+        <h2>Website Feedback</h2>
+        <p>
+          If you encounter broken links, accessibility issues, or have suggestions to improve this
+          microsite, please include “Website Feedback” in the subject line of your email.
+        </p>
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          &copy; 2025 ·
+          <a href="https://www.npc.org" target="_blank" rel="noopener"
+             data-ga-track="true" data-ga-category="external" data-ga-label="NPC website">
+            National Petroleum Council
+          </a>
+        </div>
+        <div class="footer-links">
+          <a href="contact.html"
+             data-ga-track="true" data-ga-category="footer" data-ga-label="Contact (footer)">
+            Contact
+          </a>
+          <a href="privacy.html"
+             data-ga-track="true" data-ga-category="footer" data-ga-label="Privacy (footer)">
+            Privacy
+          </a>
+          <a href="terms.html"
+             data-ga-track="true" data-ga-category="footer" data-ga-label="Terms of Use (footer)">
+            Terms of Use
+          </a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- GA4 click tracking -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      var links = document.querySelectorAll('a[data-ga-track]');
+      links.forEach(function (a) {
+        a.addEventListener('click', function () {
+          if (typeof gtag === 'function') {
+            gtag('event', 'click', {
+              event_category: a.dataset.gaCategory || 'link',
+              event_label: a.dataset.gaLabel || a.href,
+              link_url: a.href
+            });
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>
