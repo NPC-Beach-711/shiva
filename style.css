@@ -314,10 +314,19 @@ nav a:focus-visible {
   gap: 0.5rem;
 }
 
+.hero-list li {
+  position: relative;
+  padding-left: 1.25rem;
+  line-height: 1.4;
+}
+
 .hero-list li::before {
-  content: "\2022";
-  margin-right: 0.4rem;
+  content: "•";
+  position: absolute;
+  left: 0;
+  top: 0;
   color: var(--npc-gold);
+  font-size: 1.1em;
 }
 
 /* smaller hero band used on about/contact/legal pages */
@@ -436,86 +445,44 @@ nav a:focus-visible {
   align-items: stretch;
 }
 
-/* Left column: CAROUSEL STYLES */
-.featured-carousel {
-  /* card class already provides background, border, shadow, padding */
+/* =========================
+   CAROUSEL STYLES - FIXED
+   ========================= */
+
+/* Featured Carousel Card */
+.featured-carousel.card {
+  background: var(--card-bg);
+  border-radius: 14px;
+  padding: 2rem 1.5rem 3rem;
+  border: 1px solid var(--npc-border);
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.06);
   position: relative;
-  overflow: hidden; /* Hide extra items */
-  padding-bottom: 3rem; /* Extra space for controls */
+  overflow: hidden;
 }
 
+/* Track that slides left/right */
 .carousel-track {
   display: flex;
-  transition: transform 0.3s ease-in-out;
-  /* JavaScript will update transform: translateX(-100%) to switch slides */
+  transition: transform 0.5s ease;
+  will-change: transform;
 }
 
+/* Each slide takes up full width of the viewport/track */
 .carousel-item {
+  flex: 0 0 100%;
+  box-sizing: border-box;
   position: relative;
-  min-width: 100%;
-  flex-shrink: 0;
-  display: flex; /* Makes content inside item fill its height */
+  padding: 1.5rem;
+  display: flex;
   flex-direction: column;
-  gap: 0.6rem;
-
-  /* Resetting padding for content within the item since the main .card provides it */
-  padding: 0;
-}
-
-/* CAROUSEL CONTROLS */
-.carousel-controls {
-  position: absolute;
-  bottom: 1.25rem;
-  left: 50%;
-  transform: translateX(-50%);
-  display: flex;
-  align-items: center;
   gap: 0.75rem;
-}
-
-.carousel-btn {
-  background: var(--npc-navy-dark);
-  color: #fff;
-  border: none;
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  font-size: 1.1rem;
-  line-height: 1;
-  transition: background 0.15s ease;
-}
-
-.carousel-btn:hover {
-  background: var(--npc-navy);
-}
-
-.carousel-dots {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.dot {
-  width: 8px;
-  height: 8px;
-  background: #d1d5db; /* Light gray */
-  border-radius: 50%;
-  cursor: pointer;
-  transition: background 0.15s ease;
-}
-
-.dot.active {
-  background: var(--npc-navy); /* Dark navy for active dot */
 }
 
 /* Content styles inside the carousel item */
 .news-feature-tag {
   position: absolute;
-  top: -1.5rem;
-  right: 1.6rem;
+  top: -1rem;
+  right: 1.5rem;
   background: var(--npc-navy);
   color: #fff;
   padding: 0.4rem 1rem;
@@ -524,6 +491,7 @@ nav a:focus-visible {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   font-weight: 600;
+  z-index: 2;
 }
 
 .carousel-item h3 {
@@ -547,6 +515,84 @@ nav a:focus-visible {
   margin: 0.2rem 0 0.4rem;
   font-size: 0.92rem;
   color: #4b5563;
+  line-height: 1.5;
+}
+
+/* =========================
+   NAVIGATION ARROWS
+   ========================= */
+
+.carousel-controls {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  pointer-events: none;
+  padding: 0 1.5rem;
+}
+
+.carousel-controls button {
+  pointer-events: auto;
+}
+
+.prev-btn,
+.next-btn {
+  border: none;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.2rem;
+  line-height: 1;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+  background: rgba(0, 0, 0, 0.8);
+  transform: scale(1.05);
+}
+
+.prev-btn:active,
+.next-btn:active {
+  transform: scale(0.97);
+}
+
+/* =========================
+   DOT INDICATORS
+   ========================= */
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  pointer-events: auto;
+}
+
+.carousel-dots .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  border: 2px solid var(--npc-navy);
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  display: inline-block;
+  transition: background 0.2s ease, transform 0.1s ease, border-color 0.2s ease;
+}
+
+.carousel-dots .dot.active {
+  background: var(--npc-navy);
+  border-color: var(--npc-navy);
+  transform: scale(1.1);
 }
 
 /* Right column: video card */
@@ -597,7 +643,7 @@ nav a:focus-visible {
 .news-cta {
   margin-top: 2rem;
   text-align: center;
-  grid-column: 1 / -1; /* Make the button span both columns */
+  grid-column: 1 / -1;
 }
 
 /* =========================
@@ -626,7 +672,7 @@ nav a:focus-visible {
   align-items: flex-start;
 }
 
-/* ✅ centered the cover within each card */
+/* centered the cover within each card */
 .recent-report-cover-wrap {
   margin-bottom: 0.6rem;
   max-width: 260px;
@@ -657,6 +703,151 @@ nav a:focus-visible {
 .recent-report-card .btn {
   margin-top: 0.5rem;
   align-self: flex-start;
+}
+
+/* =========================
+   Members Directory – table layout
+   ========================= */
+.members-directory-section {
+  padding: 3rem 0 4rem;
+  background: #f9fafb;
+}
+
+.members-header {
+  max-width: 720px;
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
+.members-header h1 {
+  font-size: 2rem;
+  color: var(--npc-navy);
+  margin-bottom: 0.25rem;
+}
+
+.members-header p {
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.members-controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.members-controls label {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6b7280;
+  margin-bottom: 0.25rem;
+}
+
+.members-controls .filter-search {
+  flex: 1 1 240px;
+  min-width: 200px;
+}
+
+.members-controls .filter {
+  min-width: 180px;
+}
+
+.members-controls input[type="search"],
+.members-controls select {
+  padding: 0.6rem 0.9rem;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  font-size: 0.95rem;
+  width: 100%;
+  font-family: inherit;
+  background: #f9fafb;
+  color: #111827;
+}
+
+.members-controls input[type="search"]:focus,
+.members-controls select:focus {
+  outline: none;
+  border-color: var(--npc-navy);
+  box-shadow: 0 0 0 1px var(--npc-navy);
+}
+
+/* Directory table */
+.members-table {
+  background: #ffffff;
+  border-radius: 14px;
+  border: 1px solid var(--npc-border);
+  overflow: hidden;
+}
+
+.members-table-header,
+.members-table-row {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr;
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid #eee;
+  column-gap: 1rem;
+}
+
+.members-table-header {
+  background: #f3f4f6;
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: #374151;
+}
+
+.members-table-row {
+  background: #fff;
+  font-size: 0.9rem;
+}
+
+.members-table-row:nth-child(even) {
+  background: #fafafa;
+}
+
+/* Name & title cell */
+.member-name-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.member-name {
+  font-weight: 600;
+  color: #111827;
+}
+
+.member-title {
+  color: #555;
+  font-size: 0.85rem;
+}
+
+/* Organization cell */
+.member-org-cell {
+  font-size: 0.9rem;
+  color: #111827;
+}
+
+/* Category cell */
+.member-category-cell {
+  font-size: 0.85rem;
+  color: #374151;
+}
+
+/* Responsive table */
+@media (max-width: 768px) {
+  .members-table-header,
+  .members-table-row {
+    grid-template-columns: 1.5fr 1fr;
+  }
+
+  .member-category-cell {
+    margin-top: 0.35rem;
+    grid-column: 1 / -1;
+  }
 }
 
 /* =========================
@@ -798,122 +989,6 @@ nav a:focus-visible {
   font-size: 0.85rem;
   color: #6b7280;
   text-align: right;
-}
-
-/* =========================
-   Members Directory – table layout
-   ========================= */
-.members-directory-section {
-  padding: 3rem 0 4rem;
-  background: #f9fafb;
-}
-
-.members-title {
-  margin-bottom: 1.5rem;
-  font-size: 2rem;
-  color: var(--npc-navy);
-}
-
-.members-controls {
-  display: flex;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
-  flex-wrap: wrap;
-}
-
-.members-controls label {
-  display: block;
-  font-size: 0.78rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #6b7280;
-  margin-bottom: 0.25rem;
-}
-
-.members-controls .filter-search {
-  flex: 1 1 240px;
-  min-width: 200px;
-}
-
-.members-controls .filter {
-  min-width: 180px;
-}
-
-.members-controls input[type="search"],
-.members-controls select {
-  padding: 0.6rem 0.9rem;
-  border-radius: 8px;
-  border: 1px solid #d1d5db;
-  font-size: 0.95rem;
-  width: 100%;
-  font-family: inherit;
-  background: #f9fafb;
-  color: #111827;
-}
-
-.members-controls input[type="search"]:focus,
-.members-controls select:focus {
-  outline: none;
-  border-color: var(--npc-navy);
-  box-shadow: 0 0 0 1px var(--npc-navy);
-}
-
-/* Directory table */
-.members-table {
-  background: #ffffff;
-  border-radius: 14px;
-  border: 1px solid var(--npc-border);
-  overflow: hidden;
-}
-
-.members-table-header,
-.members-table-row {
-  display: grid;
-  grid-template-columns: 1.3fr 1fr 1fr;
-  padding: 1rem 1.25rem;
-  border-bottom: 1px solid #eee;
-  column-gap: 1rem;
-}
-
-.members-table-header {
-  background: #f3f4f6;
-  font-weight: 600;
-  font-size: 0.88rem;
-  color: #374151;
-}
-
-.members-table-row {
-  background: #fff;
-  font-size: 0.9rem;
-}
-
-.members-table-row:nth-child(even) {
-  background: #fafafa;
-}
-
-/* Name & title cell */
-.member-name-block {
-  display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
-}
-
-.member-title {
-  color: #555;
-  font-size: 0.85rem;
-}
-
-/* Organization cell */
-.member-org-cell {
-  font-size: 0.9rem;
-  color: #111827;
-}
-
-/* Category cell */
-.member-category-cell {
-  font-size: 0.85rem;
-  color: #374151;
 }
 
 /* =========================
@@ -1190,13 +1265,36 @@ footer {
     right: 1.2rem;
   }
 
-  .members-table-header,
-  .members-table-row {
-    grid-template-columns: 1.5fr 1fr;
+  /* Responsive Tweaks for Carousel */
+  .prev-btn,
+  .next-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
   }
 
-  .member-category-cell {
-    margin-top: 0.35rem;
-    grid-column: 1 / -1;
+  .featured-carousel {
+    padding: 1.5rem 1rem 2.5rem;
+  }
+
+  .carousel-item {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .carousel-dots .dot {
+    width: 8px;
+    height: 8px;
+  }
+  
+  .hero-actions {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .hero-actions .btn {
+    width: 100%;
+    text-align: center;
   }
 }

@@ -1,1864 +1,1006 @@
 [
   {
-    "title": "STAS v2 Report",
-    "year": "2022",
-    "category": "Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2022/STAS_v2_Report.pdf"
-  },
-  {
-    "title": "PD Presentations Index",
-    "year": "Inferred/Unknown",
-    "category": "Presentations/Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/presentations/PD_Presentations.htm"
-  },
-  {
-    "title": "NPC 134th Meeting Media Advisory",
-    "year": "2024",
-    "category": "Media",
-    "type": "PDF",
-    "url": "https://npc.org/media/NPC_134th_Meeting_Media_Advisory_2024_01_04.pdf"
-  },
-  {
-    "title": "NPC Presentation v31",
-    "year": "Inferred/Unknown",
-    "category": "Presentations",
-    "type": "PDF",
-    "url": "https://npc.org/presentations/NPC_Presentation_v31.pdf"
-  },
-  {
-    "title": "fphover Class File",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "Class File",
-    "url": "https://npc.org/_vti_bin/fphover.class"
-  },
-  {
-    "title": "Video Content",
-    "year": "2012",
-    "category": "Video/Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/video/2012/content.htm"
-  },
-  {
-    "title": "PHPMailer SMTP Class",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/class.smtp.php"
-  },
-  {
-    "title": "PHPMailer README",
-    "year": "Inferred/Unknown",
-    "category": "Documentation",
-    "type": "Markdown",
-    "url": "https://npc.org/files/PHPMailer/README.md"
-  },
-  {
-    "title": "PHPMailer Travis CI Configuration",
-    "year": "Inferred/Unknown",
-    "category": "Configuration/CI",
-    "type": "YAML",
-    "url": "https://npc.org/files/PHPMailer/.travis.yml"
-  },
-  {
-    "title": "PHPMailer Class File",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/class.phpmailer.php"
-  },
-  {
-    "title": "PHPMailer Autoload File",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/autoload.php"
-  },
-  {
-    "title": "PHPMailer Scrutinizer Configuration",
-    "year": "Inferred/Unknown",
-    "category": "Configuration/CI",
-    "type": "YAML",
-    "url": "https://npc.org/files/PHPMailer/.scrutinizer.yml"
-  },
-  {
-    "title": "PHPMailer POP3 Class",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/class.pop3.php"
-  },
-  {
-    "title": "PHPMailer Changelog",
-    "year": "Inferred/Unknown",
-    "category": "Documentation",
-    "type": "Markdown",
-    "url": "https://npc.org/files/PHPMailer/CHANGELOG.md"
-  },
-  {
-    "title": "PHPMailer Composer Configuration",
-    "year": "Inferred/Unknown",
-    "category": "Configuration",
-    "type": "JSON",
-    "url": "https://npc.org/files/PHPMailer/composer.json"
-  },
-  {
-    "title": "PHPMailer Git Ignore",
-    "year": "Inferred/Unknown",
-    "category": "Configuration",
-    "type": "Git Ignore",
-    "url": "https://npc.org/files/PHPMailer/.gitignore"
-  },
-  {
-    "title": "PHPMailer Italian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-it.php"
-  },
-  {
-    "title": "PHPMailer Polish Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-pl.php"
-  },
-  {
-    "title": "PHPMailer Georgian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ka.php"
-  },
-  {
-    "title": "PHPMailer Faroese Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fo.php"
-  },
-  {
-    "title": "PHPMailer Estonian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-et.php"
-  },
-  {
-    "title": "PHPMailer Persian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fa.php"
-  },
-  {
-    "title": "PHPMailer Breton Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-br.php"
-  },
-  {
-    "title": "PHPMailer Spanish Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-es.php"
-  },
-  {
-    "title": "PHPMailer Chinese (Simplified) Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-zh_cn.php"
-  },
-  {
-    "title": "PHPMailer Turkish Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-tr.php"
-  },
-  {
-    "title": "PHPMailer Latvian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-lv.php"
-  },
-  {
-    "title": "PHPMailer Dutch Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-nl.php"
-  },
-  {
-    "title": "PHPMailer Catalan Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ca.php"
-  },
-  {
-    "title": "PHPMailer Hungarian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-hu.php"
-  },
-  {
-    "title": "PHPMailer French Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fr.php"
-  },
-  {
-    "title": "PHPMailer Japanese Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ja.php"
-  },
-  {
-    "title": "PHPMailer Chamorro Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ch.php"
-  },
-  {
-    "title": "PHPMailer Croatian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-hr.php"
-  },
-  {
-    "title": "PHPMailer Arabic Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ar.php"
-  },
-  {
-    "title": "PHPMailer Finnish Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fi.php"
-  },
-  {
-    "title": "PHPMailer Slovak Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-sk.php"
-  },
-  {
-    "title": "PHPMailer German Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-de.php"
-  },
-  {
-    "title": "PHPMailer Lithuanian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-lt.php"
-  },
-  {
-    "title": "PHPMailer Chinese Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-zh.php"
-  },
-  {
-    "title": "PHPMailer Galician Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-gl.php"
-  },
-  {
-    "title": "PHPMailer Greek Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-el.php"
-  },
-  {
-    "title": "PHPMailer Esperanto Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-eo.php"
-  },
-  {
-    "title": "PHPMailer Norwegian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-no.php"
-  },
-  {
-    "title": "PHPMailer Serbian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-sr.php"
-  },
-  {
-    "title": "PHPMailer Belarusian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-be.php"
-  },
-  {
-    "title": "PHPMailer Danish Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-da.php"
-  },
-  {
-    "title": "PHPMailer Russian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ru.php"
-  },
-  {
-    "title": "PHPMailer Czech Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-cs.php"
-  },
-  {
-    "title": "PHPMailer Ukrainian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-uk.php"
-  },
-  {
-    "title": "PHPMailer Swedish Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-sv.php"
-  },
-  {
-    "title": "PHPMailer Romanian Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ro.php"
-  },
-  {
-    "title": "PHPMailer Hebrew Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-he.php"
-  },
-  {
-    "title": "PHPMailer Vietnamese Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-vi.php"
-  },
-  {
-    "title": "PHPMailer Portuguese Language",
-    "year": "Inferred/Unknown",
-    "category": "Language/Localization",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-pt.php"
-  },
-  {
-    "title": "PHPMailer License",
-    "year": "Inferred/Unknown",
-    "category": "Legal",
-    "type": "Text File",
-    "url": "https://npc.org/files/PHPMailer/LICENSE"
-  },
-  {
-    "title": "PHPMailer Extras README",
-    "year": "Inferred/Unknown",
-    "category": "Documentation",
-    "type": "Markdown",
-    "url": "https://npc.org/files/PHPMailer/extras/README.md"
-  },
-  {
-    "title": "PHPMailer HTML to Text Class",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/extras/htmltopdf/html_to_text.inc.php"
-  },
-  {
-    "title": "PHPMailer NTLM SASL Client",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/extras/ntlm_sasl_client.php"
-  },
-  {
-    "title": "PHPMailer HTML Filter",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/extras/html_filter.php"
-  },
-  {
-    "title": "PHPMailer Easy Peasy ICS",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/PHPMailer/extras/easyPeasyICS/easyPeasyICS.php"
-  },
-  {
-    "title": "PHPMailer PHPUnit XML Dist",
-    "year": "Inferred/Unknown",
-    "category": "Configuration/Testing",
-    "type": "XML",
-    "url": "https://npc.org/files/PHPMailer/phpunit.xml.dist"
-  },
-  {
-    "title": "Button Image 03-A",
-    "year": "Inferred/Unknown",
-    "category": "Image/Graphics",
-    "type": "GIF",
-    "url": "https://npc.org/images/button_03-a.gif"
-  },
-  {
-    "title": "Draft HTML Page",
-    "year": "Inferred/Unknown",
-    "category": "Draft Content",
-    "type": "HTML",
-    "url": "https://npc.org/images/draft.htm"
-  },
-  {
-    "title": "Reports Image 3",
-    "year": "Inferred/Unknown",
-    "category": "Image/Graphics",
-    "type": "GIF",
-    "url": "https://npc.org/images/reports_3.gif"
-  },
-  {
-    "title": "Facing Hard Truths Excerpts",
-    "year": "Inferred/Unknown",
-    "category": "Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/facing_hard_truths_excerpts.pdf"
-  },
-  {
-    "title": "Table of Contents 2",
-    "year": "Inferred/Unknown",
-    "category": "Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/reports/facing_hard_truths/toc2.htm"
-  },
-  {
-    "title": "Call of Meeting",
-    "year": "2023",
-    "category": "Meeting Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/call_of_meeting_2023_09_22.pdf"
-  },
-  {
-    "title": "Old Video Content",
-    "year": "2012",
-    "category": "Video/Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/video/2012/old_content.htm"
-  },
-  {
-    "title": "Net-Zero Report",
-    "year": "2023",
-    "category": "Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2023/Net_Zero_Report.pdf"
-  },
-  {
-    "title": "Contact Us Image",
-    "year": "Inferred/Unknown",
-    "category": "Image/Graphics",
-    "type": "GIF",
-    "url": "https://npc.org/images/contact_us.gif"
-  },
-  {
-    "title": "Links Page",
-    "year": "Inferred/Unknown",
-    "category": "Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/links.htm"
-  },
-  {
-    "title": "FTF Acronyms Abbreviations",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/acronyms_abbreviations.epub"
-  },
-  {
-    "title": "FTF Chapter 14: Natural Gas",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter14.epub"
-  },
-  {
-    "title": "FTF Chapter 10: Heavy Duty Engines & Vehicles",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter10.epub"
-  },
-  {
-    "title": "FTF Chapter 6: GHG",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter6.epub"
-  },
-  {
-    "title": "FTF Chapter 9: LD Engines & Vehicles",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter9.epub"
-  },
-  {
-    "title": "FTF Chapter 3: Heavy Duty Vehicles",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter3.epub"
-  },
-  {
-    "title": "FTF Chapter 2: Light Duty Vehicles",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter2.epub"
-  },
-  {
-    "title": "FTF Chapter 13: Electric",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter13.epub"
-  },
-  {
-    "title": "FTF Chapter 15: Hydrogen",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter15.epub"
-  },
-  {
-    "title": "FTF Appendix B",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/appendix_b.epub"
-  },
-  {
-    "title": "FTF Preface",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/preface.epub"
-  },
-  {
-    "title": "FTF Chapter 11: Hydrocarbon Liquids",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter11.epub"
-  },
-  {
-    "title": "FTF DS_Store File",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/System File",
-    "type": "System File",
-    "url": "https://npc.org/reports/FTF_ePub/.DS_Store"
-  },
-  {
-    "title": "FTF Download Script",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Code",
-    "type": "PHP",
-    "url": "https://npc.org/reports/FTF_ePub/download.php"
-  },
-  {
-    "title": "FTF Chapter 8: Reference Case",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter8.epub"
-  },
-  {
-    "title": "FTF Executive Summary",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/executive_summary.epub"
-  },
-  {
-    "title": "FTF Chapter 7: Energy Security",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter7.epub"
-  },
-  {
-    "title": "FTF Appendix C",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/appendix_c.epub"
-  },
-  {
-    "title": "FTF Chapter 4: Technology",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter4.epub"
-  },
-  {
-    "title": "FTF Chapter 5: Infrastructure",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter5.epub"
-  },
-  {
-    "title": "FTF Chapter 1: Demand",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter1.epub"
-  },
-  {
-    "title": "FTF Appendix A",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/appendix_a.epub"
-  },
-  {
-    "title": "FTF Chapter 12: Biofuels",
-    "year": "Inferred/Unknown",
-    "category": "FTF ePub/Content",
-    "type": "ePub",
-    "url": "https://npc.org/reports/FTF_ePub/chapter12.epub"
-  },
-  {
-    "title": "Natural Gas Study",
-    "year": "2003",
-    "category": "Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/natural_gas_study_2003.pdf"
-  },
-  {
-    "title": "Report Image 2",
-    "year": "Inferred/Unknown",
-    "category": "Image/Graphics",
-    "type": "GIF",
-    "url": "https://npc.org/images/reports_2.gif"
-  },
-  {
-    "title": "Report Index",
-    "year": "Inferred/Unknown",
-    "category": "Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/reports/index.htm"
-  },
-  {
-    "title": "Call of Meeting Press Release",
-    "year": "2022",
-    "category": "Meeting Documents/Press Release",
-    "type": "PDF",
-    "url": "https://npc.org/reports/call_of_meeting_2022_12_05_pr.pdf"
-  },
-  {
-    "title": "Draft Facing Hard Truths Report",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/facing_hard_truths.pdf"
-  },
-  {
-    "title": "Draft Chapter 1: Demand Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/chapter1_demand_samples.pdf"
-  },
-  {
-    "title": "Draft Chapter 3: Technology Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/chapter3_technology_samples.pdf"
-  },
-  {
-    "title": "Draft Methodology Document",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/methodology_document.pdf"
-  },
-  {
-    "title": "Draft Executive Summary Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/executive_summary_samples.pdf"
-  },
-  {
-    "title": "Draft Chapters Six to End Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/chapters_six_to_end_samples.pdf"
-  },
-  {
-    "title": "Draft HTML Page",
-    "year": "Inferred/Unknown",
-    "category": "Draft Reports",
-    "type": "HTML",
-    "url": "https://npc.org/reports/drafts_2007/draft.htm"
-  },
-  {
-    "title": "Draft Chapter 2: Supply Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/chapter2_supply_samples.pdf"
-  },
-  {
-    "title": "Draft Preface",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/preface.pdf"
-  },
-  {
-    "title": "Draft Chapter 4: Geopolitics Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/chapter4_geopolitics_samples.pdf"
-  },
-  {
-    "title": "Draft Chapter 5: Carbon Samples",
-    "year": "2007",
-    "category": "Draft Reports",
-    "type": "PDF",
-    "url": "https://npc.org/reports/drafts_2007/chapter5_carbon_samples.pdf"
-  },
-  {
-    "title": "Order Information Image",
-    "year": "Inferred/Unknown",
-    "category": "Image/Graphics",
-    "type": "GIF",
-    "url": "https://npc.org/images/order_information.gif"
-  },
-  {
-    "title": "Reports Archive",
-    "year": "2020",
-    "category": "Archive",
-    "type": "TAR.GZ",
-    "url": "https://npc.org/reports/2020/reports.tar.gz"
-  },
-  {
-    "title": "NPC Infra-CCUS Council Meeting Document",
-    "year": "2019",
-    "category": "Meeting Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra-CCUS_Council_Meeting_Document.pdf"
-  },
-  {
-    "title": "View Center (DHAVAL)",
-    "year": "Inferred/Unknown",
-    "category": "Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/viewcenter_dhaval.htm"
-  },
-  {
-    "title": "Post-Meeting Document",
-    "year": "2021",
-    "category": "Meeting Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2021/post_meeting_document.pdf"
-  },
-  {
-    "title": "Feedback Page",
-    "year": "Inferred/Unknown",
-    "category": "Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/feedback.htm"
-  },
-  {
-    "title": "OCR Test File (DELETE?)",
-    "year": "Inferred/Unknown",
-    "category": "Test File",
-    "type": "PDF",
-    "url": "https://npc.org/reports/ocr_test_file.pdf"
-  },
-  {
-    "title": "View Center",
-    "year": "2021",
-    "category": "Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/viewcenter_2021.htm"
-  },
-  {
-    "title": "Natural Gas Flyer",
-    "year": "2005",
-    "category": "Marketing/Flyer",
-    "type": "PDF",
-    "url": "https://npc.org/reports/natural_gas_flyer_2005.pdf"
-  },
-  {
-    "title": "Secretarial Letter 150",
-    "year": "Inferred/Unknown",
-    "category": "Official Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/secretarial_letter_150.pdf"
-  },
-  {
-    "title": "ARSA Press Release",
-    "year": "2019",
-    "category": "Press Release",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/arsa_pr.pdf"
-  },
-  {
-    "title": "Infra CCUS Chapter 3: PSSLO",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch3-PSSLO.pdf"
-  },
-  {
-    "title": "Old Infra CCUS SC Page",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PHP",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/sc-old.php"
-  },
-  {
-    "title": "Infra CCUS Chapter 2: IRMA",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch2-IRMA.pdf"
-  },
-  {
-    "title": "Infra CCUS Chapter 4: TAD",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch4-TAD.pdf"
-  },
-  {
-    "title": "Infra CCUS Appendix B",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/AppB.pdf"
-  },
-  {
-    "title": "Infra CCUS Executive Summary",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/ExecSummary.pdf"
-  },
-  {
-    "title": "Infra CCUS Appendix A",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/AppA.pdf"
-  },
-  {
-    "title": "Infra CCUS Chapter 1: Supply & Demand",
-    "year": "2019",
-    "category": "CCUS Draft Documents",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch1-SD.pdf"
-  },
-  {
-    "title": "Call of Meeting Press Release",
-    "year": "2017",
-    "category": "Meeting Documents/Press Release",
-    "type": "PDF",
-    "url": "https://npc.org/reports/call_of_meeting_2017_12_05_pr.pdf"
-  },
-  {
-    "title": "Files Index",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "PHP",
-    "url": "https://npc.org/files/index.php"
-  },
-  {
-    "title": "jQuery Minified",
-    "year": "Inferred/Unknown",
-    "category": "Code/Utility",
-    "type": "JavaScript",
-    "url": "https://npc.org/files/jquery-1.11.3.min.js"
-  },
-  {
-    "title": "Files HTACCESS",
-    "year": "Inferred/Unknown",
-    "category": "Configuration",
-    "type": "HTACCESS",
-    "url": "https://npc.org/files/.htaccess"
-  },
-  {
-    "title": "Hydrogen Study Update",
-    "year": "2023",
-    "category": "Reports/Updates",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2023/Hydrogen_Update.pdf"
-  },
-  {
-    "title": "GHG Study Update",
-    "year": "2023",
-    "category": "Reports/Updates",
-    "type": "PDF",
-    "url": "https://npc.org/reports/2023/GHG_Update.pdf"
-  },
-  {
-    "title": "PDFJS Viewer JS Map",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Code",
-    "type": "JS Map",
-    "url": "https://npc.org/viewer/viewer.js.map"
-  },
-  {
-    "title": "PDFJS Viewer HTML",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Web Pages",
-    "type": "HTML",
-    "url": "https://npc.org/viewer/viewer.html"
-  },
-  {
-    "title": "PDFJS Compressed Tracemonkey PDF",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Demo File",
-    "type": "PDF",
-    "url": "https://npc.org/viewer/compressed.tracemonkey-pldi-09.pdf"
-  },
-  {
-    "title": "PDFJS Viewer JS",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Code",
-    "type": "JavaScript",
-    "url": "https://npc.org/viewer/viewer.js"
-  },
-  {
-    "title": "PDFJS Debugger JS",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Code",
-    "type": "JavaScript",
-    "url": "https://npc.org/viewer/debugger.js"
-  },
-  {
-    "title": "PDFJS Annotation Key SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-key.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Download SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-download.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button View Attachments SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-viewAttachments.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Open File SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-openFile.svg"
-  },
-  {
-    "title": "PDFJS Shadow PNG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "PNG",
-    "url": "https://npc.org/viewer/images/shadow.png"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Rotate CW SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-rotateCW.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Current Outline Item SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-currentOutlineItem.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Page Up SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-pageUp.svg"
-  },
-  {
-    "title": "PDFJS Annotation Check SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-check.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Rotate CCW SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-rotateCCW.svg"
-  },
-  {
-    "title": "PDFJS Annotation Insert SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-insert.svg"
-  },
-  {
-    "title": "PDFJS Findbar Button Previous SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/findbarButton-previous.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button View Layers SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-viewLayers.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Menu Arrow SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-menuArrow.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Scroll Horizontal SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-scrollHorizontal.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Print SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-print.svg"
-  },
-  {
-    "title": "PDFJS Annotation No Icon SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-noicon.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Search SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-search.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Scroll Wrapped SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-scrollWrapped.svg"
-  },
-  {
-    "title": "PDFJS Loading Dark SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/loading-dark.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Select Tool SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-selectTool.svg"
-  },
-  {
-    "title": "PDFJS Tree Item Expanded SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/treeItem-expanded.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Spread None SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-spreadNone.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Document Properties SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-documentProperties.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Zoom In SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-zoomIn.svg"
-  },
-  {
-    "title": "PDFJS Annotation Note SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-note.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button View Thumbnail SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-viewThumbnail.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Secondary Toolbar Toggle SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-secondaryToolbarToggle.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Presentation Mode SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-presentationMode.svg"
-  },
-  {
-    "title": "PDFJS Tree Item Collapsed SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/treeItem-collapsed.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Last Page SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-lastPage.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Spread Even SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-spreadEven.svg"
-  },
-  {
-    "title": "PDFJS Loading Icon GIF",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "GIF",
-    "url": "https://npc.org/viewer/images/loading-icon.gif"
-  },
-  {
-    "title": "PDFJS Annotation Paragraph SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-paragraph.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Sidebar Toggle SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-sidebarToggle.svg"
-  },
-  {
-    "title": "PDFJS Grab Cursor",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "Cursor File",
-    "url": "https://npc.org/viewer/images/grab.cur"
-  },
-  {
-    "title": "PDFJS Toolbar Button Zoom Out SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-zoomOut.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Scroll Vertical SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-scrollVertical.svg"
-  },
-  {
-    "title": "PDFJS Annotation New Paragraph SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-newparagraph.svg"
-  },
-  {
-    "title": "PDFJS Findbar Button Next SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/findbarButton-next.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button First Page SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-firstPage.svg"
-  },
-  {
-    "title": "PDFJS Grabbing Cursor",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "Cursor File",
-    "url": "https://npc.org/viewer/images/grabbing.cur"
-  },
-  {
-    "title": "PDFJS Annotation Comment SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-comment.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Page Down SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-pageDown.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Hand Tool SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-handTool.svg"
-  },
-  {
-    "title": "PDFJS Secondary Toolbar Button Spread Odd SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/secondaryToolbarButton-spreadOdd.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button Bookmark SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-bookmark.svg"
-  },
-  {
-    "title": "PDFJS Loading SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/loading.svg"
-  },
-  {
-    "title": "PDFJS Annotation Help SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/annotation-help.svg"
-  },
-  {
-    "title": "PDFJS Toolbar Button View Outline SVG",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Images",
-    "type": "SVG",
-    "url": "https://npc.org/viewer/images/toolbarButton-viewOutline.svg"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Afrikaans",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/af/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Mexican Spanish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/es-MX/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Cakchiquel",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/cak/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Tamil",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ta/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Marathi",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/mr/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Indian Punjabi",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/pa-IN/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Bulgarian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/bg/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Slovenian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/sl/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Armenian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/hy-AM/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Fulah",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ff/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Scottish Gaelic",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/gd/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Dutch",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/nl/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Danish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/da/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Kabyle",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/kab/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Bosnian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/bs/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Arabic",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ar/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Catalan",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ca/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Ukrainian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/uk/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Romansh",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/rm/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Bodo",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/brx/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Albanian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/sq/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Lower Sorbian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/dsb/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Hebrew",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/he/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Indian Hindi",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/hi-IN/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Serbian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/sr/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Central Kurdish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ckb/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Guarani",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/gn/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Kazakh",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/kk/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Finnish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/fi/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Telugu",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/te/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Asturian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ast/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Western Frisian (Netherlands)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/fy-NL/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Swedish (Sweden)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/sv-SE/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Burmese",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/my/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Sicilian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/scn/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Korean",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ko/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Wolof",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/wo/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Tajik",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/tg/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Malay",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ms/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Norwegian Bokmål (Norway)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/nb-NO/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Italian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/it/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Xhosa",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/xh/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Esperanto",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/eo/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Eastern Armenian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/hy/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Turkish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/tr/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Occitan",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/oc/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Scots",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/sco/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Khmer",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/km/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Tibetan",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/bo/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Norwegian Nynorsk (Norway)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/nn-NO/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Lao",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/lo/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Silesian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/szl/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Kannada",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/kn/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Czech",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/cs/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Macedonian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/mk/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Interlingua",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/ia/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Sinhala",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/si/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Thai",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/th/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: German",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/de/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Hungarian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/hu/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Breton",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/br/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Chinese (Traditional, Taiwan)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/zh-TW/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Chinese (Simplified, China)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/zh-CN/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Basque",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/eu/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Locale Properties",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/locale.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: European Spanish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/es/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Gujarati (India)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/gu-IN/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: English (Canada)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/en-CA/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Azerbaijani",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/az/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Indonesian",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/id/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Trs (Trs is likely an unknown language code)",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/trs/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Brazilian Portuguese",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/pt-BR/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Polish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/pl/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Icelandic",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/is/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Chilean Spanish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/es-CL/viewer.properties"
-  },
-  {
-    "title": "PDFJS Viewer Locale: Argentine Spanish",
-    "year": "Inferred/Unknown",
-    "category": "PDF Reader/Localization",
-    "type": "Properties",
-    "url": "https://npc.org/viewer/locale/es-AR/viewer.properties"
+    "title": "Petroleum Market Developments – Progress and Actions to Increase Supply and Improve Resilience",
+    "url": "https://npc.org/reports/Petroleum_Market_Developments-2023-5-16.pdf",
+    "image_url": "https://npc.org/reports/EPP-12-22_Market_Developments.gif",
+    "description": "Affordable energy is essential to help improve the quality of life for global citizens and to help economic growth. The global energy system is both large and complex. The last three years have seen dramatic changes in energy demand and supply caused initially by the COVID pandemic and then the Russian invasion of Ukraine. While this experience has shown the resilience of the global energy system, it has also again demonstrated the need to allow the energy markets to function as efficiently as possible to avoid disruption. This report discusses a number of key areas where industry and the administration can continue to work together to ensure the energy markets are as efficient as possible. These include ensuring continued free access to imports and exports of natural gas, crude oil, and refined products, removing barriers to supply such as permitting of production and processing, and enabling low-cost transportation for all types of energy. This report also discusses steps that should be taken to help respond to disruptions caused by hurricanes, cyber-attacks, and physical attacks.",
+    "year": 2022,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 120,
+    "anchor_name": "mktdev2022",
+    "file_size": "9.2 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": "https://www.amazon.com/Petroleum-Market-Developments-Progress-Resilience/dp/0979970024/ref=sr_1_fkmr0_1?crid=3DU2L9LWC5UKB&keywords=national+petroleum+council+market+developments+2022&qid=1685984581&sprefix=national%2520petroleum%2520council%2520market%2520developments%25202022%2Caps%2C61&sr=8-1-fkmr0"
+  },
+  {
+    "title": "Emergency Preparedness Implementation Addendum",
+    "url": "https://npc.org/reports/EP2016-working_paper.pdf",
+    "image_url": "",
+    "description": "The NPC members, through approving the 2014 NPC report Enhancing Emergency Preparedness for Natural Disasters, made a commitment to follow through with DOE and support implementation of the recommendations. In April 2016, DOE held the fourth annual 'Clear Path' energy sector preparedness exercise and changed the exercise from an academic session format of earlier Clear Path exercises and more toward a functional exercise. This exercise provided an opportunity to observe and document the implementation of the 2014 NPC report recommendations. The exercise planning, observation, and feedback built upon previous work completed by DOE and industry in working toward implementing the NPC report recommendations. The move to a functional exercise created the opportunity for industry and government to work together not just during the exercise, but during the planning and review processes. The 2016 NPC Implementation Addendum is a presentation and working paper that is the output of this effort, providing a detailed summary on progress in implementing the 2014 NPC report recommendations and opportunities for improvement.",
+    "year": 2016,
+    "category": "Emergency Planning and Preparedness",
+    "pages": null,
+    "anchor_name": "ep2016",
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Transmittal Letter",
+        "url": "https://npc.org/reports/EP2016-Transmittal_letter.pdf"
+      },
+      {
+        "title": "Summary presentation",
+        "url": "https://npc.org/reports/EP2016-presentation-final.pdf"
+      },
+      {
+        "title": "Working paper",
+        "url": "https://npc.org/reports/EP2016-working_paper.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "Enhancing Emergency Preparedness for Natural Disasters",
+    "url": "https://npc.org/reports/2014-Emergency_Preparedness-lr.pdf",
+    "image_url": "https://npc.org/reports/EP-2014-c1.gif",
+    "description": "The report provides advice on how the oil and natural gas industry and government can better prepare for and respond to significant disruptions to oil and natural gas supply chains caused by natural disasters, such as hurricanes, earthquakes, floods, etc. Although this study focuses on emergency scenarios caused by natural disasters, the outcomes from this study will be useful to DOE and industry in responding to impacts from a much broader range of potential incidents and vulnerabilities that result in energy disruptions. The recommendations identify mechanisms for the U.S. government and industry to improve communication and coordination in responding to energy system disruptions and fall into two broad categories: (1) leveraging institutional frameworks that are appropriately staffed and (2) maintaining readiness through sustaining mechanisms to address interdependencies, enhance capabilities, and continuously improve. The government and industry share a commitment to prepare for, mitigate the impacts from, and respond to the energy supply disruptions caused by natural disasters.",
+    "year": 2014,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 192,
+    "anchor_name": "ep2014",
+    "file_size": "15.8 MB",
+    "file_format": "PDF",
+    "resolution": "Low",
+    "additional_formats": [
+      {
+        "format": "ePUB",
+        "url": "https://npc.org/ePubs/Enhancing_Emergency_Preparedness.epub",
+        "file_size": "10.8 MB"
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Securing Oil and Natural Gas Infrastructures In the New Economy",
+    "url": "https://npc.org/reports/NPC_CIP_4.pdf",
+    "image_url": "https://npc.org/reports/cip-2001.gif",
+    "description": "This NPC report suggests actions for identifying and reducing infrastructure vulnerabilities within the oil and natural gas industries. It presents the case for moving forward in the new business environment, adopting critical infrastructure protection thinking as part of the foundation of acting in the best interests of a company. It identifies the issues and the steps forward that the oil and natural gas industries and the government will need to implement to ensure the integrity and continuity of the industries' infrastructure. This report's recommendations are intended to be dynamic, reflecting the fact that the industry is in the midst of significant change. Even the understanding of critical infrastructure protection is still evolving. Energy infrastructures are inextricably linked with other critical infrastructures, and, as a result, the report takes a holistic perspective on critical infrastructure protection.",
+    "year": 2001,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 100,
+    "anchor_name": "cip2001",
+    "file_size": "1.5 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Order form for printed copies",
+        "url": "https://npc.org/reports/CIP_flyer.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "Industry Assistance to Government – Methods for Providing Petroleum Industry Expertise During Emergencies",
+    "url": "https://npc.org/reports/reports_pdf/epp1991-Industry_Assistance_to_Govt.pdf",
+    "image_url": "https://npc.org/reports/ep-ind_asst-91.gif",
+    "description": "The report was prepared in response to a request from the Secretary to recommend methods of government/industry cooperation to use in varying stress situations, particularly national security emergencies. The NPC report recommends three types or levels of petroleum industry assistance in energy emergencies, depending on their nature and severity. The response levels include: company emergency contacts, executive advisory groups, and a petroleum National Defense Executive Reserve. The report presents a detailed discussion of each response level, the practical and legal aspects of the various methods, and recommendations on the mission, organization, and rules of operation of each.",
+    "year": 1991,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 130,
+    "anchor_name": "IATG91",
+    "file_size": "54.5 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/epp1991-Industry_Assistance_to_Govt-lowres.pdf",
+        "file_size": "14.1 MB",
+        "resolution": "Low"
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Short-Term Petroleum Outlook – An Examination of Issues and Projections",
+    "url": "https://npc.org/reports/epp1991-Short_Term_Petroleum_Outlook.pdf",
+    "image_url": "https://npc.org/reports/emerprep-1-91.gif",
+    "description": "The report discusses significant issues relating to the short-term worldwide supply and demand for crude oil and refined petroleum products following Iraq's invasion of Kuwait. The report, prepared prior to the successful 'Operation Desert Storm,' places emphasis on ways in which the complex but flexible petroleum distribution system could be expected to deal with the effects of various types of problems. The issue of most immediate interest and concern was the potential effect of a significant further disruption of petroleum exports from the Middle East. The Council's report recommended several actions to ensure that the impact of such a disruption on military needs and the U.S. economy, if it were to occur, would be minimized. The Council also cautioned against certain types of government response that could reduce the ability of the petroleum supply system to respond effectively.",
+    "year": 1991,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 140,
+    "anchor_name": "stpo91",
+    "file_size": "6.3 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/epp1991-Short_Term_Petroleum_Outlook-lowres.pdf",
+        "file_size": "4 MB",
+        "resolution": "Low"
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "The Strategic Petroleum Reserve: A Report on the Capability to Distribute SPR Oil",
+    "url": "https://npc.org/reports/1984-Strategic_Petroleum_Reserve.pdf",
+    "image_url": "https://npc.org/reports/spr1984.gif",
+    "description": "The report examines the capabilities of the Strategic Petroleum Reserve to distribute oil during an emergency and recommends certain changes to ensure the timely and efficient drawdown, distribution, and refining of SPR crude oil. The study assesses the capabilities of four operational areas: SPR facilities, the overland distribution system, the marine distribution system, and the domestic refining industry. These areas are studied under three distinct cases: 1983 actual conditions, a 1990 nondisrupted case, and a 1990 disrupted case.",
+    "year": 1984,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 296,
+    "anchor_name": null,
+    "file_size": "17.1 MB",
+    "file_format": "PDF",
+    "resolution": "Low",
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Emergency Preparedness for Interruption of Petroleum Imports into the United States",
+    "url": "https://npc.org/reports/1981-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports into_US.pdf",
+    "image_url": "https://npc.org/reports/empprep-4-81.gif",
+    "description": "The report discusses emergency preparedness plans for oil import disruptions, specifically addressing emergency demand reduction and fuel substitution options, inventories and strategic stocks, emergency oil and gas production, emergency refining operations, emergency logistics operations, international considerations, and emergency industry/government operations. The study examines potential emergencies stemming from major cutoffs of oil imports into the United States and does not deal with public issues related to petroleum industry operations in non-emergency conditions.",
+    "year": 1981,
+    "category": "Emergency Planning and Preparedness",
+    "pages": 512,
+    "anchor_name": null,
+    "file_size": "13.2 MB",
+    "file_format": "PDF",
+    "resolution": "Low",
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Principles, and Oil & Gas Industry Initiatives and Technologies for Progressing to Net Zero",
+    "url": "https://npc.org/reports/Net-Zero_Report_2023-5-23.pdf",
+    "image_url": "https://npc.org/reports/EO-12-22_Net_Zero.gif",
+    "description": "Today, the energy industry in the United States and worldwide is in the midst of a major transition – to continue to provide energy needed for economic growth, poverty reduction, and well-being while reducing greenhouse gas (GHG) emissions. The U.S. oil and gas industry will be critical and essential to meeting the net-zero emission targets for the United States. And the capabilities it develops and deploys will also be applied around the world, providing a major contribution for meeting global targets for emission reduction. There is a wide spectrum of technologies and pathways that will be necessary to reduce emissions across various end use sectors. This report focuses on initiatives that the U.S. oil and gas industry is taking to advance decarbonization and the actions the U.S. government can take to help ensure a more manageable transition to a net-zero economy by working in partnership with the industry.",
+    "year": 2022,
+    "category": "Energy Outlook",
+    "pages": 96,
+    "anchor_name": "netzero2022",
+    "file_size": "9.9 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": "https://www.amazon.com/Principles-Industry-Initiatives-Technologies-Progressing/dp/0979970032/ref=sr_1_1?crid=3A4RVJE604ST2&keywords=national+petroleum+council+net+zero&qid=1685741434&s=books&sprefix=national+petroleum+council+net+zero%2Cstripbooks%2C64&sr=1-1"
+  },
+  {
+    "title": "One Year Later: An Update on Facing the Hard Truths about Energy",
+    "url": "https://npc.org/reports/Hard_Truths-update_2008.pdf",
+    "image_url": "",
+    "description": "The NPC's 2007 report, Facing the Hard Truths about Energy, received unprecedented interest in the U.S. and abroad. Much happened in the energy sector in the year following the report's release, including significant volatility in oil and natural gas prices and an increased focus on energy policy. As a result of these events and in response to Secretary Bodman's expressed interest, the NPC undertook this update. Key participants in the 2007 study examined feedback received on the report and the implications of recent energy outlooks and events on the report's findings and recommendations. The results were released as a slide presentation.",
+    "year": 2008,
+    "category": "Energy Outlook",
+    "pages": null,
+    "anchor_name": "htupdate2008",
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Facing the Hard Truths about Energy – A Comprehensive View to 2030 of Global Oil and Natural Gas",
+    "url": "http://www.npchardtruthsreport.org/",
+    "image_url": "https://npc.org/reports/FacingHardTruths-C1.gif",
+    "description": "The American people are very concerned about energy—its availability, reliability, cost, and environmental impact. Energy also has become a subject of urgent policy discussions. But energy is a complex subject, touching every part of daily life and the overall economy, involving a wide variety of technologies, and deeply affecting many aspects of our foreign relations. The United States is the largest participant in the global energy system—the largest consumer, the second largest producer of coal and natural gas, and the largest importer and third largest producer of oil. Developing a framework for considering America's oil and natural gas position now and for the future requires a broad view and a long-term perspective; both are provided in this study, which was prepared in response to a request from the Secretary of Energy.",
+    "year": 2007,
+    "category": "Energy Outlook",
+    "pages": 388,
+    "anchor_name": "ht2007",
+    "file_size": null,
+    "file_format": "Website",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "CD",
+        "description": "Full report plus additional documentation including Data Warehouse files and Topic Papers"
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": "http://www.npchardtruthsreport.org/"
+  },
+  {
+    "title": "Issues for Interagency Consideration: A Supplement to the NPC's Report: Future Issues – A View of U.S. Oil – Natural Gas to 2020",
+    "url": "https://npc.org/reports/reports_pdf/eo1996-Issues_for_Interagency_Consideration-Supplement_to_Future_Issues_1996.pdf",
+    "image_url": "https://npc.org/reports/eo-issues_01-96.gif",
+    "description": "This supplemental report presents a prioritized list of 18 policy or regulatory issues that significantly affect industry competitiveness and require coordinated consideration or action by government. This supplement was prepared specifically for the use of an Interagency Working Group that the Secretary of Energy established in response to a recommendation in the NPC's 1995 Future Issues report. The NPC's prioritized list of oil and gas issues was developed through a poll of its membership. The supplement provides descriptions of the issues and details of the process used in their prioritization.",
+    "year": 1996,
+    "category": "Energy Outlook",
+    "pages": 50,
+    "anchor_name": "IFIC96",
+    "file_size": "4.6 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Future Issues – A View of U.S. Oil – Natural Gas to 2020",
+    "url": "https://npc.org/reports/reports_pdf/eo1995-Future_Issues-View_of_US_Oil_n_Natural_Gas_to_2020.pdf",
+    "image_url": "https://npc.org/reports/fut-o-g2020_8-95.gif",
+    "description": "This report makes specific recommendations on policy and regulatory actions as well as industry and government leadership steps to address future issues. The report analyzes the oil and gas industry's role in the nation's economy, identifies the issues and policies that will most likely shape the industry over the next 25 years, and provides approaches to resolution of these issues. A broad range of stakeholder views was considered in the development of this report. About 100 thought leaders from both inside and outside the industry participated in a series of structured interviews and workshops conducted for the study. Participants represented a diverse set of parties including public interest and environmental organizations; industry observers, analysts, and customers; government policymakers and regulators; as well as all segments of the oil and gas industry.",
+    "year": 1995,
+    "category": "Energy Outlook",
+    "pages": 200,
+    "anchor_name": "FI95",
+    "file_size": "24.3 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/eo1995-Future_Issues-View_of_US_Oil_n_Natural_Gas_to_2020-Abridged.pdf",
+        "file_size": "2.7 MB",
+        "description": "Abridged Edition (50 pages)"
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Factors Affecting U.S. Oil & Gas Outlook",
+    "url": "https://npc.org/reports/reports_pdf/1987-Factors_Affecting_US_Oil_n_Gas_Outlook.pdf",
+    "image_url": "https://npc.org/reports/factors_o-goutlk-2-87.gif",
+    "description": "The report analyzes the factors affecting the nation's future supply of and demand for oil and natural gas and provides a historical perspective of the 1970s energy crises, their economic impacts, and the appropriateness of the U.S. policy responses. A discussion of various government policy options available for avoiding or mitigating U.S. vulnerability to future energy crises is also presented. Advantages and disadvantages of the major options are outlined. The report includes the results of economic model analyses of the 1970s energy crises and the 1986 price declines as well as survey data illustrating the sensitivity of supply, demand, and future drilling activity levels to oil prices to the year 2000.",
+    "year": 1987,
+    "category": "Energy Outlook",
+    "pages": 250,
+    "anchor_name": "fausogo87",
+    "file_size": "10.2 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "U.S. Oil & Gas Outlook – Interim Report",
+    "url": "https://npc.org/reports/1986-US_Oil_n_Gas_Outlook-Interim_Report.pdf",
+    "image_url": "https://npc.org/reports/1986-Oil_Gas-Interim.gif",
+    "description": "In September 1985, the Secretary of Energy requested that the NPC undertake a study to examine the factors affecting the nation's future supply of and demand for oil and natural gas. The Secretary's letter also requested that the study examine the factors that precipitated the 1970s energy crises, their financial impact on the nation's economy, the appropriateness of government's response, and the potential for the recurrence of such crises. In addition, the Council was asked to advise on how the vulnerability to future energy crises can be avoided or mitigated. The Committee felt it imperative that an interim report should be developed and published no later than October 1986, focusing on the recent severe drop in oil prices and its impact on the oil and gas business—and in turn on the economic and strategic security of the United States. The study's final report was published in early 1987.",
+    "year": 1986,
+    "category": "Energy Outlook",
+    "pages": 64,
+    "anchor_name": "ogo86int",
+    "file_size": "3 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Charting the Course: Reducing GHG Emissions from the U.S. Natural Gas Supply Chain",
+    "url": "https://chartingthecourse.npc.org",
+    "image_url": "https://npc.org/reports/EI-04-23-GHG-v1-cover.gif",
+    "description": "The report, entitled Charting the Course: Reducing GHG Emissions from the U.S. Natural Gas Supply Chain, is the response to the request from the Secretary for the Council's advice on this subject. Natural gas is the largest primary energy produced in the United States and its use is growing. Yet getting this gas to homes and businesses creates greenhouse gas emissions. Thus, reducing emissions from America's natural gas is an urgent priority that requires collaborative solutions. The National Petroleum Council brought together a diverse group of stakeholders with the expertise to analyze this complex issue and identify ways to reduce natural gas GHG emissions for all future supply and demand scenarios. The result: actionable consensus on ensuring a lower-emission natural gas system. The study's research charts a course forward to meaningfully reduce emissions from the natural gas system, contributing significantly to the United States' ability to achieve its climate goals.",
+    "year": 2024,
+    "category": "Environmental Issues",
+    "pages": 592,
+    "anchor_name": "chart423",
+    "file_size": null,
+    "file_format": "Website",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Volume I: Report Summary",
+        "url": "https://chartingthecourse.npc.org"
+      },
+      {
+        "title": "Volume II: Report Chapters and Appendices",
+        "url": "https://chartingthecourse.npc.org"
+      }
+    ],
+    "purchase_link": "https://chartingthecourse.npc.org"
+  },
+  {
+    "title": "Harnessing Hydrogen: A Key Element of the U.S. Energy Future",
+    "url": "https://harnessinghydrogen.npc.org",
+    "image_url": "https://npc.org/reports/EI-04-23-Harnessing_H2-V2.gif",
+    "description": "The report, entitled Harnessing Hydrogen: A Key Element of the U.S. Energy Future, is the response to the request from the Secretary for the Council's advice on this subject. If deployed at-scale, low carbon intensity (LCI) hydrogen technology applications in the hard-to-abate sectors can support achieving U.S. carbon emissions reduction ambitions at a lower cost to society. At the request of the Secretary of Energy, the National Petroleum Council conducted a comprehensive study on the deployment of LCI hydrogen at-scale in the United States to support decarbonization of various energy and industrial market sectors across the entire value chain, including production, storage, transportation, and end uses. This study's report evaluates the key economic, policy, regulatory, technical, and public acceptance challenges and critical enablers along the hydrogen value chain that must be addressed to achieve at-scale LCI hydrogen deployment.",
+    "year": 2024,
+    "category": "Environmental Issues",
+    "pages": 828,
+    "anchor_name": "hh423",
+    "file_size": null,
+    "file_format": "Website",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Volume I: Report Summary",
+        "url": "https://harnessinghydrogen.npc.org"
+      },
+      {
+        "title": "Volume II: Analysis of the LCI Hydrogen Value Chain",
+        "url": "https://harnessinghydrogen.npc.org"
+      },
+      {
+        "title": "Volume III: Supporting Appendices",
+        "url": "https://harnessinghydrogen.npc.org"
+      }
+    ],
+    "purchase_link": "https://harnessinghydrogen.npc.org"
+  },
+  {
+    "title": "Meeting the Dual Challenge: A Roadmap to At-Scale Deployment of Carbon Capture, Use, and Storage",
+    "url": "https://dualchallenge.npc.org/downloads.php",
+    "image_url": "https://npc.org/reports/EI-12-19-CCUS_V1.gif",
+    "description": "Carbon capture, use, and storage (CCUS) is essential to meeting the dual challenge of providing affordable, reliable energy while addressing the risks of climate change at the lowest cost. The United States is uniquely positioned as the world leader in CCUS, with approximately 80% of the world's CCUS capacity and substantial capability to drive widespread deployment in the United States and abroad. Building on expertise and previous research, Meeting the Dual Challenge addresses the entire CCUS supply chain and recognizes that at-scale success requires economic and operational integration across industries, harmonized local/state/federal regulations, innovation and technology development, and broad public acceptance. The report details the actions needed to deploy carbon capture technologies at scale in the United States, an essential climate mitigation technology identified in the majority of global energy outlooks.",
+    "year": 2019,
+    "category": "Environmental Issues",
+    "pages": 474,
+    "anchor_name": "ccus1219",
+    "file_size": null,
+    "file_format": "Website",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Volume I: Summary of Findings and Recommendations",
+        "url": "https://dualchallenge.npc.org/downloads.php"
+      },
+      {
+        "title": "Volume II: Analysis of CCUS Deployment At-Scale",
+        "url": "https://dualchallenge.npc.org/downloads.php"
+      },
+      {
+        "title": "Volume III: Analysis of CCUS Technologies",
+        "url": "https://dualchallenge.npc.org/downloads.php"
+      }
+    ],
+    "purchase_link": "https://www.amazon.com/dp/B08Z9W4ZXM?ref_=pe_3052080_397514860"
+  },
+  {
+    "title": "The Oil Pollution Act of 1990 – Issues and Solutions",
+    "url": "https://npc.org/reports/reports_pdf/ei1994-Oil_Pollution_Act_of_1990-Issues_and_Solutions.pdf",
+    "image_url": "https://npc.org/reports/oilpolact90_7-94.gif",
+    "description": "This report presents the Council's findings regarding the implementation of financial responsibility provisions of the Oil Pollution Act (OPA) as they relate to offshore facilities. The Council has concluded that, properly implemented, OPA could safeguard the public interest by improving oil spill prevention and response without undue harm to the oil and gas industries. However, regulations similar to those outlined by the Minerals Management Service (MMS) in its Advance Notice of Proposed Rulemaking could have serious and substantial impacts on all segments of the oil and gas industries and disrupt commerce in many other areas. The report examines the issues involved including: (1) a legal background and history; (2) the potential impacts on U.S. oil and gas production; and (3) impacts on the insurance and financial communities, and other parties.",
+    "year": 1994,
+    "category": "Environmental Issues",
+    "pages": 208,
+    "anchor_name": "topao",
+    "file_size": "10.9 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Environmental Conservation – The Oil and Gas Industries",
+    "url": "https://npc.org/reports/1981-Environmental_Conservation-Oil_and_Gas_Industries-Overview.pdf",
+    "image_url": "https://npc.org/reports/ei-env_conserv-81_82.gif",
+    "description": "The report considers three principal areas: current industry operations and the facilities and procedures that are used to protect the environment; the specific areas of environmental law and regulation that have directly affected the availability and cost of petroleum products and natural gas; and significant environmental issues of the 1980s. The report is presented in two parts: the Overview volume published by the NPC in December 1981; and a more detailed volume describing petroleum industry operations and their relationship to environmental quality, which was published by the NPC in mid-1982. The latter volume contains extensive notes and references and is indexed to facilitate its use as a reference document.",
+    "year": 1981,
+    "category": "Environmental Issues",
+    "pages": 814,
+    "anchor_name": "EC",
+    "file_size": "27.9 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1982-Environmental_Conservation-Oil_and_Gas_Industries.pdf",
+        "file_size": "23.7 MB",
+        "description": "1982 Detailed Volume"
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Balancing Natural Gas Policy – Fueling the Demands of a Growing Economy",
+    "url": "https://npc.org/reports/NG_Volume_1.pdf",
+    "image_url": "https://npc.org/reports/ng.gif",
+    "description": "This multi-volume report responds to a request from the Secretary of Energy for the Council's advice on the potential implications of new supplies, new technologies, new perceptions of risk, and other evolving market conditions that may affect the potential for natural gas demand, supplies, and delivery through 2025. The report provides insights on energy-market dynamics, including price volatility and future fuel choice, and an outlook on the longer-term sustainability of natural gas supplies. It also provides the Council's advice on actions that can be taken by industry and government to increase the productivity and efficiency of North American natural gas markets and to ensure adequate and reliable supplies of energy for consumers. The report analyzes natural gas demand, supply, and transmission in the United States, Canada, and Mexico. The demand analysis provides an understanding of the economic and environmental determinants of natural gas consumption to estimate how the various sectors respond to different gas price regimes. The supply analysis develops a basin-by-basin supply picture, and examines potential new sources of supply such as liquefied natural gas and Arctic gas. The transmission portion of the report provides an extensive review of existing and planned infrastructure in North America emphasizing, among other things, the need to maintain the current infrastructure and to ensure its reliability.",
+    "year": 2003,
+    "category": "Natural Gas",
+    "pages": null,
+    "anchor_name": "21cng",
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/NG2003-Int_Rpt-vol2.pdf",
+        "description": "Volume II: Integrated Report"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/DTG-final.pdf",
+        "description": "Volume III: Demand Task Group Report",
+        "file_size": "11.3 MB"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/STG-final.pdf",
+        "description": "Volume IV: Supply Task Group Report",
+        "file_size": "3.3 MB"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/Vol_5-final.pdf",
+        "description": "Volume V: Transmission and Distribution Task Group Report and LNG Subgroup Report",
+        "file_size": "13.6 MB"
+      },
+      {
+        "format": "CD-ROM",
+        "description": "Natural Gas CD-ROM – Principal Modeling Activities",
+        "url": "https://npc.org/reports/ng2003-cd.html"
+      }
+    ],
+    "related_documents": [
+      {
+        "title": "2003 Natural Gas Report order form",
+        "url": "https://npc.org/reports/2005_NG_flyer.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "Meeting the Challenges of the Nation's Growing Natural Gas Demand",
+    "url": "https://npc.org/reports/ReportVol1.pdf",
+    "image_url": "https://npc.org/reports/nat_gas-12-99.gif",
+    "description": "This three-volume report was prepared in response to a request from the Secretary of Energy to provide advice on the potential contribution of natural gas in meeting the nation's future economic, energy, and environmental goals. The primary focus of the study was to test supply and delivery systems against significantly increased demand. The report provides extensive analysis of current and historical data and recommends focus and action on these critical factors: Access to resources and rights-of-way, continued technological advancements, financial requirements for developing new supply and infrastructure, availability of skilled workers, expansion of the U.S. drilling fleet, lead times for development, and changing customer needs.",
+    "year": 1999,
+    "category": "Natural Gas",
+    "pages": null,
+    "anchor_name": "ng99",
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1999-NG-Meeting_Challenges_of_Nations_Growing_Natural_Gas_Demand-Vol_II-Task_Group_Reports.pdf",
+        "description": "Volume II: Task Group Reports",
+        "file_size": "17.3 MB"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1999-NG-Meeting_Challenges_of_Nations_Growing_Natural_Gas_Demand-Vol_III-Appendices.pdf",
+        "description": "Volume III: Appendices",
+        "file_size": "23.7 MB"
+      }
+    ],
+    "related_documents": [
+      {
+        "title": "1999 Natural Gas Report order form",
+        "url": "https://npc.org/reports/NGflyer.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "The Potential for Natural Gas in the United States",
+    "url": "https://npc.org/reports/reports_pdf/ng1992-Exec_Summary.pdf",
+    "image_url": "https://npc.org/reports/nat_gas-12-92.gif",
+    "description": "This comprehensive six-volume study examines the long-term economic natural gas supply potential for the U.S. market. The report addresses recoverable resource base and delivery potential for conventional and nonconventional gas in the United States as well as import alternatives. It assesses opportunities in primary natural gas markets including residential and commercial, industrial, electric generation, and natural gas vehicles. The study analyzes the capability of the U.S. transmission and storage system to assist in expanding the use of natural gas and discusses how the regulatory environment affects the natural gas industry as well as the cultural and psychological issues that affect the operations of natural gas markets.",
+    "year": 1992,
+    "category": "Natural Gas",
+    "pages": 42,
+    "anchor_name": "NG92es",
+    "file_size": "7.3 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ng1992-Vol_I-Summary.pdf",
+        "description": "Volume I: Summary",
+        "file_size": "28.4 MB",
+        "pages": 250
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ng1992-Vol_II-Source_and_Supply.pdf",
+        "description": "Volume II: Source and Supply",
+        "file_size": "38.1 MB",
+        "pages": 670
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ng1992-Vol_III-Demand_and_Distribution.pdf",
+        "description": "Volume III: Demand and Distribution",
+        "file_size": "21.3 MB",
+        "pages": 284
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ng1992-Vol_IV-Transmission_and_Storage.pdf",
+        "description": "Volume IV: Transmission and Storage",
+        "file_size": "22.6 MB",
+        "pages": 274
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ng1992-Vol_V-Regulatory_and_Policy_Issues.pdf",
+        "description": "Volume V: Regulatory and Policy Issues",
+        "file_size": "12 MB",
+        "pages": 226
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ng1992-Vol_VI-Model_Documentation_and_Results.pdf",
+        "description": "Volume VI: Model Documentation and Results",
+        "file_size": "19.6 MB",
+        "pages": 356
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Unconventional Gas Sources",
+    "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Vol_I-Executive_Summary.pdf",
+    "image_url": "https://npc.org/reports/ng-unconventional-1280.gif",
+    "description": "This five-volume report provides comprehensive analysis of unconventional natural gas sources including coal seams, Devonian shale, geopressured brines, and tight gas reservoirs. For each gas source, reserve additions and producing rates are calculated at five gas prices, three rates of return, and at least two levels of technology. The volumes include an overview of each resource, analysis of the technological state of the art, examination of constraints or uncertainties that may impede development or production, and comparison of the NPC findings with those of other studies on the resource.",
+    "year": 1980,
+    "category": "Natural Gas",
+    "pages": 56,
+    "anchor_name": "UGS",
+    "file_size": "7 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Interim_Summary.pdf",
+        "description": "Interim Summary",
+        "file_size": "5.9 MB"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Vol_II-Coal_Seams.pdf",
+        "description": "Volume II: Coal Seams",
+        "file_size": "16.8 MB",
+        "pages": 128
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Vol_III-Devonian_Shale.pdf",
+        "description": "Volume III: Devonian Shale",
+        "file_size": "45.8 MB",
+        "pages": 252
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Vol_IV-Geopressured_Brines.pdf",
+        "description": "Volume IV: Geopressured Brines",
+        "file_size": "33.8 MB",
+        "pages": 212
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Vol_V-Part_I-Tight_Gas_Reservoirs.pdf",
+        "description": "Volume V, Part 1: Tight Gas Reservoirs",
+        "file_size": "93.4 MB",
+        "pages": 492
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1980-Unconventional_Gas_Sources-Vol_V-Part_II-Tight_Gas_Reservoirs.pdf",
+        "description": "Volume V, Part 2: Tight Gas Reservoirs",
+        "file_size": "91.1 MB",
+        "pages": 800
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Observations on Petroleum Product Supply",
+    "url": "https://npc.org/reports/R-I_121704.pdf",
+    "image_url": "https://npc.org/reports/R-I_2004.gif",
+    "description": "This 2004 report responds to a request from the Secretary of Energy for the National Petroleum Council to provide advice on issues surrounding domestic refining capacity, product imports, and inventories. The Secretary requested that the Council's advice be provided on an expedited schedule. The review of refining and inventory issues presents observations on petroleum product supply and an integrated response to the Secretary's request for advice on both refining and inventory issues and is intended as an update and supplement to the 1998 and 2000 NPC reports on these subjects. The report provides insights on petroleum market dynamics as well as advice on actions that can be taken by industry and government to ensure adequate and reliable supplies of petroleum products to meet the energy and environmental requirements of American consumers.",
+    "year": 2004,
+    "category": "Refining",
+    "pages": 96,
+    "anchor_name": "ref2004",
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Order form",
+        "url": "https://npc.org/reports/R-I_flyer.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "U.S. Petroleum Refining - Assuring the Adequacy and Affordability of Cleaner Fuels",
+    "url": "https://npc.org/reports/reports_pdf/ref2000-Assuring_Adequacy_and_Affordability-Cleaner_Fuels.pdf",
+    "image_url": "https://npc.org/reports/refining-6-00.gif",
+    "description": "The report assesses the industry's ability to meet consumer demand for petroleum products, including the continuing viability of the U.S. refining industry. The report analyzes the timing and size of the necessary refining and distribution investments to implement four changes in petroleum product specifications for which regulations have been issued or proposed: Reducing the sulfur content of gasoline to 30 ppm average, reducing the sulfur content of on-highway diesel to 30 ppm average, reducing or eliminating MTBE from gasoline, and reducing the Driveability Index of gasoline to 1200 degrees F. The report includes examinations of such factors as the state of development of process technology, refinery producibility, product delivery and testing considerations, and facility implementation requirements and capabilities.",
+    "year": 2000,
+    "category": "Refining",
+    "pages": 400,
+    "anchor_name": "uspr2000",
+    "file_size": "48.3 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/RefExSum.pdf",
+        "description": "Executive Summary"
+      }
+    ],
+    "related_documents": [
+      {
+        "title": "Petroleum Refining Report order form",
+        "url": "https://npc.org/reports/RefFlr.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "U.S. Petroleum Refining - Meeting the Requirements for Cleaner Fuels and Refineries",
+    "url": "https://npc.org/reports/reports_pdf/ref1993-US_Petroleum_Refining-Meeting_Requirements-Cleaner_Fuels_and_Refineries.pdf",
+    "image_url": "https://npc.org/reports/refining-8-93.gif",
+    "description": "This six-volume report examines the factors affecting the outlook for U.S. refining during the period 1991-2010. It assesses the ability of the U.S. oil industry, both physically and economically, to manufacture and supply the quantity and quality of products required in the 1990s and beyond. The competitiveness of domestic versus foreign supplies is analyzed. The investment requirements and other costs associated with meeting the new environmental legislation and regulations on both refinery products and the refineries themselves are addressed. In particular, the requirements and consequences of the 1990 Clean Air Act Amendments and other environmental, health, and safety initiatives, both current and prospective, are evaluated.",
+    "year": 1993,
+    "category": "Refining",
+    "pages": 75,
+    "anchor_name": "USPR93es",
+    "file_size": "7 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_I-Analyses_and_Results.pdf",
+        "description": "Volume I: Analyses & Results",
+        "file_size": "17.5 MB",
+        "pages": 500
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_II-General_Information_Appendices.pdf",
+        "description": "Volume II: General Information Appendices",
+        "file_size": "15.8 MB",
+        "pages": 250
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_III.pdf",
+        "description": "Volume III: Financial & Facilities Appendices",
+        "file_size": "7.8 MB",
+        "pages": 375
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_IV-Part_I-Supply_Demand_and_Logistics_Appendix.pdf",
+        "description": "Volume IV, Part I: Supply, Demand & Logistics Appendix",
+        "file_size": "31 MB"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_IV-Part_II-Supply_Demand_and_Logistics_Appendix.pdf",
+        "description": "Volume IV, Part II: Supply, Demand & Logistics Appendix",
+        "file_size": "19.4 MB"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_V-Refining_Capability_Appendix.pdf",
+        "description": "Volume V: Refining Capability Appendix",
+        "file_size": "17.2 MB",
+        "pages": 525
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/reports_pdf/ref1993-Vol_VI-Survey_Appendix.pdf",
+        "description": "Volume VI: Survey Appendix",
+        "file_size": "11.4 MB",
+        "pages": 300
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "U.S. Petroleum Refining",
+    "url": "https://npc.org/reports/1986-US_Petroleum_Refining.pdf",
+    "image_url": "https://npc.org/reports/refining_10-86.gif",
+    "description": "The report examines the factors affecting domestic refining in the 1985-1990 time frame and evaluates future refinery operations and the role of small regional refineries. The study includes an extensive data base on the operating capacities, process utilizations, crude oil charge, and product yields for the period January 1, 1984 through the end of 1988. The data base includes 181 refineries, which reported an operable capacity of 15,314 thousand barrels per day or 96 percent of the total U.S. refining capacity reported operable to the U.S. Energy Information Administration as of January 1, 1985. The report also contains the results of two computer modeling studies of refinery operations.",
+    "year": 1986,
+    "category": "Refining",
+    "pages": 650,
+    "anchor_name": "uspr86",
+    "file_size": "53.6 MB",
+    "file_format": "PDF",
+    "resolution": "Low",
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Refinery Flexibility",
+    "url": "https://npc.org/reports/1980-Refining_Flexibility.pdf",
+    "image_url": "",
+    "description": "The report examines the historical trends and current status of the domestic refining industry's sources of crude oil and its capability to process these crudes in response to the demands for essential petroleum products. In particular, it presents the following analyses: projections of U.S. and world petroleum supply/demand through 1990; the U.S. refining industry's capability to process available crude oils and to meet product demand under a variety of supply/demand scenarios; the competitive economics of different sizes and types of refineries in the United States; and the relative economics of domestic and foreign export refineries when supplying petroleum products to the U.S. East Coast.",
+    "year": 1980,
+    "category": "Refining",
+    "pages": 440,
+    "anchor_name": "rf",
+    "file_size": "36.1 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Observations on Petroleum Product Supply",
+    "url": "https://npc.org/reports/R-I_121704.pdf",
+    "image_url": "https://npc.org/reports/R-I_2004.gif",
+    "description": "This 2004 report responds to a request from the Secretary of Energy for the National Petroleum Council to provide advice on issues surrounding domestic refining capacity, product imports, and inventories. The Secretary requested that the Council's advice be provided on an expedited schedule. The review of refining and inventory issues presents observations on petroleum product supply and an integrated response to the Secretary's request for advice on both refining and inventory issues and is intended as an update and supplement to the 1998 and 2000 NPC reports on these subjects. The report provides insights on petroleum market dynamics as well as advice on actions that can be taken by industry and government to ensure adequate and reliable supplies of petroleum products to meet the energy and environmental requirements of American consumers. Additionally, the report responds to the Secretary's request that the Council reexamine its 1998 advice on lower operational inventory levels for crude oil and petroleum products.",
+    "year": 2004,
+    "category": "Storage",
+    "pages": 96,
+    "anchor_name": null,
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [
+      {
+        "title": "Order form",
+        "url": "https://npc.org/reports/R-I_flyer.pdf"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "U.S. Petroleum Product Supply Inventory Dynamics",
+    "url": "https://npc.org/reports/stor1998-US_Petroleum_Product_Supply-Inventory_Dynamics.pdf",
+    "image_url": "https://npc.org/reports/petrol-prodsup-12-98.gif",
+    "description": "This report presents the National Petroleum Council's analysis of the dynamics of U.S. petroleum product inventories. It answers specific questions, the most challenging of which asks whether the market-driven efficiency gains seen in the petroleum product supply system over the past several years have inadvertently increased the public's exposure to larger and more frequent retail price swings. The report analyzes historical inventory trends and price swings through mid-1998, and identifies factors affecting volume and price movements. The primary focus of the study is on major light petroleum products (gasoline, distillate, and kerosene jet fuel) in the primary distribution system. Because the supply of crude oil is fundamental to the ability of the refining system to supply products, the study also investigates U.S. crude oil inventory.",
+    "year": 1998,
+    "category": "Storage",
+    "pages": 158,
+    "anchor_name": "PSID98",
+    "file_size": null,
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Petroleum Storage & Transportation Capacities",
+    "url": "https://npc.org/reports/petrol_storage_transport-1989-v1.pdf",
+    "image_url": "https://npc.org/reports/storage-transp-4-89.gif",
+    "description": "The report provides data and analyses on U.S. oil and gas inventories, and storage and transportation capacities. The study updates the Council's 1979 and 1984 studies on these subjects as well as analyzes the response of the distribution systems during periods of stress. The five-volume report covers system dynamics, natural gas transportation, petroleum inventories and storage, and petroleum liquids transportation. It examines possible responses to six unlikely but highly stressful situations including import disruptions and pipeline outages, and provides comprehensive data on pipeline capacities, interconnections, storage, and minimum operating inventory levels.",
+    "year": 1989,
+    "category": "Storage",
+    "pages": 88,
+    "anchor_name": null,
+    "file_size": "8.8 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v1_lowres.pdf",
+        "file_size": "3.6 MB",
+        "resolution": "Low"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v2.pdf",
+        "description": "Volume II: System Dynamics",
+        "file_size": "25 MB",
+        "pages": 280
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v3.pdf",
+        "description": "Volume III: Natural Gas Transportation",
+        "file_size": "24 MB",
+        "pages": 314
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v4.pdf",
+        "description": "Volume IV: Petroleum Inventories and Storage",
+        "file_size": "11.3 MB",
+        "pages": 256
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v5.pdf",
+        "description": "Volume V: Petroleum Liquids Transportation",
+        "file_size": "23.6 MB",
+        "pages": 364
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Petroleum Inventories and Storage Capacity",
+    "url": "https://npc.org/reports/1984-Petroleum_Inventories-Storage_Capacities.pdf",
+    "image_url": "https://npc.org/reports/storage-6-84.gif",
+    "description": "The report analyzes the nation's primary petroleum distribution system and presents detailed estimates of inventory and storage capacity in the secondary distribution system and tertiary storage segment. The many structural and operational changes that have occurred in the system since the NPC's previous analysis in 1979 are also considered. Topics discussed in the report include: minimum operating inventory for crude oil and the principal fuel products; total storage capacity and inventory estimates for the primary, secondary, and tertiary systems; an analysis of the dynamics of the petroleum distribution systems; and the impact of the petroleum futures markets.",
+    "year": 1984,
+    "category": "Storage",
+    "pages": 178,
+    "anchor_name": "pisc84a",
+    "file_size": "5.2 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/1983-Petroleum_Inventories_and_Storage_Capacities-Interim_Report.pdf",
+        "description": "1983 Interim Report",
+        "file_size": "4.4 MB",
+        "pages": 120
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "The Strategic Petroleum Reserve: A Report on the Capability to Distribute SPR Oil",
+    "url": "https://npc.org/reports/1984-Strategic_Petroleum_Reserve.pdf",
+    "image_url": "https://npc.org/reports/spr1984.gif",
+    "description": "The report examines the capabilities of the Strategic Petroleum Reserve to distribute oil during an emergency and recommends certain changes to ensure the timely and efficient drawdown, distribution, and refining of SPR crude oil. The study assesses the capabilities of four operational areas: SPR facilities, the overland distribution system, the marine distribution system, and the domestic refining industry. These areas are studied under three distinct cases: 1983 actual conditions, a 1990 nondisrupted case, and a 1990 disrupted case.",
+    "year": 1984,
+    "category": "Strategic Petroleum Reserve",
+    "pages": 296,
+    "anchor_name": null,
+    "file_size": "17.1 MB",
+    "file_format": "PDF",
+    "resolution": null,
+    "additional_formats": [],
+    "related_documents": [],
+    "purchase_link": null
+  },
+  {
+    "title": "Dynamic Delivery: America's Evolving Oil and Natural Gas Transportation Infrastructure",
+    "url": "https://dynamicdelivery.npc.org/downloads.php",
+    "image_url": "https://npc.org/reports/TR-12-19-INFRA-v2.gif",
+    "description": "The U.S. energy landscape has undergone dramatic changes in the past decade. The United States has recently become the world's largest oil and natural gas producing country, which expands opportunities for exporting crude oil, natural gas, natural gas liquids, and refined products. America's vast energy resources and the infrastructure to deliver them to market are vital to the nation's economy and energy security. Dynamic Delivery, in its analysis through 2040, finds that public and private investment in new and existing pipelines, ports, rail facilities, and inland waterways will be essential in connecting America's abundant energy supplies with domestic and global demand. Even in energy outlooks with low carbon scenarios, new infrastructure is necessary to meet domestic energy needs.",
+    "year": 2019,
+    "category": "Transportation",
+    "pages": 576,
+    "anchor_name": "infra1219",
+    "file_size": null,
+    "file_format": "Website",
+    "resolution": null,
+    "additional_formats": [
+      {
+        "format": "ePUB",
+        "url": "https://www.npc.org/ePubs/Dynamic_Delivery-Vol_1.epub",
+        "description": "Summary Report ePUB"
+      }
+    ],
+    "related_documents": [
+      {
+        "title": "Summary Volume",
+        "url": "https://dynamicdelivery.npc.org/downloads.php"
+      },
+      {
+        "title": "Full Report Volume",
+        "url": "https://dynamicdelivery.npc.org/downloads.php"
+      }
+    ],
+    "purchase_link": "https://www.amazon.com/Dynamic-Delivery-Americas-Transportation-Infrastructure/dp/B08X63F26R/ref=sr_1_1?dchild=1&keywords=national+petroleum+council+dynamic+delivery&qid=1616093884&sr=8-1"
+  },
+  {
+    "title": "Advancing Technology for America's Transportation",
+    "url": "https://npc.org/reports/trans-future_fuels_summary-2012.pdf",
+    "image_url": "https://npc.org/reports/trans-future_fuels-2012.gif",
+    "description": "Future Transportation in the United States is undergoing dramatic changes. These changes could occur at an accelerated rate, depending upon the speed of technology advancements and the economic viability of alternative fuels and vehicles. This report is the National Petroleum Council's response to the Secretary of Energy's request for advice on accelerating development of advanced fuel-vehicle systems through 2050 for passenger and freight transport, while examining ways to economically reduce the U.S. transportation sector's 2050 life-cycle greenhouse gas (GHG) emissions. The study concludes that existing technologies can substantially increase vehicle fuel economy, overcoming twelve identified Priority Technology hurdles is essential to commercialization of advanced fuels and vehicles, and increasing diversity of economically competitive fuels and vehicles will bolster the nation's energy security.",
+    "year": 2012,
+    "category": "Transportation",
+    "pages": 758,
+    "anchor_name": "ftf2012",
+    "file_size": "18 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/trans-future_fuels_summary-2012-lowres.pdf",
+        "file_size": "5.4 MB",
+        "resolution": "Low"
+      },
+      {
+        "format": "ePUB",
+        "description": "Multiple ePUB files available by chapter",
+        "url": "https://npc.org/FTF-ePub/"
+      }
+    ],
+    "related_documents": [
+      {
+        "title": "Topic Papers",
+        "url": "https://npc.org/reports/FTF_topic_papers.html"
+      },
+      {
+        "title": "Modeling Tools",
+        "url": "https://npc.org/reports/FTF-Modeling_Analysis.html"
+      }
+    ],
+    "purchase_link": null
+  },
+  {
+    "title": "Petroleum Storage & Transportation",
+    "url": "https://npc.org/reports/petrol_storage_transport-1989-v1.pdf",
+    "image_url": "https://npc.org/reports/storage-transp-4-89.gif",
+    "description": "The report provides data and analyses on U.S. oil and gas inventories, and storage and transportation capacities. The study updates the Council's 1979 and 1984 studies on these subjects as well as analyzes the response of the distribution systems during periods of stress. Petroleum Storage & Transportation is presented in five volumes covering executive summary, system dynamics, natural gas transportation, petroleum inventories and storage, and petroleum liquids transportation. The report examines possible responses to six unlikely but highly stressful situations including import disruptions and pipeline outages.",
+    "year": 1989,
+    "category": "Transportation",
+    "pages": 1302,
+    "anchor_name": "pstc89",
+    "file_size": "8.8 MB",
+    "file_format": "PDF",
+    "resolution": "Normal",
+    "additional_formats": [
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v1_lowres.pdf",
+        "file_size": "3.6 MB",
+        "resolution": "Low"
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v2.pdf",
+        "description": "Volume II: System Dynamics",
+        "file_size": "25 MB",
+        "pages": 280
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v3.pdf",
+        "description": "Volume III: Natural Gas Transportation",
+        "file_size": "24 MB",
+        "pages": 314
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v4.pdf",
+        "description": "Volume IV: Petroleum Inventories and Storage",
+        "file_size": "11.3 MB",
+        "pages": 256
+      },
+      {
+        "format": "PDF",
+        "url": "https://npc.org/reports/petrol_storage_transport-1989-v5.pdf",
+        "description": "Volume V: Petroleum Liquids Transportation",
+        "file_size": "23.6 MB",
+        "pages": 364
+      }
+    ],
+    "related_documents": [],
+    "purchase_link": null
   }
 ]
