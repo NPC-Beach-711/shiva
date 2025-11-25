@@ -16,6 +16,7 @@ let visibleReports = [];
 
 // Init
 window.addEventListener('DOMContentLoaded', () => {
+  console.log('DOM loaded, initializing reports app...');
   setFooterYear();
   loadReports();
 });
@@ -29,6 +30,13 @@ function setFooterYear() {
 
 async function loadReports() {
   try {
+    console.log('Loading reports...');
+    
+    // Check if required elements exist
+    if (!els.reportsGrid) {
+      throw new Error('Reports grid element not found');
+    }
+
     const resp = await fetch(REPORTS_JSON_URL);
     if (!resp.ok) {
       throw new Error(`HTTP ${resp.status}`);
@@ -46,15 +54,23 @@ async function loadReports() {
     bindEvents();
     renderReports();
     updateResultsInfo();
+    
+    console.log('Reports loaded successfully');
   } catch (err) {
     console.error('Error loading reports:', err);
-    els.resultsInfo.textContent = 'Failed to load reports.';
-    els.reportsGrid.innerHTML =
-      '<p>There was a problem loading the reports list. Check reports.json and try again.</p>';
+    if (els.resultsInfo) {
+      els.resultsInfo.textContent = 'Failed to load reports.';
+    }
+    if (els.reportsGrid) {
+      els.reportsGrid.innerHTML =
+        '<p>There was a problem loading the reports list. Check reports.json and try again.</p>';
+    }
   }
 }
 
 function populateFilters(reports) {
+  if (!els.yearFilter || !els.categoryFilter) return;
+  
   const years = new Set();
   const categories = new Set();
 
@@ -104,31 +120,40 @@ function populateFilters(reports) {
 }
 
 function clearFilterOptions(selectEl) {
+  if (!selectEl) return;
   while (selectEl.options.length > 1) {
     selectEl.remove(1);
   }
 }
 
 function bindEvents() {
-  els.searchInput.addEventListener('input', handleFilterChange);
-  els.yearFilter.addEventListener('change', handleFilterChange);
-  els.categoryFilter.addEventListener('change', handleFilterChange);
+  if (els.searchInput) {
+    els.searchInput.addEventListener('input', handleFilterChange);
+  }
+  if (els.yearFilter) {
+    els.yearFilter.addEventListener('change', handleFilterChange);
+  }
+  if (els.categoryFilter) {
+    els.categoryFilter.addEventListener('change', handleFilterChange);
+  }
 
-  els.resetBtn.addEventListener('click', () => {
-    els.searchInput.value = '';
-    els.yearFilter.value = '';
-    els.categoryFilter.value = '';
-    visibleReports = [...allReports];
-    renderReports();
-    updateResultsInfo();
-    els.searchInput.focus();
-  });
+  if (els.resetBtn) {
+    els.resetBtn.addEventListener('click', () => {
+      if (els.searchInput) els.searchInput.value = '';
+      if (els.yearFilter) els.yearFilter.value = '';
+      if (els.categoryFilter) els.categoryFilter.value = '';
+      visibleReports = [...allReports];
+      renderReports();
+      updateResultsInfo();
+      if (els.searchInput) els.searchInput.focus();
+    });
+  }
 }
 
 function handleFilterChange() {
-  const query = els.searchInput.value.trim().toLowerCase();
-  const year = els.yearFilter.value;
-  const category = els.categoryFilter.value;
+  const query = els.searchInput ? els.searchInput.value.trim().toLowerCase() : '';
+  const year = els.yearFilter ? els.yearFilter.value : '';
+  const category = els.categoryFilter ? els.categoryFilter.value : '';
 
   visibleReports = allReports.filter((r) => {
     const rYear = (r.year || '').toString();
@@ -158,6 +183,8 @@ function handleFilterChange() {
 }
 
 function updateResultsInfo() {
+  if (!els.resultsInfo) return;
+  
   const total = allReports.length;
   const shown = visibleReports.length;
 
@@ -176,6 +203,8 @@ function updateResultsInfo() {
 }
 
 function renderReports() {
+  if (!els.reportsGrid) return;
+  
   if (!visibleReports.length) {
     els.reportsGrid.innerHTML =
       '<p>No reports match your search. Try clearing filters.</p>';

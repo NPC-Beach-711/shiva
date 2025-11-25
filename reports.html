@@ -1,16 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- =========================
+       BASIC DOCUMENT METADATA
+       ========================= -->
   <meta charset="UTF-8" />
-  <title>Reports – The National Petroleum Council</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description"
-        content="Browse the National Petroleum Council reports, studies, and related documents." />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <!-- Styles -->
+  <!-- =========================
+       PAGE TITLE (UNIQUELY FOR REPORTS)
+       ========================= -->
+  <title>NPC Reports Library – National Petroleum Council</title>
+
+  <!-- =========================
+       VIEWPORT / RESPONSIVE
+       ========================= -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- =========================
+       CORE SEO META TAGS
+       ========================= -->
+  <meta name="description"
+        content="Browse the National Petroleum Council reports, studies, and related documents. Search and filter NPC reports by title, year, and category." />
+  <!-- Make sure this is the final public URL for the reports page -->
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://www.npc.org/reports.html" />
+
+  <!-- =========================
+       OPEN GRAPH / SOCIAL SHARING
+       ========================= -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="NPC Reports Library – National Petroleum Council" />
+  <meta property="og:description" content="Search and explore National Petroleum Council reports, studies, and related documents." />
+  <meta property="og:url" content="https://www.npc.org/reports.html" />
+  <!-- Optional: set to a relevant branding image if available -->
+  <!-- <meta property="og:image" content="https://www.npc.org/images/og-reports.png" /> -->
+  <!-- <meta property="og:image:alt" content="National Petroleum Council reports library" /> -->
+
+  <!-- =========================
+       THEME / COLOR SCHEME (OPTIONAL BUT NICE)
+       ========================= -->
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#3c4d97">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0b1020">
+  <meta name="color-scheme" content="light dark">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <!-- =========================
+       STRUCTURED DATA (PAGE-LEVEL)
+       TYPE: CollectionPage listing reports
+       ========================= -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "NPC Reports Library",
+    "description": "A searchable library of reports, studies, and related documents from the National Petroleum Council.",
+    "url": "https://www.npc.org/reports.html",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "National Petroleum Council",
+      "url": "https://www.npc.org/"
+    }
+  }
+  </script>
+
+  <!-- =========================
+       SITE STYLESHEETS
+       ========================= -->
   <link rel="stylesheet" href="style.css" />
 
-  <!-- Google Analytics 4 -->
+  <!-- =========================
+       GOOGLE ANALYTICS 4
+       ========================= -->
   <!-- Replace G-VQT9SZFT8C with your own Measurement ID if needed -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQT9SZFT8C"></script>
   <script>
@@ -22,35 +83,46 @@
 </head>
 <body>
 
-  <!-- ===== Header ===== -->
+  <!-- =========================
+       SITE HEADER + MAIN NAV
+       ========================= -->
   <header class="site-header">
     <div class="container">
       <div class="top-bar">
-        <div class="logo-wrap">
+        <!-- Clickable logo linking back to home -->
+        <a href="index.html" class="logo-wrap">
           <div class="logo-circle">NPC</div>
           <div class="logo-text">The National Petroleum Council</div>
-        </div>
+        </a>
 
+        <!-- Primary Navigation -->
         <nav aria-label="Main navigation">
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="members.html">Members</a></li>
-            <li><a href="reports.html">Reports</a></li>
+            <li><a href="reports.html" aria-current="page">Reports</a></li>
           </ul>
         </nav>
       </div>
     </div>
   </header>
 
-  <!-- Optional announcement bar, keep or remove -->
+  <!-- =========================
+       OPTIONAL ANNOUNCEMENT BAR
+       (UNCOMMENT IF YOU WANT TO USE IT)
+       ========================= -->
   <!--
   <div class="announcement-bar">
-    <a href="https://www.youtube.com/live/...">Click here on December 3, 2025 ...</a>
+    <a href="https://www.youtube.com/live/...">
+      Click here on December 3, 2025 at 9:00 am to watch the 135th NPC Meeting LIVE
+    </a>
   </div>
   -->
 
-  <!-- ===== Page Title ===== -->
+  <!-- =========================
+       PAGE HERO / INTRO
+       ========================= -->
   <section class="hero hero--small">
     <div class="container">
       <div class="hero-inner">
@@ -62,12 +134,17 @@
     </div>
   </section>
 
-  <!-- ===== Main Content ===== -->
+  <!-- =========================
+       MAIN CONTENT AREA
+       ========================= -->
   <main>
     <section class="reports-section">
       <div class="container">
 
-        <!-- Search & Filters -->
+        <!-- =========================
+             SEARCH & FILTER CONTROLS
+             (USED BY JS APP)
+             ========================= -->
         <div class="reports-filters" aria-label="Report filters">
           <div class="filter-search">
             <label for="search-input">Search Reports</label>
@@ -82,6 +159,7 @@
               <label for="year-filter">Year</label>
               <select id="year-filter">
                 <option value="">All Years</option>
+                <!-- Years will be populated dynamically by reports-app.js -->
               </select>
             </div>
 
@@ -89,6 +167,7 @@
               <label for="category-filter">Category</label>
               <select id="category-filter">
                 <option value="">All Categories</option>
+                <!-- Categories will be populated dynamically by reports-app.js -->
               </select>
             </div>
 
@@ -96,19 +175,67 @@
           </div>
         </div>
 
-        <!-- Results Info -->
+        <!-- =========================
+             RESULTS META INFO (COUNT, ETC.)
+             ========================= -->
         <div class="results-info" id="results-info">Loading reports…</div>
 
-        <!-- Reports Grid (populated by reports-app.js) -->
+        <!-- =========================
+             REPORTS GRID (JS-RENDERED)
+             ========================= -->
         <div class="reports-grid" id="reports-grid">
           <div class="loading">Loading reports…</div>
         </div>
+
+        <!-- =========================
+             NOSCRIPT FALLBACK FOR SEO
+             IMPORTANT: This is here so
+             search engines and no-JS users
+             can still see & index the key reports.
+             Ideally, this list should be generated
+             automatically from the same JSON used
+             by reports-app.js.
+             ========================= -->
+        <noscript>
+          <div class="reports-noscript">
+            <h2>Available Reports (Static List)</h2>
+            <p>
+              JavaScript is disabled or not supported. The interactive search and filters are not available,
+              but you can still access key reports directly below.
+            </p>
+            <ul>
+              <!-- ===== EXAMPLE ITEMS – REPLACE / EXTEND WITH REAL DATA ===== -->
+              <!-- Ideally, auto-generate this list from your JSON at build time. -->
+              <li>
+                <a href="files/2025_Gas_Electric_Coordination.pdf">
+                  Reliable Energy: Gas–Electric Coordination (2025)
+                </a>
+              </li>
+              <li>
+                <a href="files/2025_Project_Permitting_Innovation.pdf">
+                  Project Permitting Innovation (2025)
+                </a>
+              </li>
+              <li>
+                <a href="files/2023_Charting_the_Course.pdf">
+                  Charting the Course – Reducing GHG Emissions from the U.S. Natural Gas Supply Chain (2023)
+                </a>
+              </li>
+              <!-- Add one <li> per report to maximize discoverability -->
+            </ul>
+            <p>
+              For the full interactive experience, please enable JavaScript in your browser.
+            </p>
+          </div>
+        </noscript>
 
       </div>
     </section>
   </main>
 
-  <!-- ===== Footer ===== -->
+  <!-- =========================
+       SITE FOOTER
+       ========================= -->
   <footer>
     <div class="container">
       <div class="footer-inner">
@@ -121,15 +248,25 @@
         </div>
       </div>
     </div>
+
+    <!-- Auto-update footer year -->
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
   </footer>
 
-  <!-- Reports app (this renders all the cards with links to PDFs etc.) -->
+  <!-- =========================
+       REPORTS APP (JS RENDERS CARDS
+       FROM JSON DATA)
+       ========================= -->
   <script src="reports-app.js"></script>
 
-  <!-- PDF Click Tracking for GA4 -->
+  <!-- =========================
+       GLOBAL PDF CLICK TRACKING FOR GA4
+       Tracks clicks on any .pdf links,
+       including ones inserted by JavaScript.
+       ========================= -->
   <script>
-    // This tracks clicks on ANY <a> that ends with ".pdf" anywhere on the page,
-    // including links created later by JavaScript.
     document.addEventListener('click', function (event) {
       const link = event.target.closest('a[href$=".pdf"]');
       if (!link) return;

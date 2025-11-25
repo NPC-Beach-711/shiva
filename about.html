@@ -1,37 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- =========================
+       BASIC DOCUMENT METADATA
+       ========================= -->
   <meta charset="UTF-8" />
-  <title>About NPC – The National Petroleum Council</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <!-- =========================
+       PAGE TITLE (UNIQUE)
+       ========================= -->
+  <title>About NPC – National Petroleum Council</title>
+
+  <!-- =========================
+       VIEWPORT / RESPONSIVE
+       ========================= -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- =========================
+       CORE SEO META TAGS
+       ========================= -->
   <meta name="description"
         content="Origin, operations, study procedures, meeting procedures, staff, finances, and officers of the National Petroleum Council." />
+  <meta name="robots" content="index, follow" />
+  <!-- Adjust canonical if this will live at a different final URL -->
+  <link rel="canonical" href="https://www.npc.org/background.html" />
+
+  <!-- =========================
+       OPEN GRAPH / SOCIAL SHARING
+       ========================= -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="About the National Petroleum Council" />
+  <meta property="og:description"
+        content="Learn about the origin, operations, studies, and leadership of the National Petroleum Council." />
+  <meta property="og:url" content="https://www.npc.org/background.html" />
+  <!-- Optional: if you have a specific OG image for about page, set it here -->
+  <!-- <meta property="og:image" content="https://www.npc.org/images/og-about-npc.png" /> -->
+  <!-- <meta property="og:image:alt" content="National Petroleum Council" /> -->
+
+  <!-- =========================
+       THEME / COLOR SCHEME
+       ========================= -->
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#3c4d97">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0b1020">
+  <meta name="color-scheme" content="light dark">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <!-- =========================
+       STRUCTURED DATA
+       TYPE: AboutPage
+       ========================= -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About the National Petroleum Council",
+    "description": "Information about the origin, operations, studies, procedures, staff, finances, and officers of the National Petroleum Council.",
+    "url": "https://www.npc.org/background.html",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "National Petroleum Council",
+      "url": "https://www.npc.org/"
+    },
+    "about": {
+      "@type": "GovernmentOrganization",
+      "name": "National Petroleum Council",
+      "url": "https://www.npc.org/"
+    }
+  }
+  </script>
+
+  <!-- =========================
+       SITE STYLES
+       ========================= -->
   <link rel="stylesheet" href="style.css" />
-  <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VQT9SZFT8C"></script>
+
+  <!-- =========================
+       GOOGLE ANALYTICS (GA4)
+       ========================= -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQT9SZFT8C"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'G-VQT9SZFT8C');
   </script>
 </head>
 <body id="top">
 
-  <!-- ===== Header ===== -->
- <header class="site-header">
+  <!-- =========================
+       SITE HEADER + NAV
+       ========================= -->
+  <header class="site-header">
     <div class="container">
       <div class="top-bar">
-        <div class="logo-wrap">
+        <a href="index.html" class="logo-wrap">
           <div class="logo-circle">NPC</div>
           <div class="logo-text">The National Petroleum Council</div>
-        </div>
+        </a>
 
         <nav aria-label="Main navigation">
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About NPC</a></li>
+            <li><a href="about.html" aria-current="page">About NPC</a></li>
             <li><a href="members.html">Members</a></li>
             <li><a href="reports.html">Reports</a></li>
           </ul>
@@ -61,14 +132,18 @@
     </div>
   </header>
 
-  <!-- ===== Announcement Bar ===== -->
+  <!-- =========================
+       ANNOUNCEMENT BAR
+       ========================= -->
   <div class="announcement-bar">
     <a href="https://www.youtube.com/live/CnNdYBlI41c?si=jCLd9fdWUyuja_-y" target="_blank" rel="noopener noreferrer">
       Click here on December 3, 2025 at 9:00 am to watch the 135th NPC Meeting LIVE
     </a>
   </div>
 
-  <!-- ===== Page Title Band ===== -->
+  <!-- =========================
+       PAGE HERO / TITLE BAND
+       ========================= -->
   <section class="hero">
     <div class="container">
       <div class="hero-inner">
@@ -79,12 +154,12 @@
     </div>
   </section>
 
-  <!-- ===== Main Content ===== -->
+  <!-- =========================
+       MAIN CONTENT
+       ========================= -->
   <main>
     <section class="legal-section">
       <div class="container">
-
-
         <article class="legal-content">
 
           <!-- INTRODUCTION -->
@@ -153,15 +228,15 @@
             charge was to:
           </p>
 
-<blockquote>
-  <p>
-    <em>
-      ...mobilize most effectively all resources and abilities of the petroleum industry to deal
-      with the emergency conditions under which the industry must operate, and to provide a
-      competent, responsible and representative body.
-    </em>
-  </p>
-</blockquote>
+          <blockquote>
+            <p>
+              <em>
+                ...mobilize most effectively all resources and abilities of the petroleum industry to deal
+                with the emergency conditions under which the industry must operate, and to provide a
+                competent, responsible and representative body.
+              </em>
+            </p>
+          </blockquote>
 
           <p>
             In May 1946, President Truman stated in a letter to the Secretary of the Interior that he had
@@ -260,8 +335,6 @@
           </p>
 
           <!-- MEETING PROCEDURES -->
-        
-
           <h3>National Petroleum Council and Study Committees</h3>
           <p>
             The National Petroleum Council meets in Washington, D.C., at least once a year and Study
@@ -322,7 +395,9 @@
     </section>
   </main>
 
-  <!-- ===== Footer (shared) ===== -->
+  <!-- =========================
+       FOOTER
+       ========================= -->
   <footer>
     <div class="container">
       <div class="footer-inner">
@@ -340,11 +415,11 @@
       </div>
     </div>
 
+    <!-- Auto-update year -->
     <script>
       document.getElementById("year").textContent = new Date().getFullYear();
     </script>
   </footer>
-
 
 </body>
 </html>
