@@ -4,13 +4,13 @@
   <meta charset="UTF-8" />
   <title>Reports – The National Petroleum Council</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Entry point to National Petroleum Council reports and studies, with links to the official NPC reports library." />
+  <meta name="description" content="Browse the National Petroleum Council reports, studies, and related documents." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
   <!-- ===== Header ===== -->
-<header class="site-header">
+  <header class="site-header">
     <div class="container">
       <div class="top-bar">
         <div class="logo-wrap">
@@ -47,7 +47,7 @@
     </div>
   </header>
 
-  <!-- ===== Announcement Bar ===== -->
+  <!-- ===== Announcement Bar (optional, tweak or remove as needed) ===== -->
   <div class="announcement-bar">
     <a href="https://www.youtube.com/live/CnNdYBlI41c?si=jCLd9fdWUyuja_-y" target="_blank" rel="noopener noreferrer">
       Click here on December 3, 2025 at 9:00am to watch the 135th NPC Meeting LIVE
@@ -59,7 +59,8 @@
     <div class="container">
       <div class="hero-inner">
         <div class="hero-left">
-          <h1>NPC Reports</h1>
+          <h1>NPC Reports Library</h1>
+          <p>Search and filter reports, studies, and related documents from the National Petroleum Council.</p>
         </div>
       </div>
     </div>
@@ -67,52 +68,62 @@
 
   <!-- ===== Main Content ===== -->
   <main>
-    <section class="legal-section">
+    <section class="reports-section">
       <div class="container">
-        <article class="legal-content">
 
-          <h2>Overview</h2>
-          <p>
-            The National Petroleum Council prepares studies at the request of the U.S. Secretary of
-            Energy. These reports address strategic issues affecting oil, natural gas, and the broader
-            energy system.
-          </p>
+        <!-- Search & Filters -->
+        <div class="reports-filters" aria-label="Report filters">
+          <div class="filter-search">
+            <label for="search-input">Search Reports</label>
+            <input
+              type="search"
+              id="search-input"
+              placeholder="Search by title, year, type, or category…"
+              autocomplete="off"
+            />
+          </div>
 
-          <h2>Selected Recent Reports</h2>
-          <ul>
-            <li>
-              <strong>2024 – Charting the Course: Reducing GHG Emissions from the U.S. Natural Gas Supply Chain</strong><br />
-              <a href="https://npc.org" target="_blank" rel="noopener noreferrer">
-                View report information on npc.org
-              </a>
-            </li>
-            <li>
-              <strong>2024 – Harnessing Hydrogen: A Key Element of the U.S. Energy Future</strong><br />
-              <a href="https://npc.org" target="_blank" rel="noopener noreferrer">
-                View report information on npc.org
-              </a>
-            </li>
-            <li>
-              <strong>2023 – The Energy Transition and U.S. Energy Security</strong><br />
-              <a href="https://npc.org" target="_blank" rel="noopener noreferrer">
-                View report information on npc.org
-              </a>
-            </li>
-          </ul>
+          <div class="filter-group">
+            <div class="filter">
+              <label for="year-filter">Year</label>
+              <select id="year-filter">
+                <option value="">All Years</option>
+              </select>
+            </div>
 
-          <h2>Full Reports Archive</h2>
+            <div class="filter">
+              <label for="category-filter">Category</label>
+              <select id="category-filter">
+                <option value="">All Categories</option>
+              </select>
+            </div>
+
+            <button type="button" class="btn btn-outline" id="reset-filters">
+              Reset
+            </button>
+          </div>
+        </div>
+
+        <!-- Results Info -->
+        <div class="results-info" id="results-info">
+          Loading reports…
+        </div>
+
+        <!-- Reports Grid -->
+        <div class="reports-grid" id="reports-grid">
+          <div class="loading">Loading reports…</div>
+        </div>
+
+        <!-- Note -->
+        <div class="reports-note">
           <p>
-            For the authoritative and complete archive of NPC reports and study materials, visit:
-          </p>
-          <p>
-            <a href="https://npc.org/reports/index.html"
-               target="_blank"
-               rel="noopener noreferrer">
+            For the authoritative and complete archive of NPC reports and study materials, visit the
+            <a href="https://npc.org/reports/index.html" target="_blank" rel="noopener noreferrer">
               NPC Reports Library on npc.org
-            </a>
+            </a>.
           </p>
+        </div>
 
-        </article>
       </div>
     </section>
   </main>
@@ -123,7 +134,7 @@
       <div class="footer-inner">
         <div>
           &copy; <span id="year"></span>
-          <a href="https://www.npc.org" target="_blank" rel="noopener">
+          <a href="https://www.npc.org" target="_blank" rel="noopener noreferrer">
             National Petroleum Council
           </a>
         </div>
@@ -134,11 +145,9 @@
         </div>
       </div>
     </div>
-
-    <script>
-      document.getElementById("year").textContent = new Date().getFullYear();
-    </script>
   </footer>
 
+  <!-- App script -->
+  <script src="reports-app.js"></script>
 </body>
 </html>

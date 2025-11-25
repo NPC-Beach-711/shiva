@@ -1,1756 +1,1864 @@
 [
   {
-    "year": "2024",
-    "title": "Charting the Course: Reducing GHG Emissions from the U.S. Natural Gas Supply Chain",
-    "url": "ei.html#chart423",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "2024",
-    "title": "Harnessing Hydrogen: A Key Element of the U.S. Energy Future",
-    "url": "ei.html#hh423",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
+    "title": "STAS v2 Report",
     "year": "2022",
-    "title": "Petroleum Market Developments – Progress and Actions to Increase Supply and Improve Resilience",
-    "url": "epandp.html#mktdev2022",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
+    "category": "Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2022/STAS_v2_Report.pdf"
   },
   {
-    "year": "2022",
-    "title": "Principles, and Oil & Gas Industry Initiatives and Technologies for Progressing to Net Zero",
-    "url": "eo.html#netzero2022",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
+    "title": "PD Presentations Index",
+    "year": "Inferred/Unknown",
+    "category": "Presentations/Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/presentations/PD_Presentations.htm"
   },
   {
-    "year": "2019",
-    "title": "Meeting the Dual Challenge: A Roadmap to At-Scale Deployment of Carbon Capture, Use, and Storage",
-    "url": "https://dualchallenge.npc.org",
-    "categories": [
-      "Environmental Issues",
-      "Research"
-    ],
-    "cover_art_url": null
+    "title": "NPC 134th Meeting Media Advisory",
+    "year": "2024",
+    "category": "Media",
+    "type": "PDF",
+    "url": "https://npc.org/media/NPC_134th_Meeting_Media_Advisory_2024_01_04.pdf"
   },
   {
-    "year": "2019",
-    "title": "Dynamic Delivery: America’s Evolving Oil and Natural Gas Transportation Infrastructure",
-    "url": "https://dynamicdelivery.npc.org",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
+    "title": "NPC Presentation v31",
+    "year": "Inferred/Unknown",
+    "category": "Presentations",
+    "type": "PDF",
+    "url": "https://npc.org/presentations/NPC_Presentation_v31.pdf"
   },
   {
-    "year": "2019",
-    "title": "Supplemental Assessment to the 2015 Report – Arctic Potential: Realizing the Promise of U.S. Arctic Oil and Gas Resources",
-    "url": "https://www.npcarcticreport.org",
-    "categories": [
-      "Environmental Issues",
-      "Research",
-      "Resource Development"
-    ],
-    "cover_art_url": null
+    "title": "fphover Class File",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "Class File",
+    "url": "https://npc.org/_vti_bin/fphover.class"
   },
   {
-    "year": "2016",
-    "title": "Emergency Preparedness Implementation Addendum",
-    "url": "epandp.html#ep2016",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "2015",
-    "title": "Arctic Potential: Realizing the Promise of U.S. Arctic Oil and Gas Resources",
-    "url": "https://www.npcarcticreport.org",
-    "categories": [
-      "Environmental Issues",
-      "Research",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "2014",
-    "title": "Enhancing Emergency Preparedness for Natural Disasters – Government and Oil & Natural Gas Industry Actions to Prepare, Respond, and Recover",
-    "url": "epandp.html#ep2014",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
+    "title": "Video Content",
     "year": "2012",
-    "title": "Advancing Technology for America's Transportation Future",
-    "url": "trans.html#ftf2012",
-    "categories": [
-      "Environmental Issues",
-      "Research",
-      "Transportation"
-    ],
-    "cover_art_url": null
+    "category": "Video/Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/video/2012/content.htm"
   },
   {
-    "year": "2011",
-    "title": "Prudent Development: Realizing the Potential of North America's Abundant Natural Gas and Oil Resources",
-    "url": "rd.html#nard2011",
-    "categories": [
-      "Environmental Issues",
-      "Resource Development"
-    ],
-    "cover_art_url": null
+    "title": "PHPMailer SMTP Class",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/class.smtp.php"
   },
   {
-    "year": "2008",
-    "title": "One Year Later: An Update on Facing the Hard Truths about Energy",
-    "url": "https://npchardtruthsreport.org",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
+    "title": "PHPMailer README",
+    "year": "Inferred/Unknown",
+    "category": "Documentation",
+    "type": "Markdown",
+    "url": "https://npc.org/files/PHPMailer/README.md"
   },
   {
-    "year": "2007",
-    "title": "Facing the Hard Truths about Energy\nA comprehensive view to 2030 of global oil and natural gas",
-    "url": "https://npchardtruthsreport.org",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
+    "title": "PHPMailer Travis CI Configuration",
+    "year": "Inferred/Unknown",
+    "category": "Configuration/CI",
+    "type": "YAML",
+    "url": "https://npc.org/files/PHPMailer/.travis.yml"
   },
   {
-    "year": "2004",
-    "title": "Observations on Petroleum Product Supply",
-    "url": "../reports/refining.html#ref2004",
-    "categories": [
-      "Refining",
-      "Storage"
-    ],
-    "cover_art_url": null
+    "title": "PHPMailer Class File",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/class.phpmailer.php"
   },
   {
+    "title": "PHPMailer Autoload File",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/autoload.php"
+  },
+  {
+    "title": "PHPMailer Scrutinizer Configuration",
+    "year": "Inferred/Unknown",
+    "category": "Configuration/CI",
+    "type": "YAML",
+    "url": "https://npc.org/files/PHPMailer/.scrutinizer.yml"
+  },
+  {
+    "title": "PHPMailer POP3 Class",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/class.pop3.php"
+  },
+  {
+    "title": "PHPMailer Changelog",
+    "year": "Inferred/Unknown",
+    "category": "Documentation",
+    "type": "Markdown",
+    "url": "https://npc.org/files/PHPMailer/CHANGELOG.md"
+  },
+  {
+    "title": "PHPMailer Composer Configuration",
+    "year": "Inferred/Unknown",
+    "category": "Configuration",
+    "type": "JSON",
+    "url": "https://npc.org/files/PHPMailer/composer.json"
+  },
+  {
+    "title": "PHPMailer Git Ignore",
+    "year": "Inferred/Unknown",
+    "category": "Configuration",
+    "type": "Git Ignore",
+    "url": "https://npc.org/files/PHPMailer/.gitignore"
+  },
+  {
+    "title": "PHPMailer Italian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-it.php"
+  },
+  {
+    "title": "PHPMailer Polish Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-pl.php"
+  },
+  {
+    "title": "PHPMailer Georgian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ka.php"
+  },
+  {
+    "title": "PHPMailer Faroese Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fo.php"
+  },
+  {
+    "title": "PHPMailer Estonian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-et.php"
+  },
+  {
+    "title": "PHPMailer Persian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fa.php"
+  },
+  {
+    "title": "PHPMailer Breton Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-br.php"
+  },
+  {
+    "title": "PHPMailer Spanish Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-es.php"
+  },
+  {
+    "title": "PHPMailer Chinese (Simplified) Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-zh_cn.php"
+  },
+  {
+    "title": "PHPMailer Turkish Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-tr.php"
+  },
+  {
+    "title": "PHPMailer Latvian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-lv.php"
+  },
+  {
+    "title": "PHPMailer Dutch Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-nl.php"
+  },
+  {
+    "title": "PHPMailer Catalan Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ca.php"
+  },
+  {
+    "title": "PHPMailer Hungarian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-hu.php"
+  },
+  {
+    "title": "PHPMailer French Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fr.php"
+  },
+  {
+    "title": "PHPMailer Japanese Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ja.php"
+  },
+  {
+    "title": "PHPMailer Chamorro Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ch.php"
+  },
+  {
+    "title": "PHPMailer Croatian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-hr.php"
+  },
+  {
+    "title": "PHPMailer Arabic Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ar.php"
+  },
+  {
+    "title": "PHPMailer Finnish Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-fi.php"
+  },
+  {
+    "title": "PHPMailer Slovak Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-sk.php"
+  },
+  {
+    "title": "PHPMailer German Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-de.php"
+  },
+  {
+    "title": "PHPMailer Lithuanian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-lt.php"
+  },
+  {
+    "title": "PHPMailer Chinese Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-zh.php"
+  },
+  {
+    "title": "PHPMailer Galician Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-gl.php"
+  },
+  {
+    "title": "PHPMailer Greek Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-el.php"
+  },
+  {
+    "title": "PHPMailer Esperanto Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-eo.php"
+  },
+  {
+    "title": "PHPMailer Norwegian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-no.php"
+  },
+  {
+    "title": "PHPMailer Serbian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-sr.php"
+  },
+  {
+    "title": "PHPMailer Belarusian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-be.php"
+  },
+  {
+    "title": "PHPMailer Danish Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-da.php"
+  },
+  {
+    "title": "PHPMailer Russian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ru.php"
+  },
+  {
+    "title": "PHPMailer Czech Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-cs.php"
+  },
+  {
+    "title": "PHPMailer Ukrainian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-uk.php"
+  },
+  {
+    "title": "PHPMailer Swedish Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-sv.php"
+  },
+  {
+    "title": "PHPMailer Romanian Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-ro.php"
+  },
+  {
+    "title": "PHPMailer Hebrew Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-he.php"
+  },
+  {
+    "title": "PHPMailer Vietnamese Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-vi.php"
+  },
+  {
+    "title": "PHPMailer Portuguese Language",
+    "year": "Inferred/Unknown",
+    "category": "Language/Localization",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/language/phpmailer.lang-pt.php"
+  },
+  {
+    "title": "PHPMailer License",
+    "year": "Inferred/Unknown",
+    "category": "Legal",
+    "type": "Text File",
+    "url": "https://npc.org/files/PHPMailer/LICENSE"
+  },
+  {
+    "title": "PHPMailer Extras README",
+    "year": "Inferred/Unknown",
+    "category": "Documentation",
+    "type": "Markdown",
+    "url": "https://npc.org/files/PHPMailer/extras/README.md"
+  },
+  {
+    "title": "PHPMailer HTML to Text Class",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/extras/htmltopdf/html_to_text.inc.php"
+  },
+  {
+    "title": "PHPMailer NTLM SASL Client",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/extras/ntlm_sasl_client.php"
+  },
+  {
+    "title": "PHPMailer HTML Filter",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/extras/html_filter.php"
+  },
+  {
+    "title": "PHPMailer Easy Peasy ICS",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/PHPMailer/extras/easyPeasyICS/easyPeasyICS.php"
+  },
+  {
+    "title": "PHPMailer PHPUnit XML Dist",
+    "year": "Inferred/Unknown",
+    "category": "Configuration/Testing",
+    "type": "XML",
+    "url": "https://npc.org/files/PHPMailer/phpunit.xml.dist"
+  },
+  {
+    "title": "Button Image 03-A",
+    "year": "Inferred/Unknown",
+    "category": "Image/Graphics",
+    "type": "GIF",
+    "url": "https://npc.org/images/button_03-a.gif"
+  },
+  {
+    "title": "Draft HTML Page",
+    "year": "Inferred/Unknown",
+    "category": "Draft Content",
+    "type": "HTML",
+    "url": "https://npc.org/images/draft.htm"
+  },
+  {
+    "title": "Reports Image 3",
+    "year": "Inferred/Unknown",
+    "category": "Image/Graphics",
+    "type": "GIF",
+    "url": "https://npc.org/images/reports_3.gif"
+  },
+  {
+    "title": "Facing Hard Truths Excerpts",
+    "year": "Inferred/Unknown",
+    "category": "Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/facing_hard_truths_excerpts.pdf"
+  },
+  {
+    "title": "Table of Contents 2",
+    "year": "Inferred/Unknown",
+    "category": "Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/reports/facing_hard_truths/toc2.htm"
+  },
+  {
+    "title": "Call of Meeting",
+    "year": "2023",
+    "category": "Meeting Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/call_of_meeting_2023_09_22.pdf"
+  },
+  {
+    "title": "Old Video Content",
+    "year": "2012",
+    "category": "Video/Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/video/2012/old_content.htm"
+  },
+  {
+    "title": "Net-Zero Report",
+    "year": "2023",
+    "category": "Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2023/Net_Zero_Report.pdf"
+  },
+  {
+    "title": "Contact Us Image",
+    "year": "Inferred/Unknown",
+    "category": "Image/Graphics",
+    "type": "GIF",
+    "url": "https://npc.org/images/contact_us.gif"
+  },
+  {
+    "title": "Links Page",
+    "year": "Inferred/Unknown",
+    "category": "Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/links.htm"
+  },
+  {
+    "title": "FTF Acronyms Abbreviations",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/acronyms_abbreviations.epub"
+  },
+  {
+    "title": "FTF Chapter 14: Natural Gas",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter14.epub"
+  },
+  {
+    "title": "FTF Chapter 10: Heavy Duty Engines & Vehicles",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter10.epub"
+  },
+  {
+    "title": "FTF Chapter 6: GHG",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter6.epub"
+  },
+  {
+    "title": "FTF Chapter 9: LD Engines & Vehicles",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter9.epub"
+  },
+  {
+    "title": "FTF Chapter 3: Heavy Duty Vehicles",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter3.epub"
+  },
+  {
+    "title": "FTF Chapter 2: Light Duty Vehicles",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter2.epub"
+  },
+  {
+    "title": "FTF Chapter 13: Electric",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter13.epub"
+  },
+  {
+    "title": "FTF Chapter 15: Hydrogen",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter15.epub"
+  },
+  {
+    "title": "FTF Appendix B",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/appendix_b.epub"
+  },
+  {
+    "title": "FTF Preface",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/preface.epub"
+  },
+  {
+    "title": "FTF Chapter 11: Hydrocarbon Liquids",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter11.epub"
+  },
+  {
+    "title": "FTF DS_Store File",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/System File",
+    "type": "System File",
+    "url": "https://npc.org/reports/FTF_ePub/.DS_Store"
+  },
+  {
+    "title": "FTF Download Script",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Code",
+    "type": "PHP",
+    "url": "https://npc.org/reports/FTF_ePub/download.php"
+  },
+  {
+    "title": "FTF Chapter 8: Reference Case",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter8.epub"
+  },
+  {
+    "title": "FTF Executive Summary",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/executive_summary.epub"
+  },
+  {
+    "title": "FTF Chapter 7: Energy Security",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter7.epub"
+  },
+  {
+    "title": "FTF Appendix C",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/appendix_c.epub"
+  },
+  {
+    "title": "FTF Chapter 4: Technology",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter4.epub"
+  },
+  {
+    "title": "FTF Chapter 5: Infrastructure",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter5.epub"
+  },
+  {
+    "title": "FTF Chapter 1: Demand",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter1.epub"
+  },
+  {
+    "title": "FTF Appendix A",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/appendix_a.epub"
+  },
+  {
+    "title": "FTF Chapter 12: Biofuels",
+    "year": "Inferred/Unknown",
+    "category": "FTF ePub/Content",
+    "type": "ePub",
+    "url": "https://npc.org/reports/FTF_ePub/chapter12.epub"
+  },
+  {
+    "title": "Natural Gas Study",
     "year": "2003",
-    "title": "Balancing Natural Gas Policy – Fueling the Demands of a Growing Economy",
-    "url": "../reports/ng.html",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "2001",
-    "title": "Securing Oil and Natural Gas Infrastructures In the New Economy",
-    "url": "../reports/epandp.html",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "2000",
-    "title": "U.S. Petroleum Refining – Assuring the Adequacy and Affordability of Cleaner Fuels",
-    "url": "../reports/refining.html#uspr2000",
-    "categories": [
-      "Environmental Issues",
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1999",
-    "title": "Meeting the Challenges of the Nation’s Growing Natural Gas Demand",
-    "url": "../reports/ng.html#ng99",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1998",
-    "title": "U.S. Petroleum Product Supply Inventory Dynamics",
-    "url": "../reports/storage.html#PSID98",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1996",
-    "title": "Issues for Interagency Consideration – A Supplement to the NPC’s Report: Future Issues – A View of U.S. Oil & Natural Gas to 2020",
-    "url": "../reports/eo.html#IFIC96",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1995",
-    "title": "Research, Development, and Demonstration Needs of the Oil and Gas Industry",
-    "url": "Research.html#research1995",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1995",
-    "title": "Future Issues – A View of U.S. Oil & Natural Gas to 2020",
-    "url": "../reports/eo.html#FI95",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1994",
-    "title": "Marginal Wells",
-    "url": "../reports/rd.html#wells94",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1994",
-    "title": "The Oil Pollution Act of 1990 - Issues and Solutions",
-    "url": "../reports/ei.html#topao",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "U.S. Petroleum Refining - Meeting Requirements for Cleaner Fuels and Refineries",
-    "url": "../reports/refining.html#USPR93",
-    "categories": [
-      "Environmental Issues",
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Executive Summary",
-    "url": "../reports/refining.html#USPR93es",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Volume I - Analyses & Results",
-    "url": "../reports/refining.html#USPR93v1",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Volume II - General Information Appendices",
-    "url": "../reports/refining.html#USPR93v2",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Volume III - Financial & Facilities Appendices",
-    "url": "../reports/refining.html#USPR93v3",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Volume IV - Supply, Demand, & Logistics Appendix",
-    "url": "../reports/refining.html#USPR93v4",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Volume V - Refining Capability Appendix",
-    "url": "../reports/refining.html#USPR93v5",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1993",
-    "title": "Volume VI - Survey Appendix",
-    "url": "../reports/refining.html#USPR93v6",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "The Potential for Natural Gas in the United States",
-    "url": "../reports/ng.html#NG92",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Executive Summary",
-    "url": "../reports/ng.html#NG92es",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Volume I - Summary",
-    "url": "../reports/ng.html#NG92v1",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Volume II - Source and Supply",
-    "url": "../reports/ng.html#NG92v2",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Volume III - Demand and Distribution",
-    "url": "../reports/ng.html#NG92v3",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Volume IV - Transmission and Storage",
-    "url": "../reports/ng.html#NG92v4",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Volume V - Regulatory and Policy Issues",
-    "url": "../reports/ng.html#NG92v5",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1992",
-    "title": "Volume VI - Model Documentation and Results",
-    "url": "../reports/ng.html#NG92v6",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1991",
-    "title": "Industry Assistance to Government - Methods for Providing Petroleum Industry Expertise During Emergencies",
-    "url": "../reports/epandp.html#IATG91",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1991",
-    "title": "Short-Term Petroleum Outlook - An Examination of Issues and Projections",
-    "url": "../reports/epandp.html#stpo91",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1989",
-    "title": "Petroleum Storage & Transportation",
-    "url": "../reports/trans.html#pstc89",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1989",
-    "title": "Volume I - Executive Summary",
-    "url": "../reports/trans.html#pstc89v1",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1989",
-    "title": "Volume II - System Dynamics",
-    "url": "../reports/trans.html#pstc89v2",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1989",
-    "title": "Volume III - Natural Gas Transportation",
-    "url": "../reports/trans.html#pstc89v3",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1989",
-    "title": "Volume IV - Petroleum Inventories and Storage",
-    "url": "../reports/trans.html#pstc89v4",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1989",
-    "title": "Volume V - Petroleum Liquids Transportation",
-    "url": "../reports/trans.html#pstc89v5",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1988",
-    "title": "Integrating R&D Efforts",
-    "url": "Research.html#r_d1988",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1987",
-    "title": "Factors Affecting U.S. Oil & Gas Outlook (10.2 MB)",
-    "url": "../reports/eo.html#fausogo87",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1986",
-    "title": "U.S. Petroleum Refining",
-    "url": "refining.html#uspr86",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1986",
-    "title": "U.S. Oil & Gas Outlook (Interim Report)",
-    "url": "1986-US_Oil_n_Gas_Outlook-Interim_Report.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1984",
-    "title": "The Strategic Petroleum Reserve: A Report on the Capability to Distribute SPR Oil",
-    "url": "../reports/spr.html#tspr:arotctdspro",
-    "categories": [
-      "Strategic Petroleum Reserve"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1984",
-    "title": "Enhanced Oil Recovery",
-    "url": "../reports/rd.html#eor84",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1984",
-    "title": "Petroleum Inventories and Storage Capacity (Full Report)",
-    "url": "../reports/storage.html#pisc84a",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1983",
-    "title": "Petroleum Inventories and Storage Capacity (Interim Report)",
-    "url": "../reports/storage.html#pisc83",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1982",
-    "title": "Environmental Conservation (Full Report)",
-    "url": "../reports/ei.html#EC",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1982",
-    "title": "Third World Petroleum Development: A Statement of Principles",
-    "url": "../reports/rd.html#twpd82",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1981",
-    "title": "Emergency Preparedness",
-    "url": "../reports/epandp.html#ep81",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1981",
-    "title": "Environmental Conservation (Overview)",
-    "url": "../reports/ei.html#EC",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1981",
-    "title": "U.S. Arctic Oil & Gas",
-    "url": "../reports/rd.html#usaoag81",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Unconventional Gas Sources",
-    "url": "../reports/rd.html#rd1980unconvgas",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Interim Summary",
-    "url": "../reports/rd.html#ugs80int",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Volume I - Executive Summary",
-    "url": "../reports/rd.html#ugs81v1",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Volume II - Coal Seams",
-    "url": "../reports/rd.html#ugs81v2",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Volume III - Devonian Shale",
-    "url": "../reports/rd.html#ugs81v3",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Volume IV - Geopressured Brines",
-    "url": "../reports/rd.html#ugs81v4",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Volume V, Part 1 - Tight Gas Reservoirs",
-    "url": "../reports/rd.html#ugs81v5a",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Volume V, Part 2 - Tight Gas Reservoirs",
-    "url": "../reports/rd.html#ugs81v5b",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1980",
-    "title": "Refinery Flexibility",
-    "url": "../reports/refining.html#rf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Materials & Manpower Requirements for U.S. Oil & Gas Exploration & Production 1979-1990 (9.6 MB)",
-    "url": "1979-Materials_and_Manpower_Requirements_for_US_Oil_and_Gas_Exploration-Production-1979-90.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Petroleum Storage & Transportation Capacities Volume I - Executive Summary (2.8 MB)",
-    "url": "petrol_storage_transport-1979-v1-Exec_Summary.pdf",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Petroleum Storage & Transportation Capacities Volume II - Inventory and Storage (4.9 MB)",
-    "url": "petrol_storage_transport-1979-v2-Inventory_and_Storage.pdf",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Petroleum Storage & Transportation Capacities Volume III - Petroleum Pipelines (11.9 MB)",
-    "url": "petrol_storage_transport-1979-v3-Petroleum_Pipelines.pdf",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Petroleum Storage & Transportation Capacities Volume IV - Tank Cars and Trucks (2.2 MB)",
-    "url": "petrol_storage_transport-1979-v4-Tank_Cars_and_Trucks.pdf",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Petroleum Storage & Transportation Capacities Volume V - Waterborne (2.8 MB)",
-    "url": "petrol_storage_transport-1979-v5-Waterborne.pdf",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Petroleum Storage & Transportation Capacities Volume VI - Gas Pipelines (6.6 MB)",
-    "url": "petrol_storage_transport-1979-v6-Gas_Pipelines.pdf",
-    "categories": [
-      "Storage",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Refinery Flexibility - An Interim Report - Volume I (7.8 MB)",
-    "url": "1979-Refinery_Flexibility-Interim_Report-Vol_I.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1979",
-    "title": "Refinery Flexibility - An Interim Report - Volume II (41.5 MB)",
-    "url": "1979-Refinery_Flexibility-Interim_Report-Vol_II.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1976",
-    "title": "Enhanced Oil Recovery (38.2 MB)",
-    "url": "1976-Enhanced_Oil_Recovery.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1975",
-    "title": "Ocean Petroleum Resources",
-    "url": "1975-Ocean_Petroleum_Resources.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1975",
-    "title": "Petroleum Storage for National Security (3.8 MB)",
-    "url": "1975-Petroleum_Storage_for_National_Security.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1975",
-    "title": "Potential for Energy Conservation in the United States: 1979-1985 (3.7 MB)",
-    "url": "1975-Potential_for_Energy_Conservation_in_US-1979-85.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Availability of Materials, Manpower and Equipment for the Exploration, Drilling and Production of Oil 1974-1976 - Summary",
-    "url": "1974-Availability-Materials_Manpower_and_Equipment_for_Exploration_Drilling_and_Production_of_Oil_1974-1976-Summary.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Availability of Materials, Manpower and Equipment for the Exploration, Drilling and Production of Oil 1974-1976 (4 MB)",
-    "url": "1974-Availability_of_Materials_Manpower_and_Equipment_for_Exploration_Drilling_Production_of_Oil_1974-76.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Emergency Preparedness for the Interruption of Petroleum Imports into the United States - Summary",
-    "url": "1974-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports_into_US-Summary.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Emergency Preparedness for the Interruption of Petroleum Imports into the United States",
-    "url": "1974-Emergency_Preparedness_for_Interruption_of_Petroleum_Imports_into_US.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Petroleum Storage Capacity",
-    "url": "1974-Petroleum_Storage_Capacity.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Potential for Energy Conservation in the United States 1974-1978 - Summary Report",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Summary_Report.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Potential for Energy Conservation in the United States 1974-1978 - Electric Utility",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Electric_Utility.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Potential for Energy Conservation in the United States 1974-1978 - Industrial",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Industrial.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Potential for Energy Conservation in the United States 1974-1978 - Residential/Commercial",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Residential_Commercial.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Potential for Energy Conservation in the United States 1974-1978 - Transportation (4.3 MB)",
-    "url": "1974-Potential_for_Energy_Conservation_in_US_1974-78-Transportation.pdf",
-    "categories": [
-      "Energy Outlook",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1974",
-    "title": "Short-Term U.S. Petroleum Outlook - A Reappraisal",
-    "url": "1974-Short_Term_US_Petroleum_Outlook-A_Reappraisal.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Law of the Sea - Particular Aspects Affecting the Petroleum Industry",
-    "url": "1973-Law_of_the_Sea.pdf",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Factors Affecting U.S. Petroleum Refining - A Summary (3.9 MB)",
-    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Summary.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Factors Affecting U.S. Petroleum Refining - Final Report (5.6 MB)",
-    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Final_Report.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Factors Affecting U.S. Petroleum Refining - Impact of New Technology",
-    "url": "1973-Factors_Affecting_US_Petroleum_Refining-Impact_of_New_Tech.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Emergency Preparedness for Interruption of Petroleum into the United States - Interim Report",
-    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Interim Report.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Emergency Preparedness for Interruption of Petroleum into the United States - Supplemental Interim Report",
-    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Supplemental_Interim_Report.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1973",
-    "title": "Emergency Preparedness for Interruption of Petroleum into the United States - Supplemental Interim Report Papers",
-    "url": "1973-Emergency_Preparedness-Interruption_of_Petroleum_Imports-Supplemental_Papers.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "Environmental Conservation -The Oil and Gas Industries, Volume II (9.3 MB)",
-    "url": "1972-Environmental_Conservation-Oil_and_Gas_Industries-Vol_II.pdf",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook -A Summary Report of the National Petroleum Council (10.4 MB)",
-    "url": "1972-US_Energy_Outlook-Summary.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook -A Report of the National Petroleum Council’s Committee on U.S. Energy Outlook (6.5 MB)",
-    "url": "1972-US_Energy_Outlook-Full_Report.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Coal Availability (6.9 MB)",
-    "url": "1972-US_Energy_Outlook-Coal_Availability.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Energy Demand",
-    "url": "1972-US_Energy_Outlook-Energy_Demand.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Fuels for Electricity",
-    "url": "1972-US_Energy_Outlook-Fuels_for_Electricity.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Gas Demand",
-    "url": "1972-US_Energy_Outlook-Gas_Demand.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Gas Transportation (19.4 MB)",
-    "url": "1972-US_Energy_Outlook-Gas_Transportation.pdf",
-    "categories": [
-      "Energy Outlook",
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - New Energy Forms (8 MB)",
-    "url": "1972-US_Energy_Outlook-New_Energy_Forms.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Nuclear Energy Availability (6.5 MB)",
-    "url": "1972-US_Energy_Outlook-Nuclear_Energy_Availability.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Oil and Gas Availability (12.2 MB)",
-    "url": "1972-US_Energy_Outlook_Oil_and_Gas_Availability.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Oil Shale Availability (3.9 MB)",
-    "url": "1972-US_Energy_Outlook-Oil_Shale_Availability.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "U.S. Energy Outlook - Water Availability",
-    "url": "1972-US_Energy_Outlook-Water_Availability.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1972",
-    "title": "Guide to National Petroleum Council Report on U.S. Energy Outlook",
-    "url": "1972-Guide_to_NPC_Report-US_Energy_Outlook.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1971",
-    "title": "Environmental Conservation -The Oil and Gas Industries, Volume I (32.6 MB)",
-    "url": "1971-Environmental_Conservation-_Oil_and_Gas_Industries-Vol_I.pdf",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1971",
-    "title": "Petroleum Resources Under the Ocean Floor - Supplemental Report (9.6 MB)",
-    "url": "1971-Ocean_Resources_Under_Ocean_Floor-Supplemental_Report.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1971",
-    "title": "U.S. Energy Outlook - An Initial Appraisal (1971-1985), Volume I (10.4 MB)",
-    "url": "1971-US_Energy_Outlook-An_Initial_Appraisal-Interim_Vol_I.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1971",
-    "title": "U.S. Energy Outlook - An Initial Appraisal (1971-1985), Volume II (135.3 MB)",
-    "url": "1971-US_Energy_Outlook-An_Initial_Appraisal-Interim_Vol_II.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1970",
-    "title": "Capacity of Crude Oil Gathering Systems and Deep-Water Terminals (8.2 MB)",
-    "url": "1970-Capacity_of_Crude_Oil_Gathering_Systems-Deep_Water_Terminals.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1970",
-    "title": "Current Key Issues Relating to Environmental Conservation -The Oil and Gas Industries (3.3 MB)",
-    "url": "1970-Current_Key_Issues_Relating_to_Environmental_Conservation-Oil_n_Gas_Industries-Interim.pdf",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1970",
-    "title": "Future Petroleum Provinces in the United States -A Summary (21.6 MB)",
-    "url": "1970-Future_Petroleum_Provinces_in_US-Summary.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1970",
-    "title": "Short-Term Fuel Oil Outlook (28.4 MB)",
-    "url": "1970-Short_Term_Fuel_Oil_Outlook.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1970",
-    "title": "U.S. Petroleum Inventories and Storage Capacity (7.9 MB)",
-    "url": "1970-US_Petroleum_Inventories_and_Storage_Capacity.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1969",
-    "title": "Materials Requirements for Petroleum Exploration and Production (22.7 MB)",
-    "url": "1969-Materials_Requirements_for_Petroleum_Exploration_and_Production.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1969",
-    "title": "List of Key Occupations in the Petroleum and Natural Gas Industries (8.1 MB)",
-    "url": "1969-List_of_Key_Occupations_in_Petroleum_and_NatGas_Industries.pdf",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1969",
-    "title": "Skills and Occupations of People in the United States Oil and Gas Industries (13.8 MB)",
-    "url": "1969-Skills_and_Occupations_of_People_in_US_Oil_and_Gas_Industries.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1969",
-    "title": "Petroleum Resources Under the Ocean Floor (24.7 MB)",
-    "url": "1969-Petroleum_Resources_Under_the_Ocean_Floor.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1969",
-    "title": "U.S. Petroleum Imports (7.6 MB)",
-    "url": "1969-US_Petroleum_Imports.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1968",
-    "title": "Impact of New Technology on the U.S. Petroleum Industry (1946-1965) (60.6 MB)",
-    "url": "1968-Impact_of_New_Technology_on_US_Petroleum_Industry-1946-65.pdf",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1968",
-    "title": "Petroleum Resources Under the Ocean Floor (Interim Report)",
-    "url": "1968-Petroleum_Resources_Under_Ocean_Floor-Interim.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1967",
-    "title": "Factors Affecting U.S. Exploration, Development and Production (1946-1965) (90.6 MB)",
-    "url": "1967-Factors_Affecting_US_Exploration-Development_and_Production-1946-65.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1967",
-    "title": "U.S. Petroleum and Gas Transportation Capacities (24.9 MB)",
-    "url": "1967-US_Petroleum_and_Gas_Transportation_Capacities.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1966",
-    "title": "Critical Materials Requirements for Petroleum Refining",
-    "url": "1966-Critical_Materials_Requirements_for_Petroleum_Refining.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1966",
-    "title": "Estimated Productive Capacities of Crude Oil, Natural Gas and Natural Gas Liquids in the United States (1965-1970)",
-    "url": "1966-Estimated_Productive_Capacities_of_Crude_Oil-Natural_Gas-NatGas_Liquids_in_US-1965-70.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1966",
-    "title": "Impact of Electric Power Outages on Petroleum Industry Facilities",
-    "url": "1966-Impact_of_Electric_Power_Outages_on_Petroleum_Industry_Facilities.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1966",
-    "title": "Participation in the Water for Peace Program",
-    "url": "1966-Participation_in_Water-For-Peace_Program.pdf",
-    "categories": [
-      "Environmental Issues"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1966",
-    "title": "Petroleum Policies for the United States",
-    "url": "1966-Petroleum_Policies_for_United_States.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1966",
-    "title": "What is the Emergency Petroleum and Gas Administration?",
-    "url": "1966-What_is_Emergency_Petroleum_and_Gas_Administration.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1965",
-    "title": "Emergency Fuel Convertibility (3.3 MB)",
-    "url": "1965-Emergency_Fuel_Convertibility.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1965",
-    "title": "Proved Discoveries and Productive Capacity of Crude Oil, Natural Gas and Natural Gas Liquids in the United States (4.2 MB)",
-    "url": "1965-Proved_Discoveries-Productive Capacity_Crude_Oil-NatGas-NatGas_Liquids_in_US.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1964",
-    "title": "Civil Defense and Emergency Planning for the Petroleum and Gas Industries Volume I (49 MB)",
-    "url": "1964-Civil_Defense_and_Emergency_Planning_for_Petroleum_and_Gas_Industries-Vol_I.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1964",
-    "title": "Civil Defense and Emergency Planning for the Petroleum and Gas Industries Volume II (12.6 MB)",
-    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_II.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1964",
-    "title": "Impact of Oil Exports from the Soviet Bloc (Supplement) (24.3 MB)",
-    "url": "1964-Impact_of_Oil_Exports_from_Soviet_Bloc-Supplement.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1964",
-    "title": "Petroleum and Gas in a National Emergency (An Analysis of Government Planning) (17.2 MB)",
-    "url": "1964-Petroleum_and_Gas_in_National_Emergency-Analysis_of_Govt_Planning.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1964",
-    "title": "Petroleum and Gas in a National Emergency (Supplement) (3.2 MB)",
-    "url": "1964-Petroleum_and_Gas_in_National_Emergency-Supplement.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1963",
-    "title": "Chemical Manufacturing Facilities of the Petroleum and Natural Gas Industries",
-    "url": "1963-Chemical_Manufacturing_Facilities_of_Petroleum_and_NG_Industries.pdf",
-    "categories": [
-      "Natural Gas",
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1963",
-    "title": "Materials Requirements for Oil and Gas Exploration, Drilling and Production",
-    "url": "1963-Materials_Requirements-Oil_and_Gas_Exploration-Drilling-Production.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1963",
-    "title": "Petroleum and Gas Industries Manpower Requirements (10.8 MB)",
-    "url": "1963-Petroleum_and_Gas_Industry_Manpower_Requirements.pdf",
-    "categories": [
-      "Natural Gas",
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1963",
-    "title": "Petroleum Storage Capacity",
-    "url": "1963-Petroleum_Storage_Capacity.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1962",
-    "title": "Impact of Oil Exports from the Soviet Bloc Volume I (14.8 MB)",
-    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_I.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1962",
-    "title": "Impact of Oil Exports from the Soviet Bloc Volume II (33.8 MB)",
-    "url": "1962-Impact-Oil_Exports_From_The_Soviet_Bloc-Vol_II.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1962",
-    "title": "Oil and Gas Transportation Facilities (7.3 MB)",
-    "url": "1962-Oil-Gas_Transportation_Facilities.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1961",
-    "title": "Maintenance and Chemical Requirements for U.S. Petroleum Refineries and Natural Gasoline Plants (7 MB)",
-    "url": "1961-Maintenance_and_Chemical_Requirements_for_US_Petroleum_Refineries-Natural_Gas_Plants.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1961",
-    "title": "Proved Discoveries and Productive Capacity of Crude Oil, Natural Gas and Natural Gas Liquids in the United States",
-    "url": "1961-Proved_Discoveries_and_Productive_Capacity-Crude_Oil-Natural_Gas-Natural_Gas_Liquids_in_US.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1961",
-    "title": "The National Petroleum Council – A Unique Experience in Government-Industry Cooperation: The First Seven Years, 1946-1953 (38.2 MB)",
-    "url": "1961-A_Unique_Experience_in_Government-Industry_Cooperation_1946-63.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1960",
-    "title": "Petroleum Industry Use of the Radio Spectrum (Final Report)",
-    "url": "1960-Petroleum_Industry_Use_of_Radio_Spectrum.pdf",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1960",
-    "title": "Petroleum Storage Facilities",
-    "url": "1960-Petroleum_Storage_Facilities.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1959",
-    "title": "National Emergency Oil and Gas Mobilization",
-    "url": "1959-National_Emergency_Oil_and_Gas_Mobilization.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1959",
-    "title": "Petroleum Industry’s Use of the Radio Spectrum (Interim Report)",
-    "url": "1959-Use_of_Radio_and_Radar-Interim.pdf",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1958",
-    "title": "Petroleum Transportation",
-    "url": "1958-Petroleum_Transportation.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1957",
-    "title": "Availability of Liquefied Petroleum Gas",
-    "url": "1957-Availability_of_Liquefied_Petroleum_Gas.pdf",
-    "categories": [
-      "Natural Gas"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1957",
-    "title": "Petroleum Productive Capacity",
-    "url": "1957-Petroleum_Productive_Capacity-Oct_3.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1957",
-    "title": "Petroleum Storage Capacity",
-    "url": "1957-Petroleum_Storage_Capacity.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1957",
-    "title": "Underground Storage for Petroleum",
-    "url": "1957-Underground_Storage_for_Petroleum.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1957",
-    "title": "United States Refinery Capacity",
-    "url": "1957-US_Refinery_Capacity-Nov_12.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1957",
-    "title": "World Petroleum Tanker Construction",
-    "url": "1957-World_Petroleum_Tanker_Construction.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1956",
-    "title": "Oil and Gas Emergency Defense Organization Communication Facilities",
-    "url": "1956-Oil_and_Gas_Communication_Facilities_Subcomm_Report Sept_28.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1956",
-    "title": "Oil and Gas Industries Manpower",
-    "url": "1956-Oil_and_Gas_Industries_Manpower-May_17.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1956",
-    "title": "Tank Truck Transportation",
-    "url": "1956-Tank_Truck_Transportation-,January_24.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1956",
-    "title": "Underground Storage for Petroleum",
-    "url": "1956-Underground_Storage_of_Petroleum_Products-Interim-Sept_28.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1956",
-    "title": "World Petroleum Tanker Construction",
-    "url": "1956-Tanker_Requirements-Interim_Report-Dec.pdf",
-    "categories": [
-      "Transportation"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Disaster Planning for the Oil and Gas Industries",
-    "url": "1955-Disaster_Planning_for_Oil_and_Gas_Industries.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Oil and Gas Industries Manpower",
-    "url": "1955-Oil_and_Gas_Industries_Manpower-Interim-Oct_20.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Petroleum Imports",
-    "url": "1955-Petroleum_Imports.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Petroleum Productive Capacity",
-    "url": "1955-Petroleum_Productive_Capacity-May_5.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Security Principles for the Petroleum and Gas Industries",
-    "url": "1955-Security_Principles_for_Petroleum_and_Gas_Industries.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Shale Oil Policy",
-    "url": "1955-Shale_Oil_Policy.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1955",
-    "title": "Use of Radio and Radar",
-    "url": "1955-Use_of_Radio_and_Radar.pdf",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1954",
-    "title": "Oil and Gas Emergency Defense Organization",
-    "url": "1954-Oil_and_Gas_Emergency_Defense_Organization.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1954",
-    "title": "Petroleum Storage Capacity",
-    "url": "1954-Petroleum_Storage_Capacity.pdf",
-    "categories": [
-      "Storage"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Federal Lands Oil and Gas Policy",
-    "url": "1953-Federal_Lands_Oil_and_Gas_Policy.pdf",
-    "categories": [
-      "Energy Outlook"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Government Oil and Gas Organization",
-    "url": "1953-Government_Oil_and_Gas_Organization.pdf",
-    "categories": [
-      "Emergency Planning and Preparedness"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Oil and Gas Exploration, Drilling and Production Requirements September",
-    "url": null,
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Oil and Gas Exploration, Drilling and Production Requirements December",
-    "url": "1953-Oil_and_Gas_Exploration_Drilling-Production_Requirements-December.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Petroleum Productive Capacity",
-    "url": "1953-Petroleum_Productive_Capacity-May_28.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Submerged Lands Productive Capacity February",
-    "url": "1953-Submerged_Lands_Productive_Capacity-Interim-Feb_26.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Submerged Lands Productive Capacity May",
-    "url": "1953-Submerged_Lands_Productive_Capacity-May_28.pdf",
-    "categories": [
-      "Resource Development"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Synthetic Liquid Fuels Production Costs",
-    "url": "1953-Synthetic_Liquid_Fuels_Production_Costs.pdf",
-    "categories": [
-      "Refining"
-    ],
-    "cover_art_url": null
-  },
-  {
-    "year": "1953",
-    "title": "Use of Radio and Radar",
-    "url": "1953-Use_of_Radio_and_Radar.pdf",
-    "categories": [
-      "Research"
-    ],
-    "cover_art_url": null
+    "category": "Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/natural_gas_study_2003.pdf"
+  },
+  {
+    "title": "Report Image 2",
+    "year": "Inferred/Unknown",
+    "category": "Image/Graphics",
+    "type": "GIF",
+    "url": "https://npc.org/images/reports_2.gif"
+  },
+  {
+    "title": "Report Index",
+    "year": "Inferred/Unknown",
+    "category": "Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/reports/index.htm"
+  },
+  {
+    "title": "Call of Meeting Press Release",
+    "year": "2022",
+    "category": "Meeting Documents/Press Release",
+    "type": "PDF",
+    "url": "https://npc.org/reports/call_of_meeting_2022_12_05_pr.pdf"
+  },
+  {
+    "title": "Draft Facing Hard Truths Report",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/facing_hard_truths.pdf"
+  },
+  {
+    "title": "Draft Chapter 1: Demand Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/chapter1_demand_samples.pdf"
+  },
+  {
+    "title": "Draft Chapter 3: Technology Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/chapter3_technology_samples.pdf"
+  },
+  {
+    "title": "Draft Methodology Document",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/methodology_document.pdf"
+  },
+  {
+    "title": "Draft Executive Summary Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/executive_summary_samples.pdf"
+  },
+  {
+    "title": "Draft Chapters Six to End Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/chapters_six_to_end_samples.pdf"
+  },
+  {
+    "title": "Draft HTML Page",
+    "year": "Inferred/Unknown",
+    "category": "Draft Reports",
+    "type": "HTML",
+    "url": "https://npc.org/reports/drafts_2007/draft.htm"
+  },
+  {
+    "title": "Draft Chapter 2: Supply Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/chapter2_supply_samples.pdf"
+  },
+  {
+    "title": "Draft Preface",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/preface.pdf"
+  },
+  {
+    "title": "Draft Chapter 4: Geopolitics Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/chapter4_geopolitics_samples.pdf"
+  },
+  {
+    "title": "Draft Chapter 5: Carbon Samples",
+    "year": "2007",
+    "category": "Draft Reports",
+    "type": "PDF",
+    "url": "https://npc.org/reports/drafts_2007/chapter5_carbon_samples.pdf"
+  },
+  {
+    "title": "Order Information Image",
+    "year": "Inferred/Unknown",
+    "category": "Image/Graphics",
+    "type": "GIF",
+    "url": "https://npc.org/images/order_information.gif"
+  },
+  {
+    "title": "Reports Archive",
+    "year": "2020",
+    "category": "Archive",
+    "type": "TAR.GZ",
+    "url": "https://npc.org/reports/2020/reports.tar.gz"
+  },
+  {
+    "title": "NPC Infra-CCUS Council Meeting Document",
+    "year": "2019",
+    "category": "Meeting Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra-CCUS_Council_Meeting_Document.pdf"
+  },
+  {
+    "title": "View Center (DHAVAL)",
+    "year": "Inferred/Unknown",
+    "category": "Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/viewcenter_dhaval.htm"
+  },
+  {
+    "title": "Post-Meeting Document",
+    "year": "2021",
+    "category": "Meeting Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2021/post_meeting_document.pdf"
+  },
+  {
+    "title": "Feedback Page",
+    "year": "Inferred/Unknown",
+    "category": "Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/feedback.htm"
+  },
+  {
+    "title": "OCR Test File (DELETE?)",
+    "year": "Inferred/Unknown",
+    "category": "Test File",
+    "type": "PDF",
+    "url": "https://npc.org/reports/ocr_test_file.pdf"
+  },
+  {
+    "title": "View Center",
+    "year": "2021",
+    "category": "Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/viewcenter_2021.htm"
+  },
+  {
+    "title": "Natural Gas Flyer",
+    "year": "2005",
+    "category": "Marketing/Flyer",
+    "type": "PDF",
+    "url": "https://npc.org/reports/natural_gas_flyer_2005.pdf"
+  },
+  {
+    "title": "Secretarial Letter 150",
+    "year": "Inferred/Unknown",
+    "category": "Official Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/secretarial_letter_150.pdf"
+  },
+  {
+    "title": "ARSA Press Release",
+    "year": "2019",
+    "category": "Press Release",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/arsa_pr.pdf"
+  },
+  {
+    "title": "Infra CCUS Chapter 3: PSSLO",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch3-PSSLO.pdf"
+  },
+  {
+    "title": "Old Infra CCUS SC Page",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PHP",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/sc-old.php"
+  },
+  {
+    "title": "Infra CCUS Chapter 2: IRMA",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch2-IRMA.pdf"
+  },
+  {
+    "title": "Infra CCUS Chapter 4: TAD",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch4-TAD.pdf"
+  },
+  {
+    "title": "Infra CCUS Appendix B",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/AppB.pdf"
+  },
+  {
+    "title": "Infra CCUS Executive Summary",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/ExecSummary.pdf"
+  },
+  {
+    "title": "Infra CCUS Appendix A",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/AppA.pdf"
+  },
+  {
+    "title": "Infra CCUS Chapter 1: Supply & Demand",
+    "year": "2019",
+    "category": "CCUS Draft Documents",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2019/Infra_CCUS/Ch1-SD.pdf"
+  },
+  {
+    "title": "Call of Meeting Press Release",
+    "year": "2017",
+    "category": "Meeting Documents/Press Release",
+    "type": "PDF",
+    "url": "https://npc.org/reports/call_of_meeting_2017_12_05_pr.pdf"
+  },
+  {
+    "title": "Files Index",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "PHP",
+    "url": "https://npc.org/files/index.php"
+  },
+  {
+    "title": "jQuery Minified",
+    "year": "Inferred/Unknown",
+    "category": "Code/Utility",
+    "type": "JavaScript",
+    "url": "https://npc.org/files/jquery-1.11.3.min.js"
+  },
+  {
+    "title": "Files HTACCESS",
+    "year": "Inferred/Unknown",
+    "category": "Configuration",
+    "type": "HTACCESS",
+    "url": "https://npc.org/files/.htaccess"
+  },
+  {
+    "title": "Hydrogen Study Update",
+    "year": "2023",
+    "category": "Reports/Updates",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2023/Hydrogen_Update.pdf"
+  },
+  {
+    "title": "GHG Study Update",
+    "year": "2023",
+    "category": "Reports/Updates",
+    "type": "PDF",
+    "url": "https://npc.org/reports/2023/GHG_Update.pdf"
+  },
+  {
+    "title": "PDFJS Viewer JS Map",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Code",
+    "type": "JS Map",
+    "url": "https://npc.org/viewer/viewer.js.map"
+  },
+  {
+    "title": "PDFJS Viewer HTML",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Web Pages",
+    "type": "HTML",
+    "url": "https://npc.org/viewer/viewer.html"
+  },
+  {
+    "title": "PDFJS Compressed Tracemonkey PDF",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Demo File",
+    "type": "PDF",
+    "url": "https://npc.org/viewer/compressed.tracemonkey-pldi-09.pdf"
+  },
+  {
+    "title": "PDFJS Viewer JS",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Code",
+    "type": "JavaScript",
+    "url": "https://npc.org/viewer/viewer.js"
+  },
+  {
+    "title": "PDFJS Debugger JS",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Code",
+    "type": "JavaScript",
+    "url": "https://npc.org/viewer/debugger.js"
+  },
+  {
+    "title": "PDFJS Annotation Key SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-key.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Download SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-download.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button View Attachments SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-viewAttachments.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Open File SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-openFile.svg"
+  },
+  {
+    "title": "PDFJS Shadow PNG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "PNG",
+    "url": "https://npc.org/viewer/images/shadow.png"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Rotate CW SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-rotateCW.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Current Outline Item SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-currentOutlineItem.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Page Up SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-pageUp.svg"
+  },
+  {
+    "title": "PDFJS Annotation Check SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-check.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Rotate CCW SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-rotateCCW.svg"
+  },
+  {
+    "title": "PDFJS Annotation Insert SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-insert.svg"
+  },
+  {
+    "title": "PDFJS Findbar Button Previous SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/findbarButton-previous.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button View Layers SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-viewLayers.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Menu Arrow SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-menuArrow.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Scroll Horizontal SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-scrollHorizontal.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Print SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-print.svg"
+  },
+  {
+    "title": "PDFJS Annotation No Icon SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-noicon.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Search SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-search.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Scroll Wrapped SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-scrollWrapped.svg"
+  },
+  {
+    "title": "PDFJS Loading Dark SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/loading-dark.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Select Tool SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-selectTool.svg"
+  },
+  {
+    "title": "PDFJS Tree Item Expanded SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/treeItem-expanded.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Spread None SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-spreadNone.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Document Properties SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-documentProperties.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Zoom In SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-zoomIn.svg"
+  },
+  {
+    "title": "PDFJS Annotation Note SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-note.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button View Thumbnail SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-viewThumbnail.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Secondary Toolbar Toggle SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-secondaryToolbarToggle.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Presentation Mode SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-presentationMode.svg"
+  },
+  {
+    "title": "PDFJS Tree Item Collapsed SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/treeItem-collapsed.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Last Page SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-lastPage.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Spread Even SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-spreadEven.svg"
+  },
+  {
+    "title": "PDFJS Loading Icon GIF",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "GIF",
+    "url": "https://npc.org/viewer/images/loading-icon.gif"
+  },
+  {
+    "title": "PDFJS Annotation Paragraph SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-paragraph.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Sidebar Toggle SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-sidebarToggle.svg"
+  },
+  {
+    "title": "PDFJS Grab Cursor",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "Cursor File",
+    "url": "https://npc.org/viewer/images/grab.cur"
+  },
+  {
+    "title": "PDFJS Toolbar Button Zoom Out SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-zoomOut.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Scroll Vertical SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-scrollVertical.svg"
+  },
+  {
+    "title": "PDFJS Annotation New Paragraph SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-newparagraph.svg"
+  },
+  {
+    "title": "PDFJS Findbar Button Next SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/findbarButton-next.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button First Page SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-firstPage.svg"
+  },
+  {
+    "title": "PDFJS Grabbing Cursor",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "Cursor File",
+    "url": "https://npc.org/viewer/images/grabbing.cur"
+  },
+  {
+    "title": "PDFJS Annotation Comment SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-comment.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Page Down SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-pageDown.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Hand Tool SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-handTool.svg"
+  },
+  {
+    "title": "PDFJS Secondary Toolbar Button Spread Odd SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/secondaryToolbarButton-spreadOdd.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button Bookmark SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-bookmark.svg"
+  },
+  {
+    "title": "PDFJS Loading SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/loading.svg"
+  },
+  {
+    "title": "PDFJS Annotation Help SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/annotation-help.svg"
+  },
+  {
+    "title": "PDFJS Toolbar Button View Outline SVG",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Images",
+    "type": "SVG",
+    "url": "https://npc.org/viewer/images/toolbarButton-viewOutline.svg"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Afrikaans",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/af/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Mexican Spanish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/es-MX/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Cakchiquel",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/cak/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Tamil",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ta/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Marathi",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/mr/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Indian Punjabi",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/pa-IN/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Bulgarian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/bg/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Slovenian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/sl/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Armenian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/hy-AM/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Fulah",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ff/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Scottish Gaelic",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/gd/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Dutch",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/nl/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Danish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/da/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Kabyle",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/kab/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Bosnian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/bs/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Arabic",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ar/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Catalan",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ca/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Ukrainian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/uk/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Romansh",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/rm/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Bodo",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/brx/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Albanian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/sq/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Lower Sorbian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/dsb/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Hebrew",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/he/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Indian Hindi",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/hi-IN/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Serbian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/sr/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Central Kurdish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ckb/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Guarani",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/gn/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Kazakh",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/kk/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Finnish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/fi/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Telugu",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/te/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Asturian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ast/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Western Frisian (Netherlands)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/fy-NL/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Swedish (Sweden)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/sv-SE/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Burmese",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/my/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Sicilian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/scn/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Korean",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ko/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Wolof",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/wo/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Tajik",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/tg/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Malay",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ms/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Norwegian Bokmål (Norway)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/nb-NO/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Italian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/it/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Xhosa",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/xh/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Esperanto",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/eo/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Eastern Armenian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/hy/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Turkish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/tr/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Occitan",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/oc/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Scots",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/sco/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Khmer",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/km/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Tibetan",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/bo/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Norwegian Nynorsk (Norway)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/nn-NO/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Lao",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/lo/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Silesian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/szl/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Kannada",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/kn/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Czech",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/cs/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Macedonian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/mk/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Interlingua",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/ia/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Sinhala",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/si/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Thai",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/th/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: German",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/de/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Hungarian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/hu/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Breton",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/br/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Chinese (Traditional, Taiwan)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/zh-TW/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Chinese (Simplified, China)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/zh-CN/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Basque",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/eu/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Locale Properties",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/locale.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: European Spanish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/es/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Gujarati (India)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/gu-IN/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: English (Canada)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/en-CA/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Azerbaijani",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/az/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Indonesian",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/id/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Trs (Trs is likely an unknown language code)",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/trs/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Brazilian Portuguese",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/pt-BR/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Polish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/pl/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Icelandic",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/is/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Chilean Spanish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/es-CL/viewer.properties"
+  },
+  {
+    "title": "PDFJS Viewer Locale: Argentine Spanish",
+    "year": "Inferred/Unknown",
+    "category": "PDF Reader/Localization",
+    "type": "Properties",
+    "url": "https://npc.org/viewer/locale/es-AR/viewer.properties"
   }
 ]
