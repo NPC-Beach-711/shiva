@@ -1,35 +1,23 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <title>Reports – The National Petroleum Council</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Browse the National Petroleum Council reports, studies, and related documents." />
-  style.css
+  <meta name="description"
+        content="Browse the National Petroleum Council reports, studies, and related documents." />
 
-  <!-- Google Analytics -->
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Google Analytics 4 -->
+  <!-- Replace G-VQT9SZFT8C with your own Measurement ID if needed -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQT9SZFT8C"></script>
-.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-VQT9SZFT8C');
-  </script>
-
-  <!-- PDF Click Tracking -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
-      pdfLinks.forEach(link => {
-        link.addEventListener('click', function () {
-          gtag('event', 'file_download', {
-            event_category: 'PDF',
-            event_label: link.href,
-            report_title: link.textContent.trim() || 'Unnamed Report'
-          });
-        });
-      });
-    });
   </script>
 </head>
 <body>
@@ -45,20 +33,22 @@
 
         <nav aria-label="Main navigation">
           <ul>
-            <li>index.htmlHome</a></li>
-            <li><a href="about.html">Abouti>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
             <li><a href="members.html">Members</a></li>
- <li>reports.htmlReports</a></li>
+            <li><a href="reports.html">Reports</a></li>
           </ul>
         </nav>
+      </div>
+    </div>
+  </header>
 
-        <div class="social-links">
-          <a href="https://www.linkedin.com/company/national-petroleum-council/" class="social-link" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">in</ial-link--yt" target="_blank" rel="noopener noreferrer" aria-label="YouTube">▶</a>
-uncement-bar">
-    <a href="https://www.youtube.com/live/CnNdYBlI41c?siUyuja_-y
-      Click here on December 3, 2025 at 9:00 am to watch the 135th NPC Meeting LIVE
-    </a>
+  <!-- Optional announcement bar, keep or remove -->
+  <!--
+  <div class="announcement-bar">
+    <a href="https://www.youtube.com/live/...">Click here on December 3, 2025 ...</a>
   </div>
+  -->
 
   <!-- ===== Page Title ===== -->
   <section class="hero hero--small">
@@ -81,7 +71,10 @@ uncement-bar">
         <div class="reports-filters" aria-label="Report filters">
           <div class="filter-search">
             <label for="search-input">Search Reports</label>
-            <input type="search" id="search-input" placeholder="Search by title, year, type, or category…" autocomplete="off" />
+            <input type="search"
+                   id="search-input"
+                   placeholder="Search by title, year, type, or category…"
+                   autocomplete="off" />
           </div>
 
           <div class="filter-group">
@@ -106,7 +99,7 @@ uncement-bar">
         <!-- Results Info -->
         <div class="results-info" id="results-info">Loading reports…</div>
 
-        <!-- Reports Grid -->
+        <!-- Reports Grid (populated by reports-app.js) -->
         <div class="reports-grid" id="reports-grid">
           <div class="loading">Loading reports…</div>
         </div>
@@ -122,15 +115,42 @@ uncement-bar">
         <div>
           &copy; <span id="year"></span>
           <a href="https://www.npc.org" target="_blank" rel="noopener noreferrer">National Petroleum Council</a>
-       <a href="contact.html">Contact</a>
-rivacy.htmlPrivacy</a>
-          terms.htmlTerms of Service</a>
+          &nbsp;·&nbsp;<a href="contact.html">Contact</a>
+          &nbsp;·&nbsp;<a href="privacy.html">Privacy</a>
+          &nbsp;·&nbsp;<a href="terms.html">Terms of Service</a>
         </div>
       </div>
     </div>
   </footer>
 
-  <!-- App script -->
-  <script src="assets/re/script>
+  <!-- Reports app (this renders all the cards with links to PDFs etc.) -->
+  <script src="reports-app.js"></script>
+
+  <!-- PDF Click Tracking for GA4 -->
+  <script>
+    // This tracks clicks on ANY <a> that ends with ".pdf" anywhere on the page,
+    // including links created later by JavaScript.
+    document.addEventListener('click', function (event) {
+      const link = event.target.closest('a[href$=".pdf"]');
+      if (!link) return;
+
+      if (typeof gtag !== 'function') {
+        // GA not loaded; nothing to send.
+        return;
+      }
+
+      const url = link.href || '';
+      const fileName = url.split('/').pop().split('#')[0].split('?')[0];
+
+      gtag('event', 'file_download', {
+        file_url: url,                                      // full URL
+        file_name: fileName,                                // filename only
+        link_text: (link.textContent || '').trim() || '',   // anchor text
+        link_id: link.id || '',                             // if you give the link an id
+        page_path: location.pathname + location.search      // page where click happened
+      });
+    });
+  </script>
+
 </body>
 </html>
