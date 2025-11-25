@@ -315,7 +315,7 @@ nav a:focus-visible {
 }
 
 .hero-list li::before {
-  content: "•";
+  content: "\2022";
   margin-right: 0.4rem;
   color: var(--npc-gold);
 }
@@ -436,7 +436,120 @@ nav a:focus-visible {
   align-items: stretch;
 }
 
-/* Left column: video card */
+/* Left column: CAROUSEL STYLES */
+.featured-carousel {
+  /* card class already provides background, border, shadow, padding */
+  position: relative;
+  overflow: hidden; /* Hide extra items */
+  padding-bottom: 3rem; /* Extra space for controls */
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+  /* JavaScript will update transform: translateX(-100%) to switch slides */
+}
+
+.carousel-item {
+  position: relative;
+  min-width: 100%;
+  flex-shrink: 0;
+  display: flex; /* Makes content inside item fill its height */
+  flex-direction: column;
+  gap: 0.6rem;
+
+  /* Resetting padding for content within the item since the main .card provides it */
+  padding: 0;
+}
+
+/* CAROUSEL CONTROLS */
+.carousel-controls {
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.carousel-btn {
+  background: var(--npc-navy-dark);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  transition: background 0.15s ease;
+}
+
+.carousel-btn:hover {
+  background: var(--npc-navy);
+}
+
+.carousel-dots {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  background: #d1d5db; /* Light gray */
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.dot.active {
+  background: var(--npc-navy); /* Dark navy for active dot */
+}
+
+/* Content styles inside the carousel item */
+.news-feature-tag {
+  position: absolute;
+  top: -1.5rem;
+  right: 1.6rem;
+  background: var(--npc-navy);
+  color: #fff;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.carousel-item h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #111827;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.news-feature-title {
+  margin: 0.1rem 0 0;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-transform: none;
+  letter-spacing: 0.01em;
+  color: #374151;
+}
+
+.news-feature-body {
+  margin: 0.2rem 0 0.4rem;
+  font-size: 0.92rem;
+  color: #4b5563;
+}
+
+/* Right column: video card */
 .news-video-card {
   display: flex;
   flex-direction: column;
@@ -481,59 +594,10 @@ nav a:focus-visible {
   color: #4b5563;
 }
 
-/* Right column: feature card */
-.news-feature-card {
-  position: relative;
-  background: #ffffff;
-  border-radius: 14px;
-  padding: 1.5rem 1.6rem;
-  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.16);
-  border: 1px solid #e0e3f0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-}
-
-.news-feature-tag {
-  position: absolute;
-  top: -1.5rem;
-  right: 1.6rem;
-  background: var(--npc-navy);
-  color: #fff;
-  padding: 0.4rem 1rem;
-  border-radius: 999px;
-  font-size: 0.74rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  font-weight: 600;
-}
-
-.news-feature-card h3 {
-  margin: 0;
-  font-size: 1.1rem;
-  color: #111827;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-}
-
-.news-feature-title {
-  margin: 0.1rem 0 0;
-  font-weight: 500;
-  font-size: 0.95rem;
-  text-transform: none;
-  letter-spacing: 0.01em;
-  color: #374151;
-}
-
-.news-feature-body {
-  margin: 0.2rem 0 0.4rem;
-  font-size: 0.92rem;
-  color: #4b5563;
-}
-
 .news-cta {
   margin-top: 2rem;
   text-align: center;
+  grid-column: 1 / -1; /* Make the button span both columns */
 }
 
 /* =========================
